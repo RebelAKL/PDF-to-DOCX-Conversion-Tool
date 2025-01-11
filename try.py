@@ -5,20 +5,22 @@ from pdf2image import convert_from_path
 import pdfplumber
 from docx import Document
 import cv2
-import numpy as np
 import torch
 
 
+# Helper function to preprocess the image
 def preprocess_image(image_path):
     image = cv2.imread(image_path)
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    _, binary = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
+    # Ensure the image is in RGB format
+    rgb_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     processed_image_path = "processed_image.jpg"
-    cv2.imwrite(processed_image_path, binary)
+    cv2.imwrite(processed_image_path, rgb_image)
     return processed_image_path
 
+
+# Extract tables using Table Transformer
 def extract_tables(image_path, processor, model):
-    image = Image.open(image_path)
+    image = Image.open(image_path).convert("RGB")  # Ensure image is in RGB
     inputs = processor(images=image, return_tensors="pt")
     outputs = model(**inputs)
 
@@ -37,6 +39,8 @@ def extract_tables(image_path, processor, model):
                 tables.append(table_image_path)
     return tables
 
+
+# Extract text using pdfplumber
 def extract_text(pdf_path):
     text_content = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -44,6 +48,8 @@ def extract_text(pdf_path):
             text_content.append(page.extract_text())
     return "\n".join(text_content)
 
+
+# Recreate Word document
 def create_word_document(text, tables, output_path):
     doc = Document()
     doc.add_paragraph(text)  # Add extracted text
@@ -59,6 +65,7 @@ def create_word_document(text, tables, output_path):
     doc.save(output_path)
 
 
+# Main function to process PDF and create Word
 def process_pdf(pdf_path, output_word_path):
     # Initialize Table Transformer
     processor = DetrImageProcessor.from_pretrained("microsoft/table-transformer-detection")
@@ -92,7 +99,7 @@ def process_pdf(pdf_path, output_word_path):
 
 if __name__ == "__main__":
     # Input PDF and output Word paths
-    pdf_file = "docs\Original.pdf"
+    pdf_file = "sample.pdf"
     output_word_file = "output.docx"
 
     process_pdf(pdf_file, output_word_file)
