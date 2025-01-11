@@ -1,0 +1,8 @@
+fitz
+camelot
+pytesseract
+docx
+numpy
+BeautifulSoup4
+pypandoc
+timm
