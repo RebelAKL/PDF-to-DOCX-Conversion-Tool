@@ -1,85 +1,99 @@
-import cv2
-import pytesseract
-from pdf2image import convert_from_path
-from docx import Document
-from docx.shared import Pt
-from table_transformer.predictor import TablePredictor
 import os
-import io
+from transformers import DetrImageProcessor, TableTransformerForObjectDetection
 from PIL import Image
+from pdf2image import convert_from_path
+import pdfplumber
+from docx import Document
+import cv2
+import numpy as np
+import torch
 
-# Initialize Table Transformer
-model = TablePredictor()
 
-# OCR Configuration
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+def preprocess_image(image_path):
+    image = cv2.imread(image_path)
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, binary = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)
+    processed_image_path = "processed_image.jpg"
+    cv2.imwrite(processed_image_path, binary)
+    return processed_image_path
 
-# Function to convert PDF to images
-def pdf_to_images(pdf_path):
-    images = convert_from_path(pdf_path, dpi=300)
-    return images
+def extract_tables(image_path, processor, model):
+    image = Image.open(image_path)
+    inputs = processor(images=image, return_tensors="pt")
+    outputs = model(**inputs)
 
-# Function to extract tables and text using Table Transformer
-def extract_tables_from_image(image):
-    image_np = cv2.cvtColor(cv2.imread(image), cv2.COLOR_BGR2RGB)
-    tables = model.predict(image_np)
+    # Decode bounding boxes and labels
+    target_sizes = torch.tensor([image.size[::-1]])
+    results = processor.post_process_object_detection(outputs, target_sizes=target_sizes, threshold=0.9)
+
+    tables = []
+    for result in results:
+        for box, label in zip(result["boxes"], result["labels"]):
+            if model.config.id2label[label.item()] == "table":
+                x_min, y_min, x_max, y_max = map(int, box.tolist())
+                table_crop = image.crop((x_min, y_min, x_max, y_max))
+                table_image_path = f"table_{len(tables)}.jpg"
+                table_crop.save(table_image_path)
+                tables.append(table_image_path)
     return tables
 
-# Function to perform OCR on cropped cells
-def extract_text_from_image(image):
-    text = pytesseract.image_to_string(image, lang='rus+eng')
-    return text.strip()
+def extract_text(pdf_path):
+    text_content = []
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages:
+            text_content.append(page.extract_text())
+    return "\n".join(text_content)
 
-# Function to create Word document with identical layout
-def create_word_document(tables, word_path):
+def create_word_document(text, tables, output_path):
     doc = Document()
+    doc.add_paragraph(text)  # Add extracted text
 
-    # Iterate through each detected table
-    for table in tables:
-        bbox = table['bbox']
-        structure = table['structure']
-        cells = structure['cells']
-        num_rows = structure['nrows']
-        num_cols = structure['ncols']
+    for table_image_path in tables:
+        doc.add_paragraph("Extracted Table:")
+        table = doc.add_table(rows=1, cols=1)
+        cell = table.cell(0, 0)
+        cell.text = "Table image attached below."
+        run = cell.paragraphs[0].add_run()
+        run.add_picture(table_image_path, width=docx.shared.Inches(6))
+    
+    doc.save(output_path)
 
-        # Create Word table
-        word_table = doc.add_table(rows=num_rows, cols=num_cols)
-        word_table.style = 'Table Grid'
 
-        # Fill the table
-        for cell in cells:
-            row_idx = cell['row']
-            col_idx = cell['col']
-            cell_bbox = cell['bbox']
-            cell_image = image.crop(cell_bbox)
-            cell_text = extract_text_from_image(cell_image)
+def process_pdf(pdf_path, output_word_path):
+    # Initialize Table Transformer
+    processor = DetrImageProcessor.from_pretrained("microsoft/table-transformer-detection")
+    model = TableTransformerForObjectDetection.from_pretrained("microsoft/table-transformer-detection")
 
-            # Add text to the Word cell
-            word_table.cell(row_idx, col_idx).text = cell_text
-
-    # Save the document
-    doc.save(word_path)
-    print(f"Word document saved at: {word_path}")
-
-# Function to process PDF and generate Word document
-def pdf_to_word(pdf_path, output_path):
-    images = pdf_to_images(pdf_path)
-
+    # Convert PDF to images
+    images = convert_from_path(pdf_path, dpi=300, fmt='jpeg')
+    os.makedirs("temp_images", exist_ok=True)
+    image_paths = []
     for i, image in enumerate(images):
-        image_path = f"temp_page_{i + 1}.png"
+        image_path = f"temp_images/page_{i + 1}.jpg"
         image.save(image_path)
-        tables = extract_tables_from_image(image_path)
+        image_paths.append(image_path)
 
-        # Save extracted content to Word
-        word_path = os.path.join(output_path, f"output_page_{i + 1}.docx")
-        create_word_document(tables, word_path)
+    # Process each page for tables and text
+    all_text = extract_text(pdf_path)
+    all_tables = []
+    for image_path in image_paths:
+        processed_image = preprocess_image(image_path)
+        tables = extract_tables(processed_image, processor, model)
+        all_tables.extend(tables)
 
-        # Clean up temporary image files
-        os.remove(image_path)
+    # Create Word document
+    create_word_document(all_text, all_tables, output_word_path)
 
-# Example usage
-pdf_path = "your_pdf_file.pdf"
-output_path = "output_directory"
-os.makedirs(output_path, exist_ok=True)
+    # Cleanup
+    for path in image_paths + all_tables:
+        os.remove(path)
+    os.rmdir("temp_images")
 
-pdf_to_word(pdf_path, output_path)
+
+if __name__ == "__main__":
+    # Input PDF and output Word paths
+    pdf_file = "docs\Original.pdf"
+    output_word_file = "output.docx"
+
+    process_pdf(pdf_file, output_word_file)
+    print(f"Word document saved to {output_word_file}")
