@@ -6,14 +6,13 @@ from transformers import TableTransformerForObjectDetection, DetrImageProcessor
 from docx import Document
 from docx.shared import Pt
 
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" 
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"  # Update path to Tesseract
- 
 model_name = "microsoft/table-transformer-detection"
 processor = DetrImageProcessor.from_pretrained(model_name)
 model = TableTransformerForObjectDetection.from_pretrained(model_name)
 
-   
+
 def pdf_to_images(pdf_path):
     pdf_document = fitz.open(pdf_path)
     images = []
@@ -48,19 +47,20 @@ def get_table_dimensions(cells):
         rows.add(y1)
         cols.add(x0)
         cols.add(x1)
-    return len(sorted(rows)) // 2, len(sorted(cols)) // 2
+    return len(sorted(rows)) // 2, len(sorted(cols)) // 2  
 
 
 def perform_ocr(image, box):
     cropped_image = image.crop(box)
     return pytesseract.image_to_string(cropped_image, config="--psm 6")
 
-
 def create_word_table(doc, table_cells, image):
+    if not table_cells: 
+        return doc
+
     rows, cols = get_table_dimensions(table_cells)
     table = doc.add_table(rows=rows, cols=cols)
     table.style = "Table Grid"
-
     for cell in table_cells:
         x0, y0, x1, y1 = cell
         cropped_image = image.crop((x0, y0, x1, y1))
@@ -71,16 +71,16 @@ def create_word_table(doc, table_cells, image):
 
     return doc
 
-
 def map_non_table_content(doc, image, table_bboxes):
     text_outside_tables = pytesseract.image_to_string(image, config="--psm 6")
     for bbox in table_bboxes:
         x0, y0, x1, y1 = bbox
         cropped_image = image.crop((x0, y0, x1, y1))
         table_text = pytesseract.image_to_string(cropped_image)
-        text_outside_tables = text_outside_tables.replace(table_text, "")  
+        text_outside_tables = text_outside_tables.replace(table_text, "") 
     doc.add_paragraph(text_outside_tables.strip())
     return doc
+
 
 
 def process_pdf(pdf_path, output_word_path):
@@ -91,11 +91,13 @@ def process_pdf(pdf_path, output_word_path):
         doc.add_paragraph(f"Page {page_num+1}").bold = True
         tables = extract_table_cells(image)
 
+        if not tables:
+            continue
+
         table_bboxes = [(min(cell[0] for cell in table), min(cell[1] for cell in table),
                          max(cell[2] for cell in table), max(cell[3] for cell in table))
-                        for table in tables]
+                        for table in tables if table]  
         doc = map_non_table_content(doc, image, table_bboxes)
-
 
         for table_cells in tables:
             doc = create_word_table(doc, table_cells, image)
@@ -103,8 +105,7 @@ def process_pdf(pdf_path, output_word_path):
     doc.save(output_word_path)
 
 
-
 if __name__ == "__main__":
-    pdf_file = "docs\Original.pdf"  
+    pdf_file = "docs\Original.pdf" 
     output_word_file = "output.docx"
     process_pdf(pdf_file, output_word_file)
