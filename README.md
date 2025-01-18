@@ -53,15 +53,4 @@ For a PDF file named `example.pdf` in the `docs/` folder, the script will genera
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the functionality or fix bugs.
-
-## Acknowledgments
-
-- Thanks to the creators of the `pdf2docx` library for making this project possible.
-
----
-
-Feel free to customize the `README.md` file further based on your needs or preferences!
 
