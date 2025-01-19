@@ -80,9 +80,6 @@ def match_page_size(docx_file):
     print(f"Page size matched for: {docx_file}")
 
 def apply_fixed_width_font(docx_file):
-    """
-    Applies a fixed-width font to all text in the DOCX file.
-    """
     doc = Document(docx_file)
     for paragraph in doc.paragraphs:
         for run in paragraph.runs:
@@ -125,7 +122,6 @@ def process_pdfs_in_folder(input_folder, output_folder):
             output_subfolder = os.path.join(output_folder, os.path.splitext(file_name)[0])
             os.makedirs(output_subfolder, exist_ok=True)
 
-            # File paths
             flattened_pdf = os.path.join(output_subfolder, "flattened.pdf")
             rasterized_folder = os.path.join(output_subfolder, "rasterized_images")
             ocr_output_folder = os.path.join(output_subfolder, "ocr_texts")
