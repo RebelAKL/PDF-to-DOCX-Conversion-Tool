@@ -1,0 +1,69 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe / BabyLeo)
+MDR 106091 Babyleo TN500 Document of STED Ver 6 202-11-09
+Part No 2M60000 / BabyLeo TN 500
+Basic UDI DI 040486751306011VK19Z0008,
+Main GTIN (UDI DI) 04048675436607
+GTIN is issued by GS1
+UDI data Set is documented in Attachment
+PSC-2 — Selection of production and service process(es)
+Line 1 — Babyleo was sampled in line with overall sampling plan for Drager as new device not audited in respect of
+production. The selection was defined in line with Sampling plan
+Final production and functional test were selected as process with direct impact to safety and performance.
+PSC-5.— Infrastructure
+The process for control of the infrastructure is defined in DEMF SC6330 Instandhaltung und Reinigung. The decision on
+the specific requirement for maintenance of the equipment is performed, when the new process or equipment is
+introduced according to Qualification of Production. The result of initial evaluation of production equipment shall be
+documented as DEMF SC6330_A06 Betriebsmittel/- Anlagenbewertung
+Based on the areas observed during the audit in production (Building B23), the production areas are well organised and
+maintained.
+The verification in respect of Water supply preparation system was performed — the statement of the manufacturer , no
+maintenance was planned as the quality of water is measured based on the conductivity meter — conductivity of 2 to 30
+mkS/cm was demonstrated , with max permissible level 20 mikes.
+The manufacturer instruction was demonstrated — no requirements for periodic maintenance wre defined. Accepted
+based on observed water conductivity well within defined framework.
+ESD measures are applicable across all production area. Those include the conductive flooring, equipotential
+connections to all equipment, presents of ESD mats on the work benches (observed during the audit at Babyleo
+production) , use of ESD furniture and closing .
+The presence of control station for ESD check uniform foot ware was verified by the auditor.
+The periodic inspection of ESD measures is performed twice a year — the last inspection report demonstrated, the
+reports confirms in-depth testing of the conductivity in production area — including the floor surfaces (conductivity in the
+region of 22 — 25 MOhm was achived0 and testing of the furniture and work benches.
+Brazil
+adequate means for people flow. Was assured in production areas — verified by visual inspection during the audit at
+Building B23
+PSC-6. — Work environment
+In the audited production area Baby Leo, building 23, no special environmental requirements applied, with exception of
+Functional test Lab.
+In the Functional test area, the control of temperature is implemented. Within the span of 20...25C. The temperature is
+logged during the active test performance, the calibration of the temperature measurement system was verified during
+the audit.
+Note: the organisation has adopted the cleanroom process , this was verified as part of the audit in another production
+area
+Brazil
+Biosafety standards were not applicable in the sample dare of production — no use of chemical was observed.
+The water used in functional testing is soft water )de-ionized) — not relevant for biosafety.
+PSC 7 - Identification of processes subject to validation
+The Identification of the process subject for validation is performed as a part of Transfer to production.
+The organisation has not identified any production processes subject to validation with Babyleo TN500. This was
+challenges by the auditor during the observation on the production floor — nevertheless, no process subject to validation
+were observed in Production area for Baby Leo. The processes is 100%, final assembly does not include gluing, welding
+or soldering.
+Brazil
+NA- the processes subject to validation were identified for Babyleo TN500
+US
+NA — in the sampled and audited production are no sterilization, aseptic processing, injection molding, and welding were
+observed
+PSC 10 - Monitoring and measurement of product conformity
+Product conformity is verified during the performance of in-production and final tests, with test procedures documented
+and available electronically as part of DMR and were demonstrated during the audit as so called Production steps
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 78 of 107

@@ -1,0 +1,106 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Service Center) / # 90464 (ATLAN Series B23)
+
+ID: 31505
+
+Control of monitoring and measuring equipment (7.6)
+
+PSC13 monitoring and measuring devices needed _ (GM) 7.6
+The organization has determined the monitoring and measuring devices needed to provide evidence of
+conformity to specified requirements. Devices are listed in MIMS System.
+The monitoring and measuring equipment used in production and service control has been identified, adjusted,
+calibrated and maintained, and is capable of producing valid results. For verification several samples in Service
+enter and ATLAN production have been audited.
+Calibration of measurement equipment is performed in specific intervals (usually once a year or after 18
+months)
+Calibration is currently done by “Kalibrierlabor Revalstr.” which counts as provider. In some cases devices
+can be caibrated with other external partners (e.g. Testo)
+All measuring devices are listed and controlled in MIMS with ID-number, last calibration date, next calibration
+date, calibration evidence.
+Responsible persons in Service Center Moislinger Allee and production get once a month an email with status
+of devices for notification of devices that must be calibrated.
+Futhermore, each employee of service center is responsible to check calibration status of used devices which
+is labeled on each device.
+Calibration certificates are stored and maintained in MIMS
+Devices are marked with an ID number and the date of the next calibration.
+
+Audited Examples :
+
+///Moislinger Allee — “Service center’///
+
+Secu Life PS 300 Patienten Simulator MIMS 302658 (Priifplatz 107)
+Tempstecker 37.0 Grad Inventarnummer 302658
+
+///Revalstr. — “Line 2—ATLAN  "///
+
+Testo 622 (humidity/Temp/pressure) MIMS No 101983,
+
+Manometer 6 bar MIMS 10495,
+
+Flaschendrucksimulation MB01008 MIMS 302777
+
+PSC14 monitoring and measuring devices validity of previous measurements in case of _non- confirming measurement
+devices (GM) 7.6
+
+MDR 2017/745 / IVDR 2017/746
+e Test equipment used shall be possible to trace back adequately the calibration of that test equipment. (MDR /IVDR
+Annex IX_2.2 (e) , MDR Annex XI 6.2)
+
+The organization assesses (and records) the validity of previous measurements when equipment is found not
+to conform to specified requirements, and takes appropriate action on the equipment and any product affected.
+The control of the monitoring and measuring devices is adequate to ensure valid results.
+
+Every device which is processed in “Service Center Moislinger Allee” will be listed in SAP system with
+incoming date. In SAP the device will be linked to a dedicated work place with ID. Every workspace has a list of
+measurement equipment used unique at this place.
+
+In production all used test equipment will be documented in every test protocol in SAP. It will be possible to
+trace back every used device with related time-period and related concrete tests and test results. The status of
+measurement-device at time of usage can be traced back in MIMS.
+
+Monitoring and measuring devices are protected from damage or deterioration e.g. via limited access to the
+“Service Center building Moisslinger Allee” and producstion and the floor where the devices are in usage.
+Every employee is teached in handling of the measurement equipment.
+
+No such event occurred so far.
+
+Samples for audited Mesurement equipment with rekated status which have bee checked at workplaces and in
+MIMS find under PSC 13.
+
+Customer property (7.5.10)
+
+PSC20 customer property (GM) 7.5.10
+///Service Center - Moislinger Alee///
+ATLAN A300 labeled with red sticker found in third level Service Center - Moislinger Alee, label No
+3085421308
+
+Customer Property is identified as such with label when received. The reception of devices from customer is
+managed using the service and maintenance procedure.
+
+Every devices in Service center are labeled as such with “Meldungs Nummer” /order no in SAP and colored
+sticker. The red sticker indicates that cleaning procedure have been finished.
+
+Non-confrming product (8.3)
+PSC22 identification, control, and disposition of nonconforming products is adequate (LA) 8.3
+///Revalstr. — “Line 2—ATLAN  "///
+There are two areas for storage of non-conforming products. All Non- conforming product is labeled with
+“Sperraufkleber”, edged with red color. The “Sperraufkleber” contains serial no, product code, order no and
+reason for blocking.
+In case of Non-conforming product components an additional specific cupboard is used.
+Samples Non - conforming product handling have been audited:
+Meldungs No 810000417804 ATLAN A300XL ASSK-0147
+ATLAN A300XL ASSK-0147, order No 62728824
+N 5 x Sperrlager 1 piece , MK07201
+Arbeitsplatz BUM Sperrbereich Order No 62728313,Material No 8609250
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 54 of 107

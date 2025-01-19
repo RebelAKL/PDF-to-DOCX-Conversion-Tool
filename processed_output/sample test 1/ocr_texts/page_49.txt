@@ -1,0 +1,117 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+For each release, the stages include
+- Planning
+- Sprint development
+- Release
+- Deployment
+
+8.3.3 Design and development inputs
+
+$1000000063642212594 DDB External requirement 2022-08-11
+Following defined as design inputs
+
+External requirements:
+
+- Functional and performance requirements
+
+- Normative requirement 9001:2015
+
+- Data protection security 2016 /679
+
+- Functional and performance requirements — the
+
+- The required verification and validation activities — validation in each sprint is performed as
+automatic test
+
+Backlog — as list of internal requirements
+
+Note from the auditor: it was observed that the EN 82304 Health Software is potentially applicable and shall
+be regarded as mandatory design input. It was explained by Draeger that this standard family is
+considered in the new edition of the DEMF IN6000, started from V02, and will be applied after
+implementation of the procedure.- accepted as QMS continuous improvement process
+
+8.3.4 Design and development controls
+
+According to new process, DEMF IN6000 A05 List of implemented Work Items Minimum Content
+
+Security requirements demonstrated — documented in DMC -107301 product security whitepaper
+
+The stages include
+
+Creation of Source Code
+
+Verification of Source Code and building Software
+
+8.3.5 Design and development outputs
+Building Release Candidate
+
+- List of implemented Work Items
+
+- Product approval
+
+- Software Bill of Materials
+
+- Approval of the released candidate - approval document was demonstrated
+8.3.6 Design and development changes
+
+No particular change process is defined, the changes are understood as repetition of the Sprint cycle
+
+Reviewed
+documents
+and records
+(identification
+and revision)
+
+Marketing presentation Connected — Lung _ protective Ventilation Analytics
+Hosppital-data-analytuics-cp-DMC-107167-en master Aug 2023
+
+LPV-A_ Rational for medical device is non-medical device product Ver 0 2023.090
+DEMF IN6000 Development of non-medical SW products Ver 00 01.05.2023
+DWAG |IN4200 : Design Rev. 01.00
+
+IN4200-en-01 design Ver 02
+
+DMC 106527 Lung Protective Ventilation analytics Anesthesia Data Driven solutions Marketing Brochure
+Design and development plan Rev 3.7
+
+$1000000063642212594 DDB External requirement 2022-08-11
+
+DMC -107301 product security whitepaper
+
+The device approval document 2023-04-26
+
+Names and Room: F05-E1-356
+titles of Connect LPV:
+persons Fiorian § Zichlin- QA/RA
+interviewed René Carolus Product Owner CDA
+Andreas Weng Head of Tech. & Dev. Global Services
+Kevin Dornau Director Quality & Regulatory Affairs Business Unit Therapy
+Markus Hielscher Quality System Manager Auditing
+Mark Schenk Product Manager
+Marcel Clute-SimonHead of Product Quality - BU Therapy
+Leona Schneider (scribe) EHS Manager
+Products, Connect Lung Protective Ventilation Analytics - Anesthesia (LPVA)
+components,
+or projects
+reviewed
+Statement This process is effectively implemented and conforms to requirements.
+concerning
+conformity QO Actions are needed for this process to conform to requirements. See audit finding list.
+based on
+objective
+evidence
+
+reviewed for
+this subsystem
+
+ID: 31505
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 49 of 107

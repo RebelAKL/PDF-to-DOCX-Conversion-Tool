@@ -1,0 +1,44 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (Revalstrae / Central Supply Hoses)
+CS Hoses Risik asessemnt V2.3 2023-07-04
+Production Risk Control measure: CS_RM-566 The product shall be delivered Clean but not sterile
+CS-TSR-432 The Product shall not have a level of hydrocarbon greater than 550mg/spm and be free from particles acc.
+To 1SO15001
+Verification report CS_TRS_156_TR3
+Test report 14-00128-PR-004 rev. 0 0 Test Result: Particle measureent, Oils Content, Ignition temperature passed.
+Names and Dirk Geisteier (Head of Production Line Respiratory Care/ Warming Therapy)
+titles of Frank Wehde (Teamleiter Monitoring & IT, Kits and Accessories)
+persons Hannes Fabig (Quality Engineer - BU Therapy)
+interviewed Andreas Maresch (Industrial Engineer / Pre-installation Manager Monitoring & IT, Kits and Accessories)
+Alexandre Barette (Product Quality Manager)
+Jochen Meyn (Quality Manager Operations - BU Therapy)
+Alexander Kuhn (Industrial Engineer)
+Andre Moller (Quality Engineer)
+Tony Vertein (Toby Vertein Entw. OPT)
+Axel Birger (Industrial Engineer)
+Markus Hielscher (scribe) (Quality System Manager Auditing)
+Products, Central Supply Hoses
+components,
+or projects
+reviewed
+Statement Actions are needed for this process to conform to requirements. See audit finding list.
+concerning
+conformity
+based on
+objective
+evidence
+
+reviewed for
+this subsystem
+
+ID: 31505
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 70 of 107

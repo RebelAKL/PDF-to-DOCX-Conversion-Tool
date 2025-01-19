@@ -1,0 +1,111 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Measurement, Analysis, and Improvement - CAPA and Internal Audit
+
+ID: 31505
+
+For both -CAPA and “documented action’- root cause and risk analysis, actions, corrective actions and effectiveness
+checks have to be defined and implemented.
+
+It is differentiated in CAPA procedures between quality problems and nonconforming product. Two different procedures
+are in place. The sources and impact of all issues will be analyzed and documented.
+
+DEMF/DCS PQ2510 product CAPA
+
+DEMF PQ3300 system CAPA
+
+Furthermore, the handling of nonconforming product are defined in:
+
+DEMF SC6110 : Behandlung von Abweichungen in der Produktion
+
+DEMF SC6111 : Lenkung von fehlerhaftem Material
+
+These procedures are linked to each other.
+
+For each documented action (issue) and CAPA correction and corrective - (preventive) action) is defined.
+
+USA:
+
+Verify procedures ensure that information related to quality problems or nonconforming product is disseminated to
+those directly responsible for assuring the quality of such product or the prevention of problems [21 CFR
+820.100(a)(6)].
+
+Confirm procedures provide for the submission of relevant information on identified quality problems, as well as
+corrective and preventive actions, for management review [21 CFR 820.100(a)(7)].
+
+The manufacturer ensures that information about quality problems or nonconforming products are properly
+disseminated to those directly involved in the maintenance of product quality and to prevent occurrence of such
+problems. This is assured via regular Quality Boards meetings in each BU or product family/PQB.
+
+During the audit the auditor focused according to audit plan on system related samples.
+The CAPA’s (Systems and product) are analyzed and results provided for MR: see One pager CAPA
+
+Brazil:
+
+Verify that the manufacturer has ensured that information about quality problems or nonconforming products are
+properly disseminated to those directly involved in the maintenance of product quality and to prevent occurrence of
+such problems [RDC ANVISA 16/2013: 7.1.1.6].
+
+The manufacturer ensures that information about quality problems or nonconforming products are properly
+disseminated to those directly involved in the maintenance of product quality and to prevent occurrence of such
+problems. This is assured via regular Quality Boards meetings in each BU or product family/PQB.
+
+During the audit the auditor focused on system related samples.
+
+MAI 1 - Procedures for measurement, analysis and improvement (GM) => Focus on Product
+
+The process to measure, analysis and improve the QMS is established and documented. The process describes the
+evaluation of the data from the product.
+
+Investigations are conducted to identify the cause of the detected and potential nonconformities.
+
+Input from various sources, which may represent a complaint is registered, and investigated. The investigation is
+conducted as part of NC, CAPA and supplier quality processes in line with requirements of respective SOPs.
+
+The CAPA criteria are defined (risk negative impact on product safety, caused death or injury, cybersecurity
+unacceptable risk, not fulfilled regulatory requirements) when an action should be evaluated. In case no action is
+started this will be documented. CAPA can be also started without the intervention of the Quality Board, depending on
+the meeting of the criteria for CAPA.
+
+When CAPA are set and implemented, these should be evaluated for effectiveness, including the root cause analysis.
+All will be documented in the product CAPA in TrackWise. The roles and responsibilities are defined. The timeline for
+processing is defined e.g.: 7 days for initial analysis, 60 days for implementation of CAPA plan. It is possible to
+include annexes in the documentation.
+
+If the CAPA has a systematic cause, there is a link to the system CAPA process and the other way around.
+
+The KPls are defined for CAPA process and are monitored in monthly meeting. The last 12-month report was
+reviewed states the 78% of CAPAs are completed withing set up due target. 22 CAPA were completed in 2022. In
+time completion rate: risk assessment 89%, Investigation 41%, completion 65%The KPIs are splitted in BU and shows
+CAPA status: ongoing, completed, overdue or effectiveness check overdue.
+
+(Brazil, US) Data will be analysed in Quality Boards, these will be managed by the product quality manager. This
+information includes statistical information or individual cases e.g.: complaints. The decision to start a CAPA will be
+taken in the Product quality board and documented. It is taken based on three criteria.
+
+When CAPA actions are marked as completed and will be closed only when the effectiveness check is completed.
+
+Additional country-specific requirements:
+
+Brazil (ANVISA):
+
+The manufacturer ensures that information about quality problems or nonconforming products are properly
+disseminated to those directly involved in the maintenance of product quality and to prevent occurrence of such
+problems. This is assured via Quality Boards meeting as describe above.
+
+United States (FDA):
+
+The Procedure ensures that information related to quality problems or nonconforming product is disseminated to those
+directly responsible for assuring the quality of such product or the prevention of problems — This performed via Quality
+board mechanism and statistical approach as discussed above
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 18 of 107

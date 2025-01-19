@@ -1,0 +1,47 @@
+‘_.
+
+Audit Report Ty)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+2.6 Areas not audited although within the original Audit scope
+
+All areas / processes from the planned audit scope as defined in the audit plan were audited.
+The audit was not conducted as scheduled in the audit plan. Followings were skipped or Audit was not
+sufficient:
+
+2.7. Obstacles encountered, reliability of the Audit
+
+There were no obstacles encountered or unresolved issues, if identified, that could comprise the reliability
+of the audit findings and conclusions.
+
+Documents, records, and qualified answers were available within a reasonable amount of time. The Audit
+was conducted within the timeframe scheduled in the audit plan.
+
+The Information and Communication Technology (ICT) methods described in the audit plan were employed
+effectively throughout the audit.
+
+2.8 Verification of effective implementation of corrective action(s) from the previous Audit
+
+The Audit Team evaluated all measures related to the nonconformities from the previous audit(s). The audit team
+verified that all measures were effectively implemented as planned. The implementation and effectiveness of the
+measures were followed up by the company using their internal processes.
+
+N/A, no nonconformities during previous requiring a follow-up
+
+Below is a summary of the evidence reviewed to verify the effectiveness of the implemented actions for
+the nonconformities from the prior audit(s).
+
+e (Please specify or refer to the section of this report that’s addresses the follow-up of previous
+
+conformances)
+
+e
+
+e
+The Audit Team was not able to close all nonconformities from the previous audit(s). See new finding
+number(s):
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 102 of 107

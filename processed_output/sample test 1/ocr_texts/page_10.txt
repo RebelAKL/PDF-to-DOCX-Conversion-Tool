@@ -1,0 +1,101 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Management - Quality Management System
+
+-Quality policy (defined in the QMH- not changed in 2022/2023, covers integrated MS) and objectives , incuding
+quarterly Quality reports, focus issues: SCA some actions behind target regarding planned timelines- action item
+management reactions and further dates with focus on this topic.
+-Human Ressources and changes of responisbilities ere represented in current MR e.g. changes in Q&RA&clinical
+responsibilities, overview regional sales and services.
+-Focus for BU’s e.g. BU Therapy launches ATLAN family
+-2023 Quality&RA initiatives (objectives): e.g. support for product portfolio (Drager One), organizational topics. The
+genaral topics will be followed in detail during further meetings: example 1 “channel one complaint project” (global
+improvement project), improvement of efficacy of complaint process; example II “Labeling @Drager: centralization of
+labeling topics and used tools
+-MR Inputs: product performance/Product compliance/risk Management/Usability/Handling of complaints and
+CAPA’s/FSCA/Design changes/Internal external audits/QMS changes/performance Service, distribution and
+production
+For all of these Input topics it exists a One Pager to show the status of all of the topics: find the samples under records
+2023 Initiatives are documented top-down, and broken down into projects (slide 22 in Mgmt review PPT), both for
+Medical, Corporate and Safety. Example: Labelling @Drager. For this project, a separate organisational structure
+under the Global Q&RA has been establish.
+Establisehd Management review Inputs are:
+- Product performance pro BU
+- Product Compliance incl. new/updated regulatory requirements
+- Product Risk management incl. Usability
+- Product Feedback
+- Handling Complaints incl. reporting to regulatory authorities
+- Handling CAPAs focus System and Focus Product CAPAs
+- Handling design Changes focus Q&RA
+- Handling Field actions
+- Performance Sourcing
+- Performance Production
+- Performance Distribution
+- Performance Service
+- External + Interbal audits
+- Changes Affecting QMS
+- Environmental, health and performance.
+Management Review has been signed as to be Adequate and suitable quality policy & objectives, adequate and
+suitable QMS, Risks and Opportunities considered, Q-Targets for next year are approved, Actons and decisions are
+committed.
+Based especially on Action Item 4 (Product Risk Management) and 5 (Oxygen 90+), the Top mangement poved
+commitment by the decision to note down an action item into the acton Item List, although it was not suggested by the
+Management review team.
+Action Item list contains a status a status indicator for the progress and completion of actions. This review is done at
+least bi-annuallly and aligned with the quarterly Q-Reports for management.
+M10 - Distribution of Devices with Appropriate Marketing Authorization (GP)
+The organization has defined and implemented controls to ensure that only devices that have received the appropriate
+marketing authorization are distributed or otherwise offered for commercial distribution into the applicable markets.
+The devices are listed the Global Matrix data sheet, which insures only the registered devices are correctly distributed
+in the respective region.
+To add the device to the global Country Matrix, the regional organizations shall submit the Global Matrix request
+the table of applicable requirements for each jurisdiction is documented to ensure the regulatory requirements are
+maintained.
+The physical distribution is controlled by ERP system. The Market Clearance Form is field by the Market Clearance
+manager and forwarded to the SAP administrator, to setup the permitted distributing regions.
+The process for maintenance of the devices in SAP (Market Clearance) was demonstrated - documented as DCGL
+PQ12180 -en -037-01 Rev 1 Country Matrix
+Foe registration expels for specific devices - REF to DMA+FR-1
+M11 - Management Commitment (all auditors GM version) 5.1; 5.5.3
+Based on the sampled evidence, it was observed that Top Management has demonstrated the commitment to the
+QMS, this particularly achieved by the provision of resources, establishment of respective processes, analysis of data
+and active participation in the Management review.
+E.g. needed lacks have been identified (CAPA process), topics of IRS are adressed and evaluated. Relevant roles and
+responsbilities are defined. Strategic quality issues are defined and followed.
+
+Reviewed Documents (all, also M1, M8, M11):
+
+documents and
+records
+(identification
+and revision)
+
+ID: 31505
+
+DEMF CS1100 : Management Review DEMF - CS1100 - en - 00.00 , Rev. 00.00
+
+DEALL HR3400 : Employee Qualification Process DEALL HR3400 - en_de - 05.00 , Rev. 05.00, last changes:
+implementation of some digitalization aspects; administrative changes, effectiveness checks change of head, approval
+of trainings adjusted, documentation of effectiveness checks integrated in trainings measure, adjustment Anlage .
+A01/A01/A011/A012__, global process: product and user trainings are integrated in this process.
+
+New personnel should be trained during the first 3 months not longer than 1 year. Some trainings (“Arbeitssicherheit”
+should be done on the first day).
+
+ODWAG/DCGL CS1000-de-07.00 Quality Manual Rev 08, 01.05.2023 including policy integrated MS
+
+Template Teilnehmerliste:
+
+DEALL HR3400 Anlage A01-en_de-0.5.00, including trainer, date, trainee, availability, effectiveness (in case of
+effectiveness check during training)
+
+Template Q-Check:
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 10 of 107

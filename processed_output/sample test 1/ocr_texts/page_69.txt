@@ -1,0 +1,118 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #90464 (RevalstraRe / Central Supply Hoses)
+
+Brazil (ANVISA):
+Verify that the manufacturer has established and maintains procedures to ensure integrity and to prevent accidental
+mixing of labels, instructions, and packaging materials.
+
+Confirm that the manufacturer has ensured that labels are designed, printed and, where applicable, applied so that they
+remain legible and attached to the product during processing, storage, handling and use.
+
+Canada (HC):
+Verify that the manufacturer maintains objective evidence that devices meet the safety and effectiveness requirements of
+the CMDR.
+
+PSC17 Production record; evidence of compliance of released devices
+
+Determined if the manufacturer has established and maintained a record of the amount manufactured and approved for
+distribution for each batch of medical devices, the record is verified and approved, the device is manufactured according
+to the file referenced in task 16, and the requirements for product release were met and documented.
+
+Brazil (ANVISA):
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140 - en - 04.00 , Rev. 04.00
+
+United States (FDA):
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140 - en - 04.00 , Rev. 04.00
+
+PSC-21 Acceptance activities
+Verified that acceptance activities assure conformity with specifications and are documented.
+Confirmed that the extent of acceptance activities is commensurate with the risk posed by the device.
+
+Brazil (ANVISA):
+DEMF PQ8050 : Statistical Techniques DEMF PQ8050 - en_de - 00.00 , Rev. 00.00
+
+United States (FDA):
+DEMF PQ8050 : Statistical Techniques DEMF PQ8050 - en_de - 00.00 , Rev. 00.00
+
+PSC-22 Identification, control, and disposition of nonconforming products
+
+Reviewed
+documents
+and records
+(identification
+and revision)
+
+ID: 31505
+
+DEMF SE4300 : Factory Services DEMF SE4300 - en - 01.00 , Rev. 01.00
+
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140-en-04.00 , Rev. 04.00
+DEMF SC6440: Labeling DEMF - SC6440 - de - 00, Rev. 0
+
+DEMF GM2150 : Traceability of products and components DEMF GM2150 - en_de - 03.00 , Rev. 03.00
+DEMF SC6110 : Behandlung von Abweichungen in der Produktion DEMF - SC6110 - de - 00.00 , Rev. 00.00
+DEMF SC6120 : Qualitatskennzahlen in der Produktion DEMF - SC6120 - de - 00.00 , Rev. 00.00
+
+DEMF SC6130 : Produktionsstopp und Lieferstopp DEMF - SC6130 - de - 00.00 , Rev. 00.00
+
+DEMF SC6200 : Produktherstellung DEMF SC6200 - de - 02 , Rev. 2
+
+DEMF SC6500 : Dokumentation von Produktionsprozessen DEMF SC6500 - de - 00, Rev. 0
+
+DWAG OF5213 : Produktverpackung DWAG - OF5213 - de - 01, Rev. 1
+
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 03.00 , Rev. 03.00
+
+Records:
+
+Raumedic Gas Supply Hose Air 200m 5000782 (no Caps)
+
+14bar-Test Formblatt Weekly Priifanweisung/Priifplan 8608533 2016-10-13
+
+Filled Form Weekly 14bar-Test Priifplan for Hose Sample M36011 3m 2023-09-18
+
+PTS 8608533 ZV-Schlauche Rev. 03
+
+Hardcopy IFU 9053929 Ed. 6 2021-02 in Production
+
+Lagerzugangsschein zu Fertigungsauftrag 65580704
+
+Wartungsprotokoll der Produktlinie ZV-Schlauche 2023 (hardcopy record template signed 2022-12-22, filled)
+Weekly measurement length angles table week 38
+
+Calibration Certificate MIMS 412258/3808 FC0750 Leak Detector nextCal 2024-09 412258 _20230915_WKSPErev00
+internal Calibration
+
+03_1801_MB01593_Kalibrieranforderungen MB01593
+
+Kalibrierprotokoll MIMS Grenzlehre 4222340 ID 331773/2023-09-14 MTN Calibation Services, including assessment of
+Calibration Certificate and signature (2023-09-19) gemaf& Calibration Routine KA MB01593 Rev. 02 from2019-09-10
+
+Non-conforming Product example
+
+3 Examples 08/2023 09/2023
+
+Fertigungsbegleitende Qualitatsmeldungen
+
+810000410409 (for 5002096, Winkelstecker, Oberflache beschadigt), with refernce to Fertigungsauftrag (65557194,
+M3601 1; Air-ZV-Schlauch)
+
+810000412481 (for 2002085 Stecker, kauttes Gewinde) with refernce to Fertigungsauftrag (65357, M36020 Air-ZV-
+Schlauch)
+
+810000412456 (for M36772 Aufkleber verklebt, unansehnlich)) with refernce to Fertigungsauftrag (65565331, M36026,
+Air-ZV-Schlauch)
+
+FMEAVRisk nalysis
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 69 of 107

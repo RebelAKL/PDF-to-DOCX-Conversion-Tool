@@ -1,0 +1,120 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Design and Development
+
+ID: 31505
+
+The changes were accumulated as following:
+
+DCR-2019-002082 labeling amassing - change of the labels size - SW only
+DCR-2021-002127 ISM-IEC TR60601-4-5
+
+DCR-20201 003730 - approval of the Zeus IE
+
+The package summary is in process of implementation and is not accomplished as a packages, therefore this cannot be
+used for the full assessment.
+
+The example of the changes was assessed during the audit:
+The reports rare maintain in SAP in controlled way.
+11134555 Design change review report - for the release 3.02n PKF-202-003043
+The changes contained — addition IFU languages / languages added
+The design change evaluation review report
+
+DCR-2020-002999 IFU Translation for Slovakia 2020-06-02
+
+Verified that the DCR was suitably documented, implemented and verified
+Validation Form PID Printing process 2020-12-17
+
+The printed documentation report
+
+The complete Design change documented , the new tool ARAS used
+
+Australia, Brazil, Canada, Japan, US)
+The regulatory affairs department is also including in the pre-tailoring investigation considering the requirements for each
+country where the device is marketed and the notifications to be done previous to the approval of the change.
+
+D&D #14 - Design review (GP)
+
+The design reviews are established and the content for each review is defined accordingly. For medical devices the
+reviews are performed according to DWAG IN4200-en-01.00 Design.
+
+The Design Sub Process contains five major Design Reviews on system level:
+
+. System Requirements Review
+
+System Architecture Review
+
+System Integration Review (for each integration loop).
+
+Verification Readiness Review
+
+System Validation Review
+
+Besides these major Design Reviews on system level, there are additional Design Reviews that are part of other process
+steps that are required as completion criteria. Design Reviews have to be
+
+conducted according to IN4204. Design Review reports are records and have to be filed into the DHF.
+
+Example — Example ///SW Smart Pilot View -design change to Rev 3.03///
+
+As this design project was controlled as design change , standard design review requirements were not applicable. The
+project was released as 11134555 Design change review report
+
+US
+
+Procedures ensure that participants include representatives of all functions concerned with the design stage being
+reviewed and an individual(s) who does not have direct responsibility for the design stage being reviewed.
+
+D&D #15 - Impact review of design and development changes on previously made and distributed devices (GP)
+
+An evaluation of the impact of the changes on already delivered devices is included in the template for Pre-Tailori8ng
+Investigation PTI. For the examples taken, it was possible to follow the impact analysis and the corresponding activities
+to be performed on the devices on the field.
+
+Example ///SW Smart Pilot View -design change to Rev 3.03///
+Drager has demonstrated PTI PKG-2021-002776 from 23.05.2022, which encompasses charges for Smart Pilot View
+such as DCR-2022-002200 and DCR-2022-002214
+
+D&D #16 - Design transfer (GP)
+
+For Software products, the process for Design Transfer of medical software is performed according to DWAG IN4206
+Software Approval and Design Transfer and is documented in DCS IN4206-110
+
+The release and transfer includes the following steps:
+
+- Check software development plan and deliverables
+
+- Check software verification
+
+- Check list of non-conformities
+
+- Check Software Build
+
+- Assure reliable delivery -Assure reliable delivery of the released software without corruption or unauthorized change,
+and where media are used that contain the released software, address their replication, media labeling, packaging,
+protection, storage, and delivery. Documented as Plan for malware-free shipping
+
+- Create and upload Software Archive according to IN4206 ARAS Manual
+
+Logistically relevant software needs to be transferred from development to production and service. The software
+executables become part of the DMR, stored in PLM SYSTEM, on DVDs or on a server with controlled access and
+configuration control. The following documentation structure is fully supported by PLM SYSTEM but is also applicable to
+other storage concepts.
+
+Example ///SW Smart Pilot View -design change to Rev 3.03///
+
+Elements of approval and design transfer records as required by DCS IN4206 were requested and assessed during the
+audit:
+
+Verification summary report — 11149420 verification summary report Rev 08
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 33 of 107

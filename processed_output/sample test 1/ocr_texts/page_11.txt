@@ -1,0 +1,79 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Management - Quality Management System
+DEALL HR 3400_A13-en_de-01.00, name of employee, ID, role, description of qualifications, signature of employee
+and team leader
+Template individueller Einarbeitungs Plan:
+DEALL HR 3400_ xls (related information 15)
+DWAG |N4203 : Product Verification DWAG IN4203 - en - 02.00 , Rev. 02.00
+DEMF CS1100 : Management Review DEMF - CS1100 - en - 00.00 , Rev. 00.00
+DWAG CS1000 : Drager Integriertes Managementsystem - Handbuch der Dragerwerk AG & Co. KGaA DWAG
+CS1000 - de - 08.00 , Rev. 08.00
+DEALL PQ3130 : Control of Documents and Records/ Lenkung von Dokumenten und Aufzeichnungen/ Records
+DEALL PQ3130 - en_de - 04.00 , Rev. 04.00
+PQ2110 A01 Template for Table of Contents
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 03.00 , Rev. 04.00
+Management-review summary 2023- 23 March 2023
+Action Items List (from Management review) 2022
+Records (all, also M1, M8, M11):
+DCGL PQ12180 -en -037-01 Rev 1 Country Matrix
+Organisational Chart Medical Division 2023-07-01
+Core Procedures DWAG 20230914.pdf
+Audit Trail (Electronic Documentation of approval) for DCGL PQ3130-en-04 from 2022-11-25
+Audit Trail for approval of local adopted global standard: eMail communication to DCGL SE1200 “Installation &
+Commissioning” between Drager Safety Equipment China and Global process owner of Dragerwerk, dated 2023-06-
+28
+DEALL PQ3130_A02 Documentation Matrix
+PQ3130_2023-06-29_Documented_Procedures_older_than_10_years
+Distributor agreement Drager australia PTY Ltd. 10.08.2018
+STED_Table_of_Contents_T500.pdf / MDR106-011, compiled 2023-08-16
+Technical Documentation is kept in ClearCase Configuration Management Tool and can be manually exported to e.g.
+file server structure or design dossier requirements. Respective structural needs are decsribed within PQ2110
+Regulatory approval to Market
+M2 (GM
+TAatigkeitsbeschreibung Stefanie Hirsch, 01.09.2023, signed by Toni Schrofner and Stefanie Hirsch, QRA Medical and
+Corporate, Purpose of function e.g. representation and awareness Q\M, strategic plans, integrated MS, audit
+programs, continuous improvement, management representative for QMS regulations: Compliance Committee and
+Risk committee.
+Liste ausgewahlter Beauftragter im IMS, Stefanie Hirsch MR, 11.09.2023, rev 09
+PRRC’s:
+Konformitat der Produkte: (Kevin Dornau (BU Therapy) Marcus Vorwerk (BU WPI), Timo Harms (BU HCA) Jakob
+Kleiss| (BU Patient Monitoring)
+TD: Kevin Dornau (BU Therapy) Marcus Vorwerk (BU WPI), Timo Harms (BU HCA) Jakob Kleiss! (BU Patient
+Monitoring), Bettina Mébius (Central Regulatory affairs), Stefanie Hirsch ( QRA)
+PMS Inverkehrbringung/Vigilance : Sonja Hilmer
+Anhang XV Kapitel 2 (Priifprodukte): Dr Sonja Hering
+M3 (GM
+High level description of policy in Intranet
+DCP 0005-en-040-02 Intranet including link to Quality Broschiire: aspects Quality /Environment/Employees/Society,
+2019
+ODWAG/DCGL CS1000-de-07.00 Quality Manual Rev 08, 01.05.2023 including policy integrated MS
+Presentation Drager Recertification Audit 2023, objectives/initiatives:
+1. Finalization of MDR program-> last steps realization (until 2024
+2. QMS readiness Drager One-> new portfolio with focus on SW connected devices.
+3. Regulatory management; Rapid (SAP module) migration to ARAS
+4. Advance regulatory knowledge/awareness
+5. CAPA process improvement
+6. External triggers: UDI/UKCA and others
+7. Restructuration of complaint-process (Channel One)
+Objectives will be reviewed on a monthly base in management Team:
+One Pager RIM (3) strategy meeting on 07.09.2023 , evaluation of project status, weekly QRA standup meeting,
+responsible Marcus Richter, first step regulatory information management (integration from WWRD and RAPID into
+one platform): start 02/2021 planned finalization 07.2024, fulfillment status total project 60%, fulfilment this year 45%,
+top 3 topics 2023: _ fulfillment SW packages/user tests/ migration preparation, output e.g. low deadline performance
+IT provider action: RIM Guidance Board, last meeting 05.09,2023, e.g. some tasks will be handed over , project risk
+management, low resources Mediatec, responsible persons for specific resource risks
+M4 (GM
+Organizational Chart Drager, 01.07.2023 B Therapy/ BU Patient Monitoring/BU WPI/ BU HCA/BU Global Services
+Organizational Chart Drager, 01.09.2023 Q&A
+Liste ausgewahlter Beauftragter im IMS, Stefanie Hirsch MR, 11.09.2023, rev 09
+M5 (HD
+DWAG CS1000-de08.00_english translation
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 11 of 107

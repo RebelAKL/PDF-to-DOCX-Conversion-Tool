@@ -1,0 +1,117 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+The component part MP01061 Experationventil Einweg valve categorized as critical components for Traceability
+(exchange of Energy) Ct 50
+
+PUR #4 - Extent of controls applied to the supplier and the purchased product; criteria for selection, evaluation, and re-
+evaluation of the supplier
+
+Criteria for selection, evaluation and re-evaluation of suppliers are given within procedures and annexes DEMF SP2110,
+DEMF 2110_A04-en-03.00, DEMF SP625005.05.2023. The Supplier Control criteria documented in DEMF SP2110, are
+used to define the type and extent of control to be exercised over the product, services, suppliers, consultants and
+experts.
+
+Suppliers are categorization in different approval category e.g. ZEX approved-supplier of EX material, Z01- approved
+supplier for finished medical devices, DC -consultants and experts.
+
+KPI are basically splatted to the logistic performance (date reliability, VMI performance) and quality performance (FAI
+Performance, failure rate performance, ship holds). Based on that KPIs suppliers are classified to:
+
+High performance supplier > 95% to 100 %
+
+Adequate supplier > 75% to 95%
+
+Low performance supplier > 60&% - 75 %
+
+Poor performance supplier up to 60%.
+
+Risk categorization of suppliers and service providers and the controls required for a sourced product or service depends
+on many factors and are reviewed for all suppliers and service providers which are quality relevant This take a place in
+separate meetings, as a part of product quality board or as a part of reviewing overall purchasing performance.
+
+The inputs are global/ local supplier quality targets, total failure rates, supplier evaluation planning and results, supplier
+audits.
+
+Following control were observed for specific examples selected in Task PU-2
+
+Example 1
+
+Prof. Dr. Imhoff — supplier Consultant fir Clinical Evaluation: The supplier is released from 2022
+Reapprovals was performed according to reclassification for the supplier 2019 Prof Imhof
+
+The supplier qualification cat DRO according to SPS21
+
+Supplier Questionnaire Service provider for Clinical evaluation 2018-08-13
+
+97506 Disapproval — re-approval of the supplier b
+
+Example 2:
+
+Supplier Zollner (power supply)
+
+96849 First approval Questionnaire Zolner electronic ag, Zandt , Germany - 218-11-2011
+
+CS96849 Production Records - indicated as Traceable Class 40 and 50, the part is relevant for Electrical safety (P3)
+The initial approval indicated 15013485 certification
+
+QMS Certificate 13485:2016 DEKRA - 2024-08-09
+
+Quality agreement - Zollner (power supply) — 17.12.2009
+
+The Quality evaluation is performed twice per year
+
+CS96849 Delivery and Quality Performance evacuation - HY 01/ 2023
+
+Quality issue Zollner
+
+20012551 Supplier Corrective action report Zollner Stecker issue MU26494 28.02.1012
+20012551 8D report Zollner Stecker issue
+
+Investigation performed — 100% conformed - corrective action planned
+
+PUR #5 - Selection of supplier based on ability of the supplier to satisfy the specified purchase requirements
+The requirement for the suppliers are defined per supplier’s category listed in A04 attachment for SP21110,
+The evaluation Plan is established for the year.
+
+For example, for clinicals consultant - Category DRO — requirement is Attachment 08 Service Provide for clinical
+evaluation. The attachment is sufficiently covering specific requirements for the clinical consultant
+
+The Framework Agreement Supplier Dr Prof Imhoff - 14 par 2016
+
+The supplies is notes as supplier with prior station - a continuous supplier control:
+
+The supplier from Priories list undergoes annual evaluation according the Supplier evaluation Tool GoBench
+(process SP6110).
+
+Delivery and Quality Annual evaluation : Prof Imhof : 19.09.223
+CS97506 Supplier Dr Imhof -- evaluation result 100%
+
+Criteria — single expert person: CV / Scientific record - demonstrated
+CV — Prof Imhof — Clinical consultant Stand 31.05.2018 - demonstrated
+Response rate for the supplier 100%
+
+Agreed supplier Evaluation Plan 2023 — 12 Jun 2022
+The plans show, who and when is responsible for periodical evaluation, Lead Commodity category, PPM and if
+evaluation is applicable.
+
+Example II
+
+MP00303 Hose system Anesthesia set Flex latex free
+
+Supplier Complete set (Finished Medical device) Gaelmed Corporation (China) — category Z01
+94676 Supplier data card SAP Gale Med _ Corporation Taiwan
+
+116761 Suppler Gale Med China — production Factory
+
+The Row Hose supplied from Globalmed Canada
+
+Supplier approval: for category Z01 (supplier of finished Medical ) following documents are required: requires SP2110
+Attachment A10 and Attachment Supplier AO9, the reapproval is documented on the Supplier Approval sheet A01
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 93 of 107

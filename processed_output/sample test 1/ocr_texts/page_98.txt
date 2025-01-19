@@ -1,0 +1,149 @@
+Audit Report
+
+Report No: 0713308726
+
+Version 1
+
+‘
+
+e)
+
+Product Service
+
+2.5.17 STB assessment of cleaning instruction (Atlan)
+
+Subsystem
+
+STB assessment of cleaning instruction (Atlan)
+
+Audit trail records of
+
+G. Pavlov
+
+Area(s) visited (location,
+e.g., site visited)
+
+Location # 1 HQ: Moislinger Allee
+For more details related to Audit location and time refer to chapter 2.2 of this report.
+
+Audit criteria according
+to audit plan
+
+MDR Regulation EU 2017/745 (MDR); ANNEX |, III 23.4. Information in the instructions for use
+ISO 17664-1:2021 / 17664-2 Edition 2021
+IEC 60601-1:2020, Edition 3.2 Clause 7.9.2.12 Cleaning, Disinfection and sterilization
+
+Brief description of
+processes or activities
+evaluated to
+demonstrate what was
+audited related to the
+listed key QMS
+documents and records
+reviewed below
+considering inputs,
+outputs, and measures
+
+ID: 31505
+
+Doc No: MED_T_09.50
+
+Claims
+
+Following statement is document in the Marketing Brochure:
+
+Infection Prevention and Control
+
+Breaking the chain of infection and complying with your hospital's hygiene protocols is critical in
+today's clinical
+
+environment. For this reason, during the development phase of Atlan anesthesia machines, we
+designed them
+
+with infection prevention regulations in mind to support hygiene measures in the OR.
+
+— Tool-free and quick disassembly of breathing system with few parts to be compliant with
+infection
+
+prevention regulations
+
+— Smooth and rounded surfaces ease cleaning/wipe disinfection
+
+— Cable ducts and channels reduce number of potential contamination sources
+
+— Compatible with original Drager single-use consumables support hygiene standards
+
+— Generated message* reminds personnel about the replacement of the RFID technology-based
+consumables (Infinity ID breathing circuit, Infinity ID WaterLock 2 water trap, Infinity ID flow
+sensors,
+
+Infinity ID CLIC absorber) when their maximum period of use are exceeded
+
+— Compliant with ISO 17664
+
+Provision of Information for Use on Reprocessing
+It was verified that reprocessing instructions include in validated reprocessing method were
+included in the Labeling / Instruction for Use
+
+For Rev 1.0 Instruction for Use Ver SEW-1.0 —formation for reprocessing was included in the IFU
+directly
+
+For Rev 2.0 Instruction for USE Anesthesia workstation Software 2.0n — info on reprocess was
+removed from main IFU and included in the dedicated Information on reprocessing is now
+included in standalone reprocessing Instruction for Use (9510631_1_en)
+
+Identification of criticality of reprocessing
+According to Reprocessing Instruction, following classification defined:
+
+Classification Explanation
+
+Non-critical Components that come only into contact with skin that is
+intact
+
+Semi-critical Components that carry breathing gas or come into contact
+with mucous membranes or pathologically altered skin
+
+Critical Components that penetrate skin or mucous membranes or
+
+come into contact with blood
+
+Identification of parts subject for reprocessing
+
+The following classification is a recommendation from Drager.
+Non-critical
+
+- Device surfaces
+
+Semi-critical
+
+- Breathing system
+
+- Housing (lower part and upper part)
+
+- Inspiratory port
+
+-  Expiratory port
+
+-—  APLvalve
+
+- _ Inspiratory valve (yellow)
+
+-  Expiratory valve (blue)
+
+-  Fresh-gas decoupling valve (black)
+
+— Absorber container and absorber insert
+
+- Sensor cap of the O2 sensor1)
+
+- Piston diaphragm
+
+- Breathing bag arm (option)
+
+Critical
+
+The device does not contain any components that are classified as critical.
+
+Revision: 12 — released Effective: 28 May 2021
+
+Page 98 of 107

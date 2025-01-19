@@ -1,0 +1,118 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe/Ambia)
+
+and records DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140-en-04.00 , Rev. 04.00
+(identification DEMF SC6440: Labeling DEMF - SC6440 - de - 00, Rev. 0
+
+and revision) DEMF GM2150 : Traceability of products and components DEMF GM2150 - en_de - 03.00 , Rev. 03.00
+
+DEMF SC6110 : Behandlung von Abweichungen in der Produktion DEMF - SC6110 - de - 00.00 , Rev. 00.00
+DEMF SC6120 : Qualitatskennzahlen in der Produktion DEMF - SC6120 - de - 00.00 , Rev. 00.00
+
+DEMF SC6130 : Produktionsstopp und Lieferstopp DEMF - SC6130 - de - 00.00 , Rev. 00.00
+
+DEMF SC6200 : Produktherstellung DEMF SC6200 - de - 02 , Rev. 2
+
+DEMF SC6500 : Dokumentation von Produktionsprozessen DEMF SC6500 - de - 00, Rev. 0
+
+DEMF SC6720 : Schutz vor elektromagnetischen Einfliissen in der Produktion DEMF SC6720 - de - 00 , Rev. 0
+DWAG |N4203 : Product Verification DWAG IN4203 - en - 02.00 , Rev. 02.00
+
+DWAG OF5213 : Produktverpackung DWAG - OF5213 - de - 01, Rev. 1
+
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 03.00 , Rev. 03.00
+
+Records
+
+FMEA Schneiden von Schlauchen und Kabeln 11206117 2022-09-14, Pkt. 2.18 VerschlieRend von Schlauchen mit
+Endkappen
+
+»Grundlegende Sicherheitshinweise“ in Service Connect 1.10 ,Umgag mit Sauerstoff und Lachgas*
+Overview of all FMEAs is kept in PLM Aras
+
+BU Work Place Infrastructure OPS Overview PPT
+
+Detail Layout House 10 EG
+
+Organisation Structure 2023-09-01
+
+PRRC Marcus Vorwerk (Product Specific Responsibilities)
+
+Tatigkeitsbeschreibung PRRC Vorwerk_Marcus-01_2020.pdf
+
+Table of Content Sted File 11173409 rev. 04
+
+Product Risk Management Report 111044055 Rev. 09
+
+DOC Ambia MDR103-029-2304-002-0 2023-04-27 Rev04
+
+Product Test Specification Ambia PTS Electric Components GG53280 Rev.01
+
+Marvin Moller, Unterweisung am Arbeitsplatz ,Prozessablauf Endmontage“, z.B. 2022-03-02
+Uwe Golla, Unterweisung am Arbeitsplatz ,Prozessablauf Gas- und Elektropriifung", z.B. 2022-02-18
+René Gro, Unterweisung am Arbeitsplatz ,Armsysteme“, z.B. 2021-08-18
+
+MIMs-Data Base as used and audited in Moislinger Allee
+
+MIMS Druckmessgerat 405821, nextCal 2024-11
+
+Kalibrierschein Dichtpriifgerat Bremse 405821_20221104_WKSPErev00
+
+Order Confirmation Kundenauftrag 1200338274 2023-09-01, Customer Drager Nederland B.V.
+Fertigungsauftrag 62730484 2023-09-11 /2023-09-20
+
+Herstellprotokoll 62730484 2023-09-21, SN ASSJ-0476
+
+Fertigungsauftrag 62730492 2023-09-12 /2023-09-20
+
+Herstellprotokoll 62730492 2023-09-21, SN ASSJ-0484
+
+IFU Supplement 9052924 Ed. 3
+
+Names and Marcus Vorwerk (Head of Q&RA sowie Purchasing WPI)
+titles of S6nke Behrens (PQM fiir MSS)
+
+persons Benjamin Kriger (Quality Engineer)
+
+interviewed Joachim Rochel (Director Operations BU WPI)
+
+Markus Hielscher (Quality System Manager Auditing)
+
+Alexej Agibalow (Regulatory Affairs)
+
+Tim Sennholz (Risk Manager)
+
+Matthias Brauer (Industrial Engineer)
+
+Bastian Stender (Technical Product Manager)
+
+Tim Sennholz (remote) (Risk Manager)
+
+Heiko Senz (Project Management Operations Business Unit Workplace Infrastructure")
+David Binder (Scribe) (Product Quality WPI)
+
+Marvin Miller (Geratemonteur)
+
+Products, AMBIA
+components,
+or projects
+reviewed
+
+Statement This process is effectively implemented and conforms to requirements.
+
+concerning Oo Actions are needed for this process to conform to requirements. See audit finding list.
+conformity
+based on
+objective
+evidence
+reviewed for
+this subsystem
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 66 of 107

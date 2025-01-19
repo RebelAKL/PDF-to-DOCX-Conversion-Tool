@@ -1,0 +1,46 @@
+=.
+Audit Report Ty)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+Subsystem Measurement, Analysis, and Improvement - CAPA and Internal Audit
+
+DEMF PQ2520 : Field Action (FA) DEMF PQ2520 - en - 05.00 , Rev. 05.00
+
+MDR:
+There are processes in place for CAPA and Post-Production Phase, Including Complaints (see above)
+
+Names and titles | Ulf Hagedorn-Head of IMS Audit Management
+
+of persons Ralf Kornmann -Product Manager Therapie
+
+interviewed Wasner, Carsten -Cyber security Engineer
+
+Other particpants including roles will be provided by Ulf Hagedorn
+Both Stephan - Quality System manager
+
+Quality & Regulatory Affairs
+
+Products, DEMF SC6500
+
+components, or DWAG PQ2110
+
+projects #103501 production and process controls
+reviewed #117431 CAPA timelines
+
+2DR -000069 Prozess-FMEA
+CAPA’s #12237 1/#122373/#122374/#122377/#122378
+Management Review 2022 — DWAG 2022-03-22
+
+Statement This process is effectively implemented and conforms with requirements
+concerning
+conformity
+based on
+objective
+evidence
+reviewed for this
+subsystem
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 26 of 107

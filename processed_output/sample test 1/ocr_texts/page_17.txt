@@ -1,0 +1,157 @@
+Audit Report Tv)
+Report No: 0713308726
+Version 1
+
+Product Service
+
+2.5.3 Measurement, Analysis, and Improvement, CAPA and Internal Audit
+
+Subsystem Measurement, Analysis, and Improvement - CAPA and Internal Audit
+Audit trail Martin Szepannek / Gabriele Mousset / Honorata Donnermair
+records of
+Area(s) visited Location# 10578
+(location, e.g., For more details related to audit location and time refer to chapter 2.2 of this report.
+site visited)
+
+Audit criteria
+according to
+audit plan
+
+"Measurement, Analysis and Improvement: Procedures for Measurement, Analysis, and Improvement of QMS Effectiveness and Product Conformity (MDSAP
+Chapter 3, Task 1, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 8.1, 8.2.1, 8.2.6, 8.5 + (DIN)(EN) ISO 9001 - 7.5.1, 8.5.5, 8.6, 9.1.1, 9.1.2, 10 + MDSAP - Australia - TG(MD)R Sch3 P1
+1.4(3)(a),(b), (5)(b)(ii), (f) + MDSAP - Brazil - RDC ANVISA 16/2013: 5.3.1, 7.1, 7.2 + MDSAP - Japan - MO169: 6, 54, 55-1, 58, 59, 62, 63, 64; [Old: 6, 54, 55,
+58, 59, 62, 63, 64] + MDSAP - USA - 21 CFR 820.100(a) + MDR - Article 10.9 13 ( m); Annex IX 2.2 [2 (b2, e); Annex XI 13 + MDD - Annex II (3.2)"
+"Measurement, Analysis and Improvement: Sources of Quality Data (MDSAP Chapter 3, Task 2, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 7.5.4, 8.1, 8.2.1, 8.2.6, 8.4 + (DIN)(EN) ISO 9001 - 8.5.5, 8.6, 9.1.1, 9.1.2, 9.1.3 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(3)(a),(b),
+(5)(b){iii), (f) + MDSAP - Brazil - RDC ANVISA 16/2013: 7.1.1.1, 9.1 + MDSAP - Japan - M0169: 43, 54, 55-1, 58, 59, 61; [Old: 43, 54, 55, 58, 59, 61] + MDSAP
+- USA - 21 CFR 820.100(a) + MDR - Article 10.9 3 (m); Annex IX 2.2 (b); Article 88 + MDD - Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Investigation of Nonconformity (MDSAP Chapter 3, Task 3, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 8.5.2 + (DIN)(EN) ISO 9001 - 10.2 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(3)(a),(b), (5)(b)(iii),(f), TG(MD)R Sch1 P12 + MDSAP
+- Brazil - RDC ANVISA 16/2013: 2.4, 6.5.1, 7.1.1.2 + MDSAP - Japan - MO169: 63 + MDSAP - USA - 21 CFR 820.100 (a)(2) + MDR- Article 10.9 [3 (I) + MDD
+- Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Investigation of Potential Nonconformity (MDSAP Chapter 3, Task 4, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 8.5.3 + (DIN)(EN) ISO 9001 - 0.3.3, 6.1, 10.1, 10.3 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(3)(a),(b), (5)(b)(ili),(f), TG(MD)R Sch1
+P1 2+ MDSAP - Brazil - RDC ANVISA 16/2013: 2.4, 7.1.1.1 + MDSAP - Japan - MO169: 64 + MDSAP - USA - 21 CFR 820.100(a)(2) ++ MDR - Article 10.9 3
+(I) + MDD - Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Correction, Corrective Action, and Preventive Action (MDSAP Chapter 3, Task 5, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 8.2.1, 8.2.5, 8.3.1, 8.5.2, 8.5.3 + (DIN)(EN) ISO 9001 - 0.3.3, 6.1, 8.5.5, 9.1.1, 9.1.2, 10.1, 10.2, 10.3 + MDSAP - Australia - TG(MD)R
+Sch1 P12, TG(MD)R Sch3 P1 1.4(3)(a),(b), (5)(b)(ii), (f)_ + MDSAP - Brazil - RDC ANVISA 16/2013: 2.4, 6.5, 7.1.1.3, 7.1.1.4, 7.1.1.5 + MDSAP - Japan -
+MO169: 55-1, 57, 60-1, 63, 64; [Old: 55, 57, 60, 63, 64] + MDSAP - USA - 21 CFR 820.100(a)(3), 820.100 (a)(4),820.100(a)(6), 820.100(b) + MDR - Article
+10.9 713 (I) + MDD - Annex Il (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Assessment of Design Change Resulting from Corrective or Preventive Action (MDSAP Chapter 3, Task 6, Site:
+10578);
+
+(DIN)(EN) ISO 13485 - 7.1, 7.3.9 + (DIN)(EN) ISO 9001 - 8.1, 8.3.6, 8.5.6 + MDSAP - Australia - TG(MD)R Sch1 P1 2 + MDSAP - Brazil - RDC ANVISA
+16/2013: 2.4, 4.1.10 +MDSAP - Japan - M0169: 26, 36-1; [Old: 26, 36] + MDSAP - USA - 21 CFR 820.30(i), 820.30(g) + MDR - Article 10.9 11 s2, 10.9913
+(a); Annex IX 2.2 §i2 (c1, c8) + MDD - Annex 11(3.2)"
+
+"Measurement, Analysis and Improvement: Assessment of Process Change Resulting from Corrective or Preventive Action (MDSAP Chapter 3, Task 7, Site:
+10578);
+
+(DIN)(EN) ISO 13485 - 4.1.2, 4.1.4, 4.1.6, 4.2.1, 7.1, 7.5.2, 7.5.6, 7.5.7 + (DIN)(EN) ISO 9001 - 4.4, 7.5.1, 8.1, 8.4, 8.5.1 + MDSAP - Australia - TG(MD)R Sch1
+P1 2; Sch3 P1 1.5(4); TG(MD)R Sch3 P1 1.5(2) + MDSAP - Brazil - RDC ANVISA 16/2013: 2.4, 5.6, 7.1.1.4 + MDSAP - Canada - CMDR 1, 34 + MDSAP -
+Japan - MO169: 5-2, 5-4, 5-6, 6, 26, 29, 41, 45, 46; [Old: 5, 6, 26, 41, 45, 46] + MDSAP - USA - 21 CFR 820.100(a)(4), 820.100(a)(5), 820.70(b), 820.75(c) +
+MDR - Annex IX 2.2 [2 (d); Annex XI 6.2 2, 12 + MDD - No specific requirements"
+
+"Measurement, Analysis and Improvement: Identification and Control of Nonconforming Product (MDSAP Chapter 3, Task 8, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 8.3.1, 8.3.2 + (DIN)(EN) ISO 9001 - 8.7, 10.2 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(b)(ii) ++ MDSAP - Brazil - RDC ANVISA
+16/2013: 6.5, 7.1.1.6 +MDSAP - Japan - MO169: 60-1, 60-2; [Old: 60] + MDSAP - USA - 21CFR 820.90(a) + MDR - Annex IX 2.2 [2 (b2); Annex XI 6.2 [2,
+1271"
+
+"Measurement, Analysis and Improvement: Action Regarding Nonconforming Product Detected After Delivery (MDSAP Chapter 3, Task 9, Site: 10578);
+(DIN)(EN) ISO 13485 - 8.3.3, 8.5.2 + (DIN)(EN) ISO 9001 - 8.7, 10.2 + MDSAP - Australia - TG(MD)R Sch1 P1 2, TG(MD)R Sch3 P1 1.4(3)(a),(b), (5)(b)iii),
+(f) + MDSAP - Brazil - RDC ANVISA 16/2013: 2.4, 7.1.1.8 + MDSAP - Japan - MO169: 60-3, 63; [Old: 60, 63] + MDSAP - USA - 21 CFR 820.100(a) + MDR -
+Article 10.9 93 (k), 10.12; Article 87-92 + MDD - Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Internal Audit (MDSAP Chapter 3, Task 10, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 6.2, 8.2.4 + (DIN)(EN) ISO 9001 - 7.2, 7.3, 9.2 + MDSAP - Australia - TG(MD)R Sch P11 1.4(5)(b)(ii) + MDSAP - Brazil - RDC ANVISA
+16/2013: 7.3 + MDSAP - Japan - MO169: 22, 23,56 + MDSAP - USA - 21 CFR 820.22, 820.100 + MDR - Annex IX 2.2 [2 (b2); Annex XI 6.2 2 + MDD -
+Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Information Supplied for Management Review (MDSAP Chapter 3, Task 11, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 5.6.2 + (DIN)(EN) ISO 9001 - 9.3.1 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(b)(iii) + MDSAP - Brazil - RDC ANVISA 16/2013:
+2.2.6, 7.1.1.7 + MDSAP - Japan - MO169: 19 + MDSAP - USA - 21 CFR 820.100 (a)(7) + MDR - Article 10.9 1. S2; Annex IX 2.2 [2 (c8)"
+
+"Measurement, Analysis and Improvement: Evaluation of Information from Post-Production Phase, Including Complaints (MDSAP Chapter 3, Task 12, Site:
+10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 7.2.3, 7.5.4 (a), 8.2.1, 8.2.2, 8.5.1 + (DIN)(EN) ISO 9001 - 7.5.1, 8.2.1, 8.5.5, 9.1.2, 10.1, 10.3 + MDSAP - Australia - TG(MD)R
+Sch1 P1 2, Sch3 P1 1.4(3), 1.4(5)(b)(ili) &1.4(5)(f) + MDSAP - Brazil - RDC ANVISA 16/2013: 7.2 + MDSAP - Canada - CMDR 57-58 + MDSAP - Japan - M0169:
+6, 29, 43, 55-1, 55-2, 62; [Old: 6, 29, 43, 55, 62] + MDSAP - USA - 21 CFR 820.198 + MDR - Article 10.9 {3 (i), 10.10; Annex IX 2.1 @@, 2.2 92 (b2);
+Annex XI6.2 2; Article 83 - 86 + MDD - Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Measurement, Analysis and Improvement: Communications with External Parties Involved on Complaints (MDSAP Chapter 3, Task 13, Site: 10578);
+(DIN)(EN) ISO 13485 - 4.1.5, 7.4.1, 8.3.1 + (DIN)(EN) ISO 9001 - 4.4, 8.4, 10.2 + MDSAP - Brazil - RDC ANVISA 16/2013: 7.1.1.6 + MDSAP - Japan - M0169:
+5-5, 37, 60-1; [Old: 5, 37, 60] + MDSAP - USA - 21 CFR 820.100(a)(6) + MDR - Annex IX 2.2 [2 (b2); Annex XI 6.2 §[2, 12 1 + MDD - Article 10”
+"Measurement, Analysis and Improvement: Evaluation of Complaints for Adverse Event Reporting (MDSAP Chapter 3, Task 14, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 7.2.3, 8.2.3 + (DIN)(EN) ISO 9001 - 4.4, 8.2.1, 8.4, 8.5.5 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(3)(c) + MDSAP - Brazil -
+RDC ANVISA 16/2013: 7.1.1.8, RDC ANVISA 67/2009 + MDSAP - Canada - CMDR 59-61.1 + MDSAP - Japan - M0169: 6, 29, 55-3; [Old; 6, 29, 62] + MDSAP
+- USA - 21 CFR 803 + MDR - Article 10.9 ]3(k), 10.12, 10.13; Article 80, 87, 88, 89, 94 + MDD - Article 10"
+
+"Measurement, Analysis and Improvement: Evaluation of Quality Problems for Advisory Notices (MDSAP Chapter 3, Task 15, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 7.2.3, 8.3.3 + (DIN)(EN) ISO 9001 - 4.4, 8.2.1, 8.4, 8.7 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(3)(c) + MDSAP - Brazil -
+RDC ANVISA 16/2013: 7.1.1.8, RDC ANVISA 23/2012 + MDSAP - Canada - CMDR 63-65.1 + MDSAP - Japan - M0169: 6, 29, 60-3; [Old: 6, 29, 60] + MDSAP
+- USA - 21 CFR 806, 820.100(a) + MDR - Article 10.9 3 (k), 10.12; Article 80, 87, 88, 89, 94 + MDD - Article 10”
+
+"Measurement, Analysis and Improvement: Top Management Commitment to Measurement, Analysis, and Improvement Process (MDSAP Chapter 3, Task 16,
+Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.3, 5.2, 8.1, 8.5.1 + (DIN)(EN) ISO 9001 - 4.4, 5.1.2, 8.4, 9.1.1, 10.1, 10.3 + MDSAP - Brazil - RDC ANVISA 16/2013: 2.2.1 +
+MDSAP - Japan - M0169: 5-3, 11, 54, 62; [Old: 5, 11, 54, 62] + MDR - Article 10.9 [3 (c) + MDD - Annex Il (2, 3.1)"
+
+Brief description
+of processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed key
+QMS documents
+and records
+reviewed below
+considering
+inputs, outputs,
+and measures
+
+ID: 31505
+
+MAI 1 - Procedures for measurement, analysis and improvement (GM) 8.1;8.2.1; 8.2.6; 8.5 => Focus on System
+Affected roles: Requester/Responsible Person/ CAPA Reviewer/CAPA Owner
+
+The process DEMF PQ3300 describes the evaluation of system CAPA’s
+
+CAPA triggers are e.g. audits/feedback/issues/proposals/complaints/data-analysis.
+
+Requester and Responsible person have to make an immediate decision whether direct measures would be
+necessary. The quality manager will be responsible for further investigation steps and for the CAPA decision. The
+issue can be followed as “documented action” or as full CAPA. The documentation from here will be in Track Wise.
+Main CAPA triggers: Major NC’s from audit/issue with effect on efficacy of system and increase of risk for health or
+environment or missing process descriptions or external requirements.
+
+Each case will be evaluated regarding risk within the risk form: PQ3300 — A01 Risk evaluation template. Following
+aspects will be evaluated: Environment, Employees, Health of patients or users, integrated Managemensystem
+/certification, and product conformity. If there is any risk identified a description and evaluation of the situation have to
+be documented. Based on this evaluation the decision for further processing “CAPA” or documented action “ will be
+done.
+
+For each CAPA (not for “documented action”) a CAPA plan should be provided and the CAPA plan have to be checked
+and approved by CAPA reviewer. The CAPA reviewer will take the decision whether the planned actions are
+appropriate to the risk.
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 17 of 107

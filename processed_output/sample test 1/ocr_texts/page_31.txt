@@ -1,0 +1,74 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Design and Development
+SOPs for design and development were demonstrated and assessed during the audit — ref to list of documents for
+Designee and Development chapter.
+Additional country-specific requirements:
+Australia / Brazil / Canada / Japan
+- the organisation has identified no exclusion from Design control. All product families are controlled by the top-level
+design process.
+D&D #2 - Selection of a completed design and development project (GP)
+1. Smart Pilot View was selected based on the sampling plan to cover the product range of the company, as product with
+direct impact to safety and performance which was not yet evaluated during the surveillance cycle. The product was
+chosen as linkage to the on-going Technical Documentation review.
+2. The product Connected Lung Protective Ventilation Analytics was chosen as verification if this can be a medical
+product in MDSAP scope. It was observed, the product is not a Medical Device, and therefore is out of scope for this
+audit.
+The introduction product performed: Smart Pilot View is monitoring and predication software for an Anesthesia
+application. The software displays and logs the dosage of intravenous and volatile drugs administered in human
+being. Additionally, it calculates the drug effect based on pharmacokinetic models and the drug interaction as guidance
+for treatment. Current release is 3.03
+The devices classification is IIb according to MDR and MDD. The Device is currently MDD , and under MDR TD review.
+Classification Codes SmartPilot View 11213764_00
+IfU_SPV_SW_3.03.n_9512901_1_2022-11_en Instruction for Use Smart Pilot view
+IfU_Supplement_SPV_SW_3.0n_9054332_11_2022-12 Compatibility with other devices Smart Pilot View
+D&D #11 - Clinical evaluation and/or evaluation of medical device safety and performance (GP)
+Smart Pilot View
+
+Clinical evaluation and clinical investigation processes are established. CE is performed as a part of design and
+
+validation process and is documented in CER. CERs are organized to be grouped in “CER-families” if only possible.
+Aspects for a CER family: Similar or same intended purpose (similar literature search) etc. The process is set up with a
+main SOP DCS IN4250-110-en-03.00_Clinical Evaluation is the main SOP for MDR compliance, a separate SOP is
+available for the products under MDD IN 4251.
+Clinical performance and clinical benefit are mainly processed by the Clinical Affairs Team whereas clinical risks and
+clinical safety is assessed in the frame of the RM in close collaboration with the clinical / medical expert, this assessment
+is then fed back into the CEP/CER.
+Literature searches are conducted for the state of the art and the MDuE, for performance / benefit and safety. Search
+criteria are defined in the CEP and are generated according to the PICO approach.
+Preclinical data based on applicable standards are considered in CEP and CER.
+Review of Postproduction Information Report (RPPIR): this assessment is used for updates from the post-market phase
+on a regular basis.
+The complete CER is re-assessed when above listed documents are created to confirm or revise the contents.
+This approach is described in the main CER SOP.
+For the sampled device Smart Pilot View:
+Latest clinical evaluation covered by clinical evaluation plan — shown during the audit, Clinical evaluation report was
+demonstrated: 11149213_02 11149213 02 Clinical Evaluation Report Released
+Confirmation of Applicability (CoA): this assessment is used if new, not clinical information is available it will be integrated
+into an already existing CER-family with the next periodic update.
+PMCF Process:
+DWAG |IN4250 Clinical Evaluation explains the process and documentation for PMCF Report established for that
+process. In step 17 od CE Process the decision on PMCF activities is done. There is PMCF Plan Template, PCF
+Checklist and
+PMCF plan includes need for PMCF, objectives, type of activity, description, rationale for appropriateness, timeline,
+summary of activities, evaluation of clinical data relating to equivalent or similar products, risk management report.
+In case of sampled product Smart Pilot View, PSUR contains statement that PMCF is fully based on PMS surveillance
+there is no need on active PMCF apart from Routine PMS
+It was explained that the SSCP process is not applicable as there are no class III devices manufactured.
+Post-market phase: update of CERs, the frequency depends on risk class and innovation status. Frequency is 2 to 5
+years until end of production plus 7 years, or end of service and 2 more years.
+Additional country-specific requirements:
+Australia (TGA):
+Clinical Evaluation Reports includes the clinical evidence based on PMS history of the device. This can be presented by
+Literature search in line with IN4250 - Template - Literature Search
+D&D #12 - Software design and development (GP)
+The Development of Software follows the V-Model approach.
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 31 of 107

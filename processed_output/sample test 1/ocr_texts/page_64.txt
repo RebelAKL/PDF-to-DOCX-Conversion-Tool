@@ -1,0 +1,75 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe/Ambia)
+Hazardous Situation RM-SUS 4178 Contamination of parts in contact to the gas flow during transport, storage,
+production, installation and service
+Risk Control Measures
+RCM RM_SUS_4869 Production: gas leading hoses must be packed clean and free from impurity, protected against
+contamination (Hoses Ends must be sealed)
+RCM_SUS_4910 Production: Gas hoses shall be visibiliy checekd by an incoming inspection
+RCM_SUS_5417 Production FMEA shall evaluate the risk of soiling hoses or tubes during production.
+RCM_SUS_5515 Warnig in Service Instructions “Gas and electrical installations may only be carried out by trained
+service personell; Do not allow any contamination (especially oil, grease, or flammable liquids) into the lines or in the
+terminal unit.”
+United States (FDA):
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140-en-04.00 , Rev. 04.00
+DEMF SC6440: Labeling DEMF - SC6440 - de - 00, Rev. 0
+PSC-2 Selection of production and service process(es)
+Complete Production has been audited including several processes that directly impact the ability of the device to meet
+its essential design outputs.
+PSC-5 Infrastructure
+Verified that the organization has determined and documented the infrastructure requirements to achieve product
+conformity, including buildings, workspace, process equipment, and supporting services.
+Confirmed that buildings, workspaces, and supporting services allow product to meet requirements.
+Verified that there are documented and implemented requirements for maintenance of process equipment where
+important for product quality, and that records of maintenance are maintained.
+Brazil (ANVISA):
+Verify that manufacturing facilities are configured in order to provide adequate means for people flow.
+PSC-6 Work environment
+Verified that documented requirements have been established, implemented and maintained for:
+- health, cleanliness, and clothing of personnel that could have an adverse effect on
+- product quality
+- monitoring and controlling work environment conditions that can have an adverse effect on product quality
+- training or supervision of personnel who are required to work under special environmental conditions
+- controlling contaminated or potentially contaminated product (including returned products) in order to prevent
+contamination of other product, the work environment, or personnel
+PTS Chapter 1.1.1 Umweltanforderungen:
+PTS_509: 5°-35°
+5%-95%
+950 - 1060hPa
+These conditions are confirmed during Gas Test
+Brazil (ANVISA)
+No specific Biosafety Standards applicable
+PSC-7 Identification of processes subject to validation
+Determined if the selected process and sub-process have been reviewed, including any outsourced processes, to
+determine if validation of these processes is required.
+Process Validation Report Production Ambia Aras 11044209 Rev. 0.0
+Attachment 01 to Process Validation Report Production Ambia 1200113578 POS 20 EM 2021-08-19
+Key Targets of Process Validation have been reached; however, unacceptable PFR (production Failure Rate) has been
+adressed during Gate 7.0 meeting to be adressed in Product Steering Board. It is also monitored on a daily basis by the
+Project Engineer and reported weekly into PSB and biweekly into PQB; LCE (Life Cycle Engineering is responsible for
+further improvement.
+Brazil (ANVISA):
+Verified that analytical methods, supporting auxiliary systems for production and environmental control that can
+adversely affect product quality or the quality system are validated, periodically reviewed and, when necessary,
+revalidated according to documented procedures.
+United States (FDA):
+Not applicable
+PSC-10 Monitoring and measurement of product conformity
+Verified that the system for monitoring and measuring of product characteristics is capable of demonstrating the
+conformity of products to specified requirements.
+It could be confirmed that product risk is considered in the type and extent of product monitoring activities.
+PSC-11 Control, operation, and monitoring of the production and service process; risk controls
+Verifed that the processes used in production and service are appropriately controlled, monitored, operated within
+specified limits and documented in the product realization records.
+In addition, verifed that risk control measures identified by the manufacturer for production processes are implemented,
+monitored and evaluated.
+PSC-12 Competence of personnel
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 64 of 107

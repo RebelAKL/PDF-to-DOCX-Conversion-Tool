@@ -1,0 +1,137 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Service Center)
+
+Records of servicing activities are kept with the following information: the product serviced; the control number of product
+serviced; the date of completion of service; identification of the service provider; description of service performed; and
+results of inspections and tests performed.
+
+Trends of service activities are evaluated during regular meetings, which allows to identify trends.
+
+(US)
+Service reports are evaluated to determine if the event should be reported
+
+PSC 28 - Risk controls applied to transport, installation, and servicing
+
+Logistic center C45 and S4 inbound, outbound, storage, packaging (HD)
+There are not installation and servicing activities in logistic center.
+For risk controls applied to transport are defined for the product during design & development process and are part of the
+technical documentation. The Drager Interservice GmbH _is a logistic supplier and has no access to the Risk
+Management Files of products.
+
+PSC 29 - Top management commitment to the production and service process
+Bases on the assessment of the production and service control process, the management provides the necessary
+commitment to the production and service control process.
+
+Reviewed
+documents
+and records
+(identification
+and revision)
+
+ID: 31505
+
+PSC-1-29
+
+DDEMF SC6330 Instandahaltung und Reiningung (including Pestcontrol) Rev00.00
+DCS SC 5110 Wareneiannahme and Wareneingangs pruefung Rev.01.00
+DEMF-SC5120 Incoming inspection planning Rev. 02.00
+
+SC 8901 Wareneingang
+
+SC 8907 QS Priifung
+
+DEALL PQ 8830 Hygieneplan de. Rev 00
+
+Presentation Drager Service Center September 2023
+
+Labs Group Vapore Workspace 4248/10 14 days
+
+SAP Workspace team ventilation 4248 / 080 14 days.
+
+Planning process retrieved/demonstrate from SAP.
+
+GCS Net Sale Top 10 products.
+
+Logistic Center
+
+Presentation Logistic center inbound.
+
+Presentation Logistic center outbound
+
+Priifanweisung fiir Service card IPLLSamos_ revision 18
+Prifkarte 308450914
+Material No NK06000 / Equipment no 1015880062
+
+DDEMF SC6330 Instandahaltung und Reiningung (including Pestcontrol) Rev00.00
+DCS SC 5110 Wareneiannahme and Wareneingangs pruefung Rev.01.00
+DEMF-SC5120 Incoming inspection planning Rev. 02.00
+
+SC 8901 Wareneingang
+
+SC 8907 QS Priifung
+
+DEALL PQ 8830 Hygieneplan de. Rev 00
+
+AB 4900062419
+
+WE 6009269331
+
+AB 4900059225
+
+FA 62732117
+
+LS 175995547
+
+LS6009269040
+
+AB 1200353210
+
+DSC SC 6700-013-de-00.01 Handhabung elektrostatisch gefahrdeter Bauteile
+DDEMF SC6330 Instandahaltung und Reiningung (including Pestcontrol) Rev00.00
+DEALL PQ 8830 Hygieneplan de. Rev 00
+
+Service Order 308450914
+
+Service Order 308579966
+
+Material No NK06000 / Equipment no 1015880062Material No NK06000 / Equipment no 1015880062
+
+Priifanweisung fiir Service card IPLL Samos_ Revision 18
+
+Service Order 308450914
+
+Service Order 308579966
+
+Material No NKO6000 / Equipment no 1015880062Material No NKO6000 / Equipment no 1015880062
+PO- a3 9109935 -de 2009- 002
+
+Prifprotokoll D-Vapor Service Card IPM-L SAMOS revision 3 signed 20Sep2023
+
+Narkosemittel Charge Nummer 23E10 A32 Ablaufdatum 2026-02
+
+DEMF-GM2150-013-en-03.00 DEMF GM2150 : Traceability of products and components
+FA 62732117
+
+FA. 6273647
+
+LS 175995547
+
+WE 6009269040
+
+AB 1200353210
+
+AB 4900062419 / WE 6009269331
+
+AB 4900059225/ Name 60009238477
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 75 of 107

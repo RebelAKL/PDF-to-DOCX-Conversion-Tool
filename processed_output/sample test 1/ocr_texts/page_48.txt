@@ -1,0 +1,126 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+2.5.6 Design and Development (non-medical Software |SO9001 only)
+
+Design and Development
+
+Suns (Non-Medici Device SW , ISO 9001 only)
+Audit trail G. Pavlov
+records of
+Area(s) visited | Location #1 HQ: Moislinger Allee
+(location, e.g., | For more details related to Audit location and time refer to chapter 2.2 of this report.
+site visited)
+
+Audit criteria
+according to
+audit plan
+
+Only ISO 9001:2015 — Cl 8.3
+
+Brief
+description of
+processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed
+key QMS
+documents
+and records
+reviewed
+below
+considering
+inputs,
+outputs, and
+measures
+
+ID: 31505
+
+Selection of the product / project for assessment
+
+SW package Connect Lung Protective Ventilation Analytics - Anesthesia (LPVA) was selected for this
+audit in line with an audit sampling plan.
+
+Additional action items for the audit was to confirm that this SW can be considered as non-medical device
+
+Evaluation if the sampled Software is a non-medical device
+Marketing presentation Connected — Lung _ protective Ventilation Analytics
+Hospital-data-analytics was demonstrated and assessed during the audit:
+The software offers following functionality:
+- Shows Ventilation Quality indicators to improve the team ventilation performance
+- Analysis of parameters, ventilation modes and_ recruitment maneuvers
+- Enables a consistent implementation _ of lung protective ventilation practices
+- Provides benchmarking of Ventilation performance against pre-defined goals
+The function of demo Software was demonstrated.
+The data are collected once a day from each connected anesthesia devices, the connection assured via
+additional Infrastructure software Drager Gateway, which assures the connectivity of Drager devices and
+Darger SW application devices
+The data are requested retrospectively from the use case perfume ate pervisu period
+
+Ventilation parameters: which are demonstrated are following:
+VT /IBW, ml/kg
+PEEP - pressure
+
+The results are indicating with red / amber / green indication for the visuals demonstration of not-
+recommended / possible and recommended parameters areas, while the outcome from the date transfer
+show the actual statistical evaluation of the past uses of the anesthesia device.
+
+The patient data are not transferred and not process by the software.
+
+The SW cannot control or impact medical device. The data are collected after the Anastasia session (the
+Anesthesia medical device shall be in standby after completion of clinical procedure) and therefore does not
+deliver information which can be and input to immediate use for the handling of the individual patient.
+Therefore , the auditor concluded that the abovementioned Software is not a Standalone Medical device
+software and not software with is integrated in Medical device Hardware.
+
+Design and development process
+
+The Software is developed under 1SO9001:2015 requirements, according the Software Design Process.
+Draeger has established the process for Design and develpment
+
+The processes are defined and documented as set of procedures : DWAG IN 4200 is established ad
+applicable to medical and non-medical devices.
+
+The stage -gate is process is defined with 8 stages, whereas first 3 stage-gates form pre-design concepts
+phase.
+
+All design changes are following SOP Design Change Process.
+
+Start with Gate 3.0 Preparation ==> 4.0 Definition ==> 4.1 Design ==> 5.0 Realization ==> 6.0 Validation
+==> 7.0 CE/ Ramp-up / Market Launch ==> 7.1 Serial Production ==> Gate 8.0 Life Cycle/Change
+
+At the same time, the designated process DEMF IN6000 is documented design and development of non-
+medical software:
+
+The process DEMF IN6000-en-00 Development of non-medical device software has been developed and
+laid from May 2023, however was not used during the design and development of LPV software. It also
+contains the requirements for the changes. The change to the new process is planned to be completed
+by may 20224
+
+In the absence of documented process for non-medical device software, the process IN4200 for MD-
+Software was partly applied +, however according to design and development plan — the
+
+DWAG |IN4200 : Develop Product was used only to make the plane, the plans however contained the
+statement that DWAG was only used for the panning stage.
+
+8.3.2 Design and development planning
+
+Design and development plan Rev 3.7 was demonstrated.
+
+The roles and resources are defined - the product management teams is demonstrated.
+The stages are defined as
+
+Issue — Iteration.
+
+Product release approval
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 48 of 107

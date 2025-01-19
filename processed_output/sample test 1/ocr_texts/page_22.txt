@@ -1,0 +1,79 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Measurement, Analysis, and Improvement - CAPA and Internal Audit
+
+When a nonconforming product is detected after delivery or use the action is taken appropriate with the risk, or
+potential risks, of the nonconformity.
+The risk of the detected non-conformity is evaluated for the devices already delivered. Also, potential risks are
+evaluated.
+MAI 10 - Internal audit (HD)
+Regular internal audits are conducted at planned intervals, all department/ processes have to be audited minimum
+once withing 3 years (some each 2 years, some annually). The frequencies are defined in Internal Audit Covering
+document. If a critical deviation is found during the regular audit, an unannounced surveillance audit is also carried
+out. The audit triggers are defined. An internal audit includes to follow the internal audit procedure, internal audit
+plan, Protocol / Checklist MD and global internal audit summary report. The action / MNC or NC issued during the
+internal audit must be followed up. The NC/ MNC can be documented as documented action or as CAPA and are
+processed in Trackwise. There are 24 internal audits listed in Audit program 2022, 17 were performed, 4 were
+postponed due to the resource’s issues. The rationale for postponed audit is documented. The KPI for internal audit
+are defined e.g.: complete 100 % of audit report within 14 days. The target has been reached with 89%.
+During the audit we check the last internal audit of PQ calibration process conducted in February 2023 and the Internal
+audit of BU Workplace Infrastructure. It could be shown that the customer adheres to his procedure and all required
+documents could be presented. The qualification of internal auditors is defined and documented, also the role of expert
+is considered. As an internal lead auditor, you have to have three years of experience as an auditor and depending
+on the standard / regulation you need at least three audits as an auditor. The manufacturer conducts annually auditor
+exchange’ training for authorized auditors.
+MAI 11 - Information Supplied for Management Review (MSz)
+It could be determined that if relevant information regarding nonconforming product, quality management system
+nonconformities, corrections, corrective actions, and preventive actions has been supplied to management for
+management review.
+One-pager for management review includes and Handling complaints including Reporting to regulatory authorities.
+Reported to management review:
+- Numer of Complaints, number of reportable comlaints,
+- Number of Compentent Board meetings
+- Number of cases of death involving Drager device
+- Complaint reliabilty rate (general + individually by BU)
+Trending for complaints vs prior years.
+For Field actions:
+Number of ongoing (56) and new (40) field action
+Total Number of new field actions
+Thereof FSCA (12)
+Thereof FQ Improvement actions (28)
+Number of ongoing field actons end of year (56)
+Overdiue at the end of the year (28)
+Overdue >3 months (22)
+2023 was an all time high for field actions.
+MAI 12 - Evaluation of Information from Post-Production Phase, Including Complaints (MSz)
+Confirmed that the medical device organization has made effective arrangements for gaining experience from the post-
+production phase, including postmarket surveillance, handling complaints, and investigating the cause of
+nonconformities related to advisory notices with provision for feedback into the Measurement, Analysis and
+Improvement process.
+Verified that information from the analysis of production and post-production quality data was considered for amending
+the analysis of product risk, as appropriate.
+Records of complaints for review that represent the highest risk to the user or have the largest impact on the ability of
+the device to meet its essential design outputs have been selected.
+DCS PQ2010 describes Complaint handling (for all Drager products, not only medical devices; however, process
+distinguihses between medical devices and non-medical devices).
+Input to Complaint Handling can come from any complaining person (internal or external). Respective Forms are
+available (Attachment A01). Trackwise is used to electronically handle complaint information, fed either by members of
+the Sales and Service organsations, or supervisory unit (PMS department Libeck). Responsible legal manufacturer
+(Libeck, China, India, USA, Drager Safety UK + China) of product will be informed by PMS Department -all legal
+manufacturers work with trackwise. Legal Manufacturer decides if complaint is accepted and if it is marked as adverse
+event.
+MAI 13 - Communications with External Parties Involved on Complaints (MSz)
+Where investigation determines that activities outside the medical device organization, contributed to a customer
+complaint, it could be verified that records show that relevant information was exchanged between the organizations
+involved.
+DCS PQ2010 Step 6 “Acknowledgement; request for additional information and/or return of material.”
+Australia (TGA):
+DEMF PQ2000 : Post Market Surveillance System DEMF PQ2000 - en - 02.00 , Rev. 02.00
+Brazil (ANVISA):
+Complaint Procedures: DEMF PQ2010 : Complaint Handling DEMF - PQ2010 - en - 02.00 , Rev. 02.00
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 22 of 107

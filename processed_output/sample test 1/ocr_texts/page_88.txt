@@ -1,0 +1,119 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (Revalstrafe / HM Filter)
+
+Failure analysis/ identify nonconforming products:
+Identification of non-conforming device
+
+Blocking label: blocked Material, separated in blocked area
+Stock of material will be blocked
+
+Special releases: possible with a “Bauabweichung”
+
+Handling in case of stock blocking
+Rework is not applicable
+
+Special releases: possible with a Bauabweichung
+
+Freigabe einer Bauabweichung FBA 860000003178:
+
+Humidstar 55+, MP 05730, Rev.6, from order 65396950
+
+2022-08-25 to 2023-02-01/ released 2022-11-14
+
+Soll: a validated printer shall be used/ IS: new printer was used; process validation is missing
+Team has defined: DTE1: function not affected.
+
+Risk management included: patient and user risk is acceptable.
+
+Blister lable printer Validation was done, but no document
+
+No influence to intended use, following processes not affected.
+
+DMS OF4160-de-105-00 Betreiben von Reinraumprozessen., 2008-04-01
+
+DWAG PQ810 Betriebsmittelliberwachung, Rev. 02, 2023-05-13
+
+_A04 Kennzeichnung von Betriebsmitteln:
+
+Date of calibration/ date of next calibration
+
+DMS OF4160-de-105-00 Betreiben von Reinraumprozessen, 2008-04-01
+Herstellanweisung 11030448-01 Checking the air purity “Medical Filter’, 2023-01-05
+Klassifizierung der Luftreinheit anhand von Partikelkonzentration, 2023
+
+Reports reviewed:
+
+Test report:
+
+Particle measuring:
+
+2023-09-15 AFO Reinraum, target class 8, 0 particles are measured
+
+Certificate result: passed
+
+2023-09-08: one fail/ Certificate result: failed, Messpunkt 11, 0,5: 3574664 vs 3.520.000 limit exceeded (exceeded limit)
+In case of exceeded limit: Production stopp/ information to IE (industrial Engineer) and QE
+2023-09-05: one fail/ Certificate result: failed, Messpunkt 12, 0,5:
+
+4.728.834
+
+=> please see finding list
+
+2022-12-21: Certificate result: passed, with measures in particle.
+
+Oln case of deviation:
+
+CFT Cross function team shall be informed; im D&D plan: employee production/ quality engineer/ MRP Controller/
+product quality manager.
+
+Refer to DCS SC 6110-de-013-000 Behandlung von Abweichung in der Produktion, 2016-07-04
+QE shall be informed, limitation and correction.
+
+Influence of following processes to be assessed
+
+Corrective action shall be defined
+
+Bellmark printer ( new printer on line AFO)
+Medical Filter Inhouse Verification and Validation Bellmark printer Protocol: V& V Afo Plan _P_V_V_P
+A210026 for complete line: reference to initial |QOQPQ
+
+1Q-plan: 101137
+
+Medical Filter Inhouse Process Installation Qualification for line AFO, dated 2023-01-31:
+Test items defined:
+
+Implementation of bell mark printer: Test Item nr. PIQ_09_001
+
+Protocol: |QOQ PQ
+
+Medical Filter Inhouse Verification and Validation Bellmark printer Protocol: |Q OQ PQ
+Dated 2023-01-31:
+
+Bellmark IQ OQ PQ takes place after supplier installation has been performed
+
+Test items: |Q_01_001 to 003are defined and checked and passed
+
+Test items: OQ_01_001 to 003 are defined and checked and passed
+
+Test items: PQ_01_001 to 003 are defined and checked and passed
+
+Current production order:
+FA: 65577935; Mp 05735
+Chargen no. 1011552545
+Produktmappe
+Herstellungsprotokoll, shelflife Priifung, visual inspection of raw material
+Defected parts
+Test parameters set up and checked: set up direct online,
+Content of document file:
+Change history, special releases, manufacturing instruction, protocol, drawings MP05735-03,
+
+3 lines of raw material (bottom case, top case and foam) are feeding the assembly line.
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 88 of 107

@@ -1,0 +1,159 @@
+Audit Report Tv)
+Report No: 0713308726
+Version 1
+
+Product Service
+
+2.5 Audit Trails
+Description of activities covered during the Audit, key element summary for each audited subsystem.
+
+2.5.1 Management and Quality Management System
+
+Subsystem Management - Quality Management System
+Audit trail Martin Szepannek / George Pavlov / Gabriele Mousset / Honorata Donnermair
+records of
+Area(s) visited Location # 10578 (all Tasks)
+
+(location, e.g., Location # 90464 (Task 9/11)
+site visited) For more details related to audit location and time refer to chapter 2.2 of this report.
+
+Audit criteria
+according to
+audit plan
+
+"Management: QMS Planning, Implementation, Changes and Quality Manual (MDSAP Chapter 1, Task 1, Site: 10578);
+(DIN)(EN) ISO 13485 - 4.1.1, 4.1.2, 4.1.3, 4.2.2, 4.1.4, 5.4.2 + (DIN)(EN) ISO 9001 - 4.3, 4.4, 6.1, 6.3, 7.5.1, 8.4 + MDSAP - Australia - TG(MD)R Sch3 P1
+1.4(4) + MDSAP - Brazil - RDC ANVISA 16/2013: 2.1, 5.6 + MDSAP - Japan - MHLW MO169: 5-1, 5-2, 5-3, 5-4, 7, 14; [Old3: 5, 7, 14] + MDSAP - USA - 21
+CFR 820.20 + MDR - Article 10.8 1, 10.9 §1S2, 10.9 3 (a,e); Annex IX2.1@, 2.2 $2 (ct, c3); Annex XI 6.4 + MDD - Annex Il (3.1,3.2)"
+"Management: Management Representative (MDSAP Chapter 1, Task 2, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 5.5.2 + (DIN)(EN) ISO 9001 - 5,3 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(b)(ii)_ + MDSAP - Brazil - RDC ANVISA 16/2013:
+2.2.5 +MDSAP - Japan - MHLW MO169: 16 + MDSAP - USA - 21 CFR 820.20(b) + MDR - Article 15 + MDD - Annex II (3.2)"
+
+"Management: Quality Policy and Quality Objectives (MDSAP Chapter 1, Task 3, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 5.3, 5.4.1 + (DIN)(EN) ISO 9001 - 5.2, 6.2 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(a) + MDSAP - Brazil - RDC ANVISA
+16/2013: 2.2.1 + MDSAP - Japan - MHLW MO169: 12, 13 + MDSAP - USA - 21CFR 820.20(a) + MDR - Annex IX 2.2.9[2 (a); Annex XI6.2972  +MDD -
+Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Management: Organizational Structure, Responsibility, Authority, Resources (MDSAP Chapter 1, Task 4, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 5.1, 5.5.1, 5.5.2, 6.1,6.2+ (DIN)(EN) ISO 9001 - 5.1, 5.3, 7.1.1, 7.1.2, 7.2, 7.3 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(b) +
+MDSAP - Brazil - RDC ANVISA 16/2013: 2.2.2, 2.2.3. 2.2.4, 2.3 + MDSAP - Japan - MHLW MO169: 10, 15, 16, 21, 22,23 + MDSAP - USA - 21 CFR
+820.20(b), 820.25 + MDR - Annex IX 2.1@@, 2.2 {2 (a, b1); Annex X14 &6.2 2; Article 10(16) + MDD - Annex II (3.1, 3.2), Annex V (3.1, 3.2), Annex VI
+(3.1)"
+
+"Management: Extent Of Outsourcing (MDSAP Chapter 1, Task 5, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.5, 4.2.1 + (DIN)(EN) ISO 9001 - 4.4, 8.4, 7.5.1 + MDSAP - Australia - As required by MDSAP AU P0002 + MDSAP - Brazil - RDC
+ANVISA 16/2013: 2.5 + MDSAP - Japan - MHLW MO169: 5-5, 6; [Old: 5,6] + MDSAP - USA - 21 CFR 820.50 + MDR - Article 10.9 13 (d); Annex IX 2.2 [2
+(a, b3); Annex XI 6.2 ]2, 12 11; Article 10 (15) + MDD - Annex II (3.2 (b, d, e)), Annex V (3.2(b, ¢, d), Annex VI (3.2), [EK-MED 3.09B16]"
+
+"Management: Personnel Competency and Training (MDSAP Chapter 1, Task 6, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 6.2 + (DIN)(EN) ISO 9001 - 7.2, 7.3, 7.5.1 + MDSAP - Brazil - RDC ANVISA 16/2013: 2.2.3, 2.2.4, 2.3. + MDSAP - Japan -
+MHLW M0169: 6, 22, 23 + MDSAP - USA - 21 CFR 820.20(b)(2), 820.25 + MDR - Annex IX 2.1 {[1, 2.2 2 (a), Article 15, [MPDG §83] + MDD - Annex II (3.1,
+3.2), Annex V (3.1, 3.2), Annex VI (3.1)"
+
+"Management: Risk Management Planning and Review (MDSAP Chapter 1, Task 7, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.2 (b), 7.1 + (DIN)(EN) ISO 9001 - 4.4, 8.1, 8.4 + MDSAP - Australia - TG(MD)R Sch1 P12 + MDSAP - Brazil - RDC ANVISA
+16/2013: 2.4 + MDSAP - Japan - MO169: 5-2.1.2, 26; [Old: 26] + MDSAP - USA - 21 CFR 820.30(g) + MDR - Article 10.9 [3 (e);Annex IX 2.2 [2 (c3); Annex
+1 (2,3,4,5,8) & Il (5) + MDD - Annex II (3.2), Annex V (3.2), Annex VI (3.2)"
+
+"Management: Document and Record Controls (MDSAP Chapter 1, Task 8, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.4, 4.2.1, 4.2.4, 4.2.5 + (DIN)(EN) ISO 9001 - 4.4, 7.5.1, 7.5.2, 7.5.3, 8.4 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(4), 1.9;
+Reg 5.10 +MDSAP - Brazil - RDC ANVISA 16/2013: 3.1 + MDSAP - Japan - MO169: 5-4, 6, 8, 9, 67, 68; [Old: 5, 6, 8, 9] + MDSAP - USA - 21 CFR 820.40,
+820.180 + MDR - Article 10.8 1, 10.9 11 $2; Annex IX 2.2 2 (a,c); Annex XI 12 1; Article 10, 11, 12, 22, 27, 29, 31, 51, 52, [MDCG 2019-16, 2021-19],
+[MPDG § 5)] + MDD - Annex Il (3.2), Annex V (3.2), Annex VI (3.1, 3.2) [EK-MED 3.09 B20]"
+
+"Management: Management Reviews (MDSAP Chapter 1, Task 9, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 5,6 + (DIN)(EN) ISO 9001 - 9,3 + MDSAP - Australia - TG(MD)R Sch3 P1 1.4(5)(b)\iii)(f) + MDSAP - Brazil - RDC ANVISA 16/2013:
+2.2.6 +MDSAP - Japan - MO169: 18, 19, 20 + MDSAP - USA - 21 CFR820.20(c) + MDR - Article 10.8 1 S2; Annex IX 2.2 [2 (c8) + MDD - Annex II (3.1),
+Annex V (3.1), Annex VI (3.1)"
+
+"Management: Distribution of Devices with Appropriate Marketing Authorization (MDSAP Chapter 1, Task 10, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.1, 4.2.1, 5.2, 7.2.1, 7.2.3 + (DIN)(EN) ISO 9001 - 4.4, 5.2.1, 7.5.1, 8.2.1, 8.2.2, 8.4 + MDR - Article 10.9 [3 (a); Annex IX 2.2 2
+(ct), Article 19, Annex IV, Annex IX ch _III.6, Annex XI 2, 6 + MDD - Annex II (3.2)"
+
+"Management: Top Management Commitment to Quality (MDSAP Chapter 1, Task 11, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.1.1, 4.1.4, 5.1, 5.5.3 + (DIN)(EN) ISO 9001 - 4.4, 5.1.1, 7.4, 8.4 + MDSAP - Brazil - RDC ANVISA 16/2013: 2.1, 2.2.1 + MDSAP -
+Japan - MO169: 5-1, 5-4, 10, 17; [Old: 5, 10, 17]_ + MDSAP - USA - 21 CFR 820.20(a), 820.5 + MDR - Article 10.9 3 (c) + MDD - Annex Il (2, 3.1)"
+
+Brief description
+of processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed key
+QMS documents
+and records
+reviewed below
+considering
+inputs, outputs,
+and measures
+
+ID: 31505
+
+General Info (GM
+
+>16.000 employees word wide
+
+3,4 Mio EUR net sales
+
+Liibeck HQ (DWAG) (Moislinger Allee) , Revalstr. (production and logistics)
+Safety and Medical Business (Medical Business around 2/3 of annual revenue)
+Organised in therapeuticel Busienss Units (BU Therapy, Patient Monitroing, Workplace Infrastraucture, Hospital
+Consumables and Accessories, Global Services)
+
+Production Sites Worldwide
+
+DWAG = Dragerwerk AG
+
+2240 Employees in Medical Business
+
+895 in R+D
+
+630 n Production
+
+1530 in Moislinger allee
+
+710 in RevalstraRe (Production)
+
+Changes since last year:
+
+BU Therapie:
+
+EVITA some products in phase out
+
+New product M11.3 (CO? sensor)
+
+EVITA group Changes release 2.0 and prep 3.0
+Qxylog 3000 Plus, SW change to v 1.10
+
+Savina 300 new SW Version 5.02.01
+
+Savina Color EoP June 2023
+
+ATLAN family (A 300/A350), new SW features, v.2.0 (Cyber) and bugfixes, all MDSAP countries
+Perseus A500 CE mark MDR since 04/2023
+
+Zeus IE, SW update 2.03, only Australian and Canada
+
+Drager One P
+
+ICM (intregrated Care Manager), SW14.0.0
+
+New product: lung protective ventilation analytics, non medical SW
+
+SPV smart pilot view; v 3.03, currently TD review stage
+
+Core new product, Infinity to STC and back, SW 1.0 + Converter Service, currently TD review stage
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 5 of 107

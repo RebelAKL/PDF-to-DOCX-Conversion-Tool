@@ -1,0 +1,111 @@
+Audit Report
+
+Report No: 0713308726
+
+Version 1
+
+2.5.16 Cyber Security
+
+Subsystem
+
+‘
+
+e)
+
+Product Service
+
+Cyber Security
+
+Audit trail records of
+
+Gabriele Mousset with Somesh Rasal (deputy Expert for Jan Kuffner)
+
+Area(s) visited (location,
+e.g., site visited)
+
+Location # 1
+For more details related to Audit location and time refer to chapter 2.2 of this report.
+
+Audit criteria according
+to audit plan
+
+MDR 14.2 (d) IT security
+
+Brief description of
+processes or activities
+evaluated to
+demonstrate what was
+audited related to the
+listed key QMS
+documents and records
+reviewed below
+considering inputs,
+outputs, and measures
+
+Responsibility and authority for cyber security is documented and communicated appropriately as
+seen in audit. Personnel is competent based. On training, skills (Software Engineering and
+forensics specialist) and experience (Medical device development) as verified during audit.
+During audit it was noticed that the same person leading development as well as security for the
+product
+
+During audit it was verified, that security risk management was done at an early stage as seen in
+the audit.
+
+They use ERNW as an outsourced penetration laboratory. Few components like USB, etc., were
+not part of testing scope as seen in the audit.
+
+STRIDE (manual approach) was used as threat modelling technique as seen in the audit.
+
+The sampled technical documentation (Atlan A350) provided evidence of appropriate penetration
+testing. Product undergoes through Penetration testing for every major release.
+
+The sampled TDs (Atlan A350) provided a list of SOUP components.
+
+The SOUP components are regularly discussed (at least once in a month) if they need corrective
+actions.
+
+During audit it was noticed that documents are managed using Configuration Management rather
+than document control. Hence, document numbers mentioned below section are reference
+numbers to documents.
+
+Reviewed documents
+and records
+(identification and
+revision)
+
+1. Atlan SW 2.00.02 - Threat Analysis.pdf - TA_A3x0_MDR Rev 1 — Signed on 25-1-2023.
+2. Atlan A350 - Pentest Report.pdf — E20209046 — Created on June 22, 2021
+
+3. Atlan 2.00.02 Software bill of material.pdf - SBOM_A350_2.00.02 Rev 13 — Created on
+13-9-2023.
+
+4. Atlan SW 2.0n Cybersecurity maintenance and patch management.pdf - PMP_A3x0
+Rev 11
+
+Names and titles of
+persons interviewed
+
+Mike Neumann
+
+Products, components,
+or projects reviewed
+
+Software Engineer and Product Security Engineer
+
+Statement concerning
+conformity based on
+objective evidence
+reviewed for this
+subsystem
+
+ID: 31505
+
+Doc No: MED_T_09.50
+
+This process is effectively implemented and conforms to requirements.
+
+O Actions are needed for this process to conform to requirements. See audit finding list.
+
+Revision: 12 — released Effective: 28 May 2021
+
+Page 97 of 107

@@ -1,0 +1,75 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe/Ambia)
+
+Verified that personnel are competent to implement and maintain the processes in accordance with the requirements
+identified by the organization.
+PSC-13 Control of monitoring and measuring device
+Confirmed that the organization has determined the monitoring and measuring devices needed to provide evidence of
+conformity to specified requirements. Verified that the monitoring and measuring equipment used in production and
+service control has been identified, adjusted, calibrated and maintained, and capable of producing valid results.
+Verified that the control of the monitoring and measuring devices is adequate to ensure valid results. Confirmed that
+monitoring and measuring devices are protected from damage or deterioration.
+PSC-14 Impact analysis of monitoring and measuring device found out of specifications
+Confirmed that the organization assesses (and records) the validity of previous measurements when equipment is found
+not to conform to specified requirements, and takes appropriate action on the equipment and any product affected.
+Riickmeldebericht RMB417351 2022-08-18: Drehmomentschliissel 13NM, regg.-Nr. 417351 found out of spec during
+kcalibration 2022-08-18 (Result: Fail/Pass); Analysis showed, that Product or material approvals are not to be
+questioned, since Tolerance is higher than measured deviation.
+PSC-16 Device master file
+Determined that the manufacturer has established and maintained a file for each type of device that includes or refers to
+the location of device specifications, production process specifications, quality assurance procedures, traceability
+requirements, and packaging, labeling specifications, and when applicable requirements for installation and servicing.
+Confirmed that the manufacturer determined the extent of traceability based on the risk posed by the device in the event
+the device does not meet specified requirements
+Australia (TGA):
+nla
+Brazil (ANVISA):
+Verify that the manufacturer has established and maintains procedures to ensure integrity and to prevent accidental
+mixing of labels, instructions, and packaging materials.
+Confirm that the manufacturer has ensured that labels are designed, printed and, where applicable, applied so that they
+remain legible and attached to the product during processing, storage, handling and use.
+Canada (HC):
+Verify that the manufacturer maintains objective evidence that devices meet the safety and effectiveness requirements of
+the CMDR.
+United States (FDA):
+Fertigungsauftrag 62730484 2023-09-11 /2023-09-20
+Herstellprotokoll 62730484 2023-09-21, SN ASSJ-0476
+Fertigungsauftrag 62730492 2023-09-12 /2023-09-20
+Herstellprotokoll 62730492 2023-09-21, SN ASSJ-0484
+PSC17 Production record; evidence of compliance of released devices
+Determined if the manufacturer has established and maintained a record of the amount manufactured and approved for
+distribution for each batch of medical devices, the record is verified and approved, the device is manufactured according
+to the file referenced in task 16, and the requirements for product release were met and documented.
+Order Confirmation Kundenauftrag 1200338274 2023-09-01, Customer Drager Nederland B.V.
+- Fertigungsauftrag 62730484 2023-09-11 /2023-09-20
+- Herstellprotokoll 62730484 2023-09-21, SN ASSJ-0476
+- Fertigungsauftrag 62730492 2023-09-12 /2023-09-20
+- Herstellprotokoll 62730492 2023-09-21, SN ASSJ-0484
+Brazil (ANVISA):
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140 - en - 04.00 , Rev. 04.00
+United States (FDA):
+DWAG PQ2140 : International Labeling Requirements - for Medical Devices DWAG PQ2140 - en - 04.00 , Rev. 04.00
+PSC-21 Acceptance activities
+Verified that acceptance activities assure conformity with specifications and are documented.
+Confirmed that the extent of acceptance activities is commensurate with the risk posed by the device.
+Brazil (ANVISA):
+DEMF PQ8050 : Statistical Techniques DEMF PQ8050 - en_de - 00.00 , Rev. 00.00
+United States (FDA):
+DEMF PQ8050 : Statistical Techniques DEMF PQ8050 - en_de - 00.00 , Rev. 00.00
+PSC-22 Identification, control, and disposition of nonconforming products
+Verifed that the identification, control, and disposition of nonconforming products is adequate, based on the risk the
+nonconformity poses to the device meeting its specified requirements.
+
+Reviewed DEMF SE4300 : Factory Services DEMF SE4300 - en - 01.00 , Rev. 01.00
+
+documents DEMF SC6700 : Handhabung elektrostatisch gefahrdeter Bauteile (ESD) DEMF - SC6700 - de - 00.01 , Rev. 00.01
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 65 of 107

@@ -1,0 +1,115 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Authorized representative accepted its designation in writing, and it is effective at least for all devices of the same
+generic device group —
+The Contract for legal -Draeger Medical systems Inc, USA
+The agreement demonstrated:
+Agreement Draeger Telford USA and Dragerwerk AG Liibeck Germany 24 Jan 2019
+
+PUR #7 - Purchasing
+
+The re-evaluation of the capability of suppliers to meet specified requirements is performed with the significance of the
+product on the finished device. Re-evaluation is performed with the same system as initial evaluation.
+
+REF to Task 4 for detailed description and examples
+
+PUR #8 - Verification of the adequacy of purchasing information, specified purchase requirements, and written
+agreement to notify changes, before their communication to the supplier
+
+It could be verified that Draegerwerk assures the adequacy of purchasing requirements for products and services that
+suppliers are to provide, and defines risk management activities and any necessary risk control measures.
+
+This is ensured by Approved Drawings, Incoming Goods Inspections Test Plan,
+
+Einkaufsrahmenvertrag, Quality Assurance Agreement.
+
+QSVs are needed at least in cases if Supplied Parts are to be traceable.
+
+Approval of DRAGERWERK is required especially in Change Cases that affect Safety and Reliability, Conformity with
+Regulatory and Technical Standards, Form, Fit, Function and Labelling.
+
+Purchase orders are approved by the designated Material Resource Planner electronically supported and digitally
+signed, including date and signature.
+
+The requirements re defined as product specification and optionally as adoption of e QMS from Draeger by the suppliers.
+
+Example: verification of relevant information was performed for finished device (accessory) Anesthesia Set latex free
+The purchasing requirements are documented in PLM ARAS system
+
+MP00303 10 ARAS production drawing Ver 09 2020-10-22
+
+MP00303 10 ARAS Part specification Anesthesia Set latex free 2020-11-09
+
+Brazil:
+The purchase orders are approved by a designated person with electronic signature in SAP system
+
+PUR #9 - Documented purchasing information and specified purchase requirements
+
+Verified that the medical device organization documents purchasing information, including where appropriate the
+requirements for approval of product, procedures, processes, equipment, qualification of personnel, sterilization services,
+and other quality management system requirements.
+
+It also was confirmed that documents and records for purchasing are consistent with traceability requirements where
+applicable.
+
+Example: assessment was performed in relation to plastic hood for part for Babyleo TN500 incubator and a radiant
+warmer — t was verified that the degassing process is performed for hood in production: The Part drawing was requested
+and demonstrated during the audit.
+
+Production Drawing Hood Complete Part 2 M60010 156.01.2020
+Degassing process is defined as 180min at 80C
+
+PUR #10 - Verification of purchased products
+
+It could be confirmed that the verification (inspection or other activities) of purchased products is adequate to ensure
+specified requirements are met.
+
+Further it could be confirmed that DRAGER has implemented an appropriate combination of controls applied to the
+supplier, the specification of purchase requirements, and acceptance verification activities that are commensurate with
+the risk of the supplied product upon the finished device.
+
+Verified that records of verification activities are maintained.
+
+Example was verified in relation to the prat sampled during the audit of production floor for Babyleo TN500 incubator and
+a radiant warmer. Records of successful inspection demonstrated as following:
+
+Example observed for the Part 368451 The test protocol incoming inspection Part 8421200
+
+N 3 parts were checked from overall 192 incoming batch.
+Brazil is covered.
+
+PUR #11 - Purchasing control activities as source of quality data for the measurement, analysis, and improvement
+process
+
+The periodical process for the quality review according to the defined process, the example was demonstrated for BU
+TH, the process is defined DEMF 1010, the BU has identified specific requirements, each commodity is looked at twice a
+year according to the reequipments defined in Purchasing and supplier Quality control review Definition BU Therapy
+Sept 2022
+
+PUR #12 - Top management commitment to the purchasing process
+Based on the observed exampled and process, Top Management has demonstrated commitment to the Purchasing
+process
+
+Reviewed
+documents
+and records
+(identification
+and revision)
+
+ID: 31505
+
+Quality Manual CS100.
+
+List of outsourced process Rev 07 2023-08-25
+
+BU Therapy Commodity review M2 (PCBA units Quality) Septembers 20223
+DCS SC5120-en-013-02.00 Incoming Inspection Planning
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 95 of 107

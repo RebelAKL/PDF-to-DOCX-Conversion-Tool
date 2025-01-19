@@ -1,0 +1,127 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+Subsystem Design and Development
+
+D&D #11 (MGa
+ISO 13485:2016: 4.2.1, 7.3.7;
+
+Process Description:
+The clinical evaluation is part of the technical documentation.
+
+The process IN 4250 is outlined in BIC process management system:
+
+1. Step: new or existing product change-for new
+
+2. Clinical development plan necessary, including initial literature review, clinical study necessary
+
+3. Pre clinical investigation necessary
+
+Design change:
+
+Via DC request=> significant change, nonsignificant changes results in an Amendment => assessment results in new
+clinical evaluation
+
+Literature search report: separate as output document of clinical evaluation
+
+*CEP
+
+* CDP
+
++ PSURs
+
++ PMCF plan=>activities=> evaluation report
+
++ SSCP necessary=> not available at Drager
+
+D&D #12 - n/A (MGa
+
+D&D__#13  (MGa
+
+Process Description:
+
+The Design and Development Change is described in DMS IN 4230 Design Change Process. The reviewed project “Air
+Force One” was conducted as a new product development.
+
+General description of Design changes:
+
+DCR design change request will be submitted
+
+Each employee can submit this, at the Review a decision will be made if the project will be started or not
+DCR (design change request) will be proceeded with Pro X, plug in of SAP deliverables,
+
+Object changes, e.g. drawings, specs,
+
+Change specific review, market approvals
+
+Market authorization will be handled by RA
+
+Change accepted and implementation
+
+Key process documents reviewed:
+
+DMS IN 4230 Design Change Process
+
+D&D #14 (MGa’
+
+ISO 13485:2016: 4.2.1, 7.3.2, 7.3.5;
+
+Process Description:
+
+After completion of specific design phases a design review of defined personnel (independent) has been performed. A
+formal design review needs be conducted and documented before closure of a specific Design Phase.
+
+US:
+
+Applicable representatives are involved in the development process and approval process.
+
+For further description, please see also task DD-3
+
+D&D 15 (MGa’
+ISO 13485:2016: 7.3.9;
+
+Process Description:
+The Design and Development Change is described in DMS IN 4230 Design Change Process. The reviewed project
+“Humidstar 2+LL” was conducted as a new product development.
+
+D&D #16 (MGa
+ISO 13485:2016: 4.2.1, 4.2.3, 7.3.8
+
+Process Description:
+
+At the end of design and development the design has been transferred to the production site at ULAX, contracted
+supplier.
+
+Approved part specification are mandatory an OA (Object Approval) can be issued.
+
+OA difference between new products, changes, prototype or logistical changes. Responsibility matrix is given.
+OA is implemented in OX -change tool in SAP.
+
+All relevant activities have to be finalized before OA started.
+
+Review by D&D: complete and correct
+
+Australia:
+
+The release, includes date and signature of the responsible (manual or electronic )is documented
+
+MRP Material resource planning: all data in SAP
+
+Buy workflow has to be finalized before outsourced manufacturing starts
+
+Part
+
+FAI required=> quality confirms FAI is ok
+
+Label data: release of label department
+
+Confirm end of OA: released by R&D, RA & Quality
+
+D&D 17 (MGa’
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 40 of 107

@@ -1,0 +1,110 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Measurement, Analysis, and Improvement - CAPA and Internal Audit
+
+ID: 31505
+
+This is assured with approval process DEMF SC6500, which defines for creation, changes and approvals of process
+descriptions.
+
+Risk evaluation :
+
+Samples process change with DEMF SC6500: Anlage A02:
+
+DEMF SC6500: Anlage A02 ATLAN Arbeitsplatz SM2 SM1
+
+DEMF SC6500: Anlage A02 Babyleo Arbeitsplatz SM2 SM1,
+
+Canada:
+
+Verify that the manufacturer has a process or procedure for identifying a “significant change” to a class III or IV device.
+Verify that information about “significant changes” is submitted in a medical device license amendment application
+[CMDR 1, 34].
+
+Requirements implementation Verified and described withis two audited samples:
+
+DEMF SC6500: Anlage A02 zu Dokumentation von Produktionsprozessen, 02, point 4. ,Bewertung der Anderungen*
+including question ,Aktuailsierung Process FMEA ,, and ,, Verification needed” and Validierung erforderlich” . Additional
+it is assured that if any change in STED of products is needed (change in PQ 2110), that the Design change process is
+applicable and respective reports will be done. Assessment of changes are triggered and the following SOP’s and
+instructions have to be followed for decision about significant change and related duties:
+
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 04.00 , Rev. 04.00
+
+A08 DWAG PQ2110 Assessment of changes to medical devices, rev 04.00 — specifics of all MDSAP countries are
+inserted (Canada/Brazil/Japan/Australia/USA/Europe) and supported by change overview matrix with further country
+specifics of all MDSAP countries helping for the decision whether there is a significant change. If any significant
+change is evaluated a regulatory affairs manager will be informed for conduction of all further needed steps related to
+different MDSAP areas affected
+
+Australia:
+
+Confirm that the Manufacturer’s procedure for dealing with substantial changes to a critical process (e.g. sterilization,
+processing materials of animal origin, processing materials of microbial or recombinant origin, or processes that
+incorporate a medicinal substance in a medical device), requires the Manufacturer to notify the Auditing Organization
+of their plans before implementing a change to a critical process. The Auditing Organization is to assess the proposed
+change before implementation by the Manufacturer, to determine if the requirements of the relevant conformity
+assessment procedure will still be met after the change. [TG(MD)R Sch3 P1 1.5(2)].
+
+If the Manufacturer is also a holder of a TGA Conformity Assessment Certificate, then the Manufacturer is also required
+to notify the TGA of these changes, prior to implementation.
+
+Requirements implementation Verified and described within two audited samples:
+
+DEMF SC6500: Anlage A02 zu Dokumentation von Produktionsprozessen, 02, point 4. ,Bewertung der Anderungen*
+including question ,Aktuaisierung Process FMEA ,, and ,, Verification needed” and Validierung erforderlich” . Additional
+it is assured that if any change in STED of products is needed (change in PQ 2110), that the Design change process is
+applicable and respective reports will be done. Assessment of changes are triggered and the following SOP’s and
+instructions have to be followed for decision about significant change and related duties:
+
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 04.00 , Rev. 04.00
+
+A08 DWAG PQ2110 Assessment of changes to medical devices, rev 04.00 — specifics of all MDSAP countries are
+inserted (Canada/Brazil/Japan/Australia/USA/Europe) and supported by change overview matrix with further country
+specifics of all MDSAP countries helping for the decision whether there is a significant change. If any significant
+change is evaluated a regulatory affairs manager will be informed for conduction of all further needed steps related to
+different MDSAP areas affected
+
+Japan:
+
+Confirm that when the Registered Manufacturing Site plans to make a significant change to a manufacturing processes
+(e.g. sterilization site change, manufacturing site change), the Registered Manufacturing Site notifies the Marketing
+Authorization Holder so as the Marketing Authorization Holder can take appropriate regulatory actions [MHLW MO169:
+29].
+
+Requirements implementation Verified and described within two audited samples:
+
+DEMF SC6500: Anlage A02 zu Dokumentation von Produktionsprozessen, 02, point 4. ,Bewertung der Anderungen*
+including question ,Aktuaisierung Process FMEA ,, and ,, Verification needed” and Validierung erforderlich” . Additional
+it is assured that if any change in STED of products is needed (change in PQ 2110), that the Design change process is
+applicable and respective reports will be done. Assessment of changes are triggered and the following SOP’s and
+instructions have to be followed for decision about significant change and related duties:
+
+DWAG PQ2110 : Regulatory Approval to Market Product DWAG PQ2110 - en - 04.00 , Rev. 04.00
+
+A08 DWAG PQ2110 Assessment of changes to medical devices, rev 04.00 — specifics of all MDSAP countries are
+inserted (Canada/Brazil/Japan/Australia/USA/Europe) and supported by change overview matrix with further country
+specifics of all MDSAP countries helping for the decision whether there is a significant change. If any significant
+change is evaluated a regulatory affairs manager will be informed for conduction of all further needed steps related to
+different MDSAP areas affected.
+
+MAI 8 — Identification and Control of Nonconforming Product (HD)
+
+Manufacturer has established the process to assure controls are in place to ensure that product which does not
+conform to product requirements is identified, isolated and investigation is performed.
+
+The auditor has reviewed examples of communication and documentation and investigation of NC product — the
+examples are listed below in the key records.
+
+MAI 9 - Action Regarding Nonconforming Product Detected After Delivery (HD)
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 21 of 107

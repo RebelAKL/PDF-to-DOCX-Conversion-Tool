@@ -1,0 +1,73 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Design and Development
+List of applicable standard for the HME device are listed within the PTS.
+“Production and test specification for medical breathing filters and HME”
+US:
+A process is in place to identify the applicable requirements.
+D&D #5 (MGa’
+ISO 13485:2016: 4.2.1, 5.2, 7.2.1, 7.3.3;
+Process Description:
+Design Inputs are for example user needs, customer functional, performance and safety requirements, intended use and
+regulatory requirements. For each project there is an applicable list of standards documented which needs to be applied
+within the development phase. Regulatory, functional and safety requirements as well as intend use are subject to SOP
+and are also addressed in the design change by tailoring of the development process. Requirements are checked for
+conflicts in the system requirements review report. Risk management outputs serve as design input.
+For US:
+No 510k is applicable for the selected device
+D&D #6 (MGa’
+ISO 13485:2016: 7.3.3
+Process Description:
+The Design Inputs are unambiguous and do not conflict with each other. Requirements are checked for conflicts in the
+system requirements review report. All requirements are checked and approved within the SAR.
+For Humidstar 2+LL project no Management commitment and Kick off meeting was not requested as the product
+portfolio AFO was already approved. For the development process of Humidstar 2+LL as part of the portfolio the gates 1
+& 2 had been skipped.
+The list of deliverables (required records) had to be fulfilled.
+Australia:
+Relevant Medical Device Standards are considered and in scope of the development process for Humidstar 2+ LL
+D&D #7 (MGa’
+ISO 13485:2016: 4.2.1,4.2.3, 7.3.4
+Process Description:
+Design and development outputs (e.g. device specifications) are traceable to the design and development inputs.
+Specifications are also traceable to the verifications. Traceability description for the change project reviewed.
+For the Medical Device File a documentation matrix is available which shows the locations of the applicable specification,
+bill of material, applicable tests.
+DEALL PQ3130 Control of Documents and Records, Rev.4, 2023-07-06:
+A 02, 2023-09-12: Dokumentationsmatrix: Device master record (DMR):
+Parts of DMR predefined for design transfer.
+Partial specification, and other specification are listed.
+The cross functional team decided supplier ULAX, Motala Sweden, producer of the HME foam.
+D&D #8 (MGa’
+ISO 13485:2016: 4.2.1, 7.1, 7.3.3, 7.3.4;
+Process Description:
+General the risk management is applied,.
+A complete Risk Management process according to ISO 14971 is implemented and is part of the design and
+development. Risk acceptance criteria are defined. Risk management has been adapted for change and is up-to-date.
+The risk management includes the identification of risks, its assessment and the definition of measures to counteract
+those risks.
+Companywide risks are assessed; Severity and Probability are defined, and measurable with results in defined classes
+“frequent, occasional, low, impossible”.
+US: Identified risks are reduced as far as possible, reduction of risks are dedicated to a new assessment to avoid
+implementation of new hazards.
+D&D #9 (MGa’
+ISO 13485:2016: 7.1, 7.3.6, 7.3.7;
+Process Description:
+In the design and development verification/validation the effectiveness of the risk control measures are verified.
+Verification testing is a central part of the design process and is typically conducted in an independent design verification
+department. These activities include testing against international standards.
+D&D #10 (MGa’
+ISO 13485:2016: 4.2.1, 7.3.7;
+Process Description:
+The development validation phase shows that the design meets the intended use.
+Australia:
+environmental conditions are considered and described within the IFU, e.g. temperature, re. humidity and ambient
+pressure, see DD-1
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 39 of 107

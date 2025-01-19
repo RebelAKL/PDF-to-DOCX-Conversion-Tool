@@ -1,0 +1,112 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Anlauffabrik/Startup Factory)
+
+ID: 31505
+
+900 m?production Space
+140m? Albus Production Space
+NPI — New Product Introduction
+
+United States (FDA):
+
+Confirmed that the organization has determined the applicability of unique device identifier requirements per 21 CFR 801
+and 21 CFR 830, has obtained the unique device identifiers from an FDA-accredited UDI-issuing agency, and the
+required data elements have been entered in the Global Unique Device Identification Database (GUDID) [21 CFR 801,
+830].
+
+PSC#2 Selection of production and service process(es)
+
+Reviewed production processes considering the following criteria and selected several production processes to audit.
+Priority criteria for selection:
+
++ Use of production processes that directly impact the ability of the device to meet its essential design outputs
+
++ New production processes or new product to be introduced in future (Albus Ventilation System (0-Series planned for
+2027).
+
+PSC#5 Infrastructure
+
+Verified that the organization has determined and documented the infrastructure requirements to achieve product
+conformity, including buildings, workspace, process equipment, and supporting services.
+
+Confirmed that buildings, workspaces, and supporting services allow product to meet requirements.
+
+Verified that there are documented and implemented requirements for maintenance of process equipment where
+important for product quality, and that records of maintenance are maintained.
+
+Brazil (ANVISA):
+Verified that manufacturing facilities are configured in order to provide adequate means for people flow. [RDC ANVISA
+16/2013: 5.1.2].
+
+PSC#6 Work environment
+
+Verified that documented requirements have been established, implemented and maintained for:
+
+- health, cleanliness, and clothing of personnel that could have an adverse effect on
+
+- product quality
+
+- monitoring and controlling work environment conditions that can have an adverse effect on product quality
+
+- training or supervision of personnel who are required to work under special environmental conditions
+
+- controlling contaminated or potentially contaminated product (including returned products) in order to prevent
+contamination of other product, the work environment, or personnel.
+
+Brazil (ANVISA)
+No specific Biosaftey Standards applicable
+
+PSC#7 Identification of processes subject to validation
+
+Determined if the selected process(es) and sub-process(es) have been reviewed, including any outsourced processes,
+to determine if validation of these processes is required. At the stage being, no process validation is required (100%
+individual end control of finished medical devices.
+
+Brazil (ANVISA):
+nla
+
+United States (FDA):
+Process validation n/a
+
+PSC #10 Monitoring and measurement of product conformity
+
+Verified that the system for monitoring and measuring of product characteristics is capable of demonstrating the
+conformity of products to specified requirements.
+
+It could be confirmed that product risk is considered in the type and extent of product monitoring activities.
+
+PSC#11 Control, operation, and monitoring of the production and service process; risk controls
+Verifed that the processes used in production and service are appropriately controlled, monitored, operated within
+specified limits and documented in the product realization records.
+
+In addition, verifed that risk control measures identified by the manufacturer for production processes are implemented,
+monitored and evaluated.
+
+At time of audit, Integration System iteration 3 is ongoing with 130 devices to be produced; this is made under as realistic
+production conditions as possible, however, not yet with finally approved components, parts, work instructions and
+measuring equipment. Produced devices are not yet labelled with a CE mark, however, rest of label is already as realistic
+as in this development stage possible. All devices manufacture in this stage will stay internally; they are either provided
+to R+D for further development input, or to Test center for testing; none of these devices is planned or qualified to be
+placed on the market, all integration systems will be scrapped later.
+
+Traceability
+
+SAP status ensures that Integration Systems are logistically not able to be placed on the market. This is traced
+electronically by Revision Index, Serialnumber, material number
+
+Material number and revision index must be released in SAP with status "Serial" to be shippable; Serial number also
+contains date information that would prevent future erroneous release/marketing.
+
+Production requirements - Albus Production requirements 11028963 rev.02
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 59 of 107

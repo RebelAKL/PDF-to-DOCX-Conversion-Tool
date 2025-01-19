@@ -1,0 +1,134 @@
+- N
+
+Audit Report Ty)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Order Number 0713308726
+Audit Mode On-Site
+- OO Stage 1 O Stage 2 O Stage 1 + Stage 2
+
+Type of Audit Re-Certification O) 1st Surveillance O) 2nd Surveillance
+
+(DIN) EN ISO 13485:2021
+
+EN ISO 13485:2016+A11:2021
+
+0 ISO 13485:2016
+
+ISO 9001:2015
+
+Defined processes and documentation of the auditee’s
+
+Quality Management System
+
+Taiwan GMP
+
+QO Other:
+
+European Directives including the additional requirements of MDR Article 120 (3) after May 26" 2021 and IVDR
+
+Audit criteria
+
+Article 110 (3) after May 26" 2022:
+
+Council Directives 93/42/EEC (MDD) — annex II (w/o 4)
+
+O Council Directives 93/42/EEC (MDD) — annex V
+European Regulations:
+
+Medical Device Regulation (EU) 2017/745 — annex IX Chapters | and Ill
+MDSAP with additional country-specific requirements:
+
+Australia (TGA)
+
+Brazil (ANVISA)
+
+Canada (HC)
+
+Japan (MHLW/PMDA)
+
+United States (FDA)
+
+Audit period (on
+site)
+
+2023-09-18 - 2023-09-22
+
+Auditee (s) /
+Location(s)
+
+1) Dragerwerk AG & Co. KGaA, Moislinger Allee 53-55, 23542 Libeck, GERMANY (10578)
+2) Dragerwerk AG & Co. KGaA, Revalstrasse 1, 23560 Liibeck, GERMANY (90464)
+
+Audit Responsible
+
+Ulf Hagedorn
+
+Lead Auditor /
+Auditor
+
+Martin Szepannek / George Pavlov, Melanie Gaen, Gabriele Mousset (under routine-monitoring ISO 9001 by
+M. Szepannek), Honorata Donnermaier
+
+Expert / Trainee
+
+Somesh Rasal (deputy Expert for Jan Ktffner) - Cybersecurity
+
+Auditor/ Expert
+Covering Code
+
+George Pavlov (MDT 2002, MDT 2010, MDT 2011, MDT 2012, EAC 14, EAC 19, EAC 33, MDA 0203, MDA
+0307, MDA 0315, MD 1101.1, MD 1301, MD 1302, MD 1402_1, MDS 1005_2, MDS 1009, MDS 7006_2)
+Gabriele Mousset (EAC 19, MDT 2010, MDT 2011, MDT 2012, MDA 0307, MDA 0315, MDA 0312_1, MD
+1101.1, MD 1102, MD 1111, MD 1301)
+
+Honorata Donnermair (MDT 2001, MDT 2003, MDN 1201)
+
+Martin Szepannek (EAC 19, MDT 2010, MDT 2011, MDA 0203, MDA 0303.1, MD 1301, MDA 0307, MDA 0315,
+MDA 0316, MD 1302)
+
+Melanie Gaken (MDT 2002, MDN 1201, MDN 1214, MD 0101.1)
+
+Auditor Reg. No. nla
+(Mainland China
+
+only)
+
+Translator / nla
+
+Observer and their
+organization
+
+Audit Language
+
+German / English
+
+Client / Company
+and Company
+Number
+
+10578
+Dragerwerk GmbH & Co KGaA
+
+Client Management
+Representative
+
+Stefanie Hirsch (Head of Quality & Regulatory Affairs)
+
+TUV SUD Contact
+
+Maximilian Sanno, MHS-AP5
+
+Proposed next
+regular Audit - Date
+/ Type of audit
+
+ID: 31505
+
+September 16, 2024
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 1 of 107

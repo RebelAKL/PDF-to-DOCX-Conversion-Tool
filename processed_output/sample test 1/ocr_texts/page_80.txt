@@ -1,0 +1,75 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe / BabyLeo)
+Competency / Training records verified in respect to the prodcuation operate in the Final Function ? temperature test
+Babylog TN 500 — train records were demonstrated in relation to the operation performed during the audit.
+Training for Final release of production records Arbeits Vorganag 1590 was verified in relation of Operator Dirk Schnoor
+— who was observed as released DHR at last step of basis Device — demonstrated during the audit
+PSC 13 - Control of monitoring and measuring device
+It was observed that measurement equipment in production area are identified with individual ID numbers, also the
+measurement equipment which used as part of production rigs / stations.
+The measurement equipment critical for safety and performance was sampled and verified during the audit:
+Calibration certificate.
+US 416581 Torque controlled wrench - Calibration certificate by Test valid 28.10.2020
+Electrical screwdriver
+Additionally, calibration certificates were verified for Temperature measurement station / Functional test
+Temperature Measurement Station ID 505278 / 4214. It was confirmed the calibration was performed in time and
+includes both multichannel station and related thermocouples.
+PSC 14 - Impact analysis of monitoring and measuring device found out of specifications
+Impact is investigation in relation of the instrument, which failed calibration - investigation demonstrated: the decision to
+write of the instruments, the analysis of the impact was performed in respect of the medical devices,
+According to justification, the toque of the wrench, which failed calibration was within the tolerated are - statement:
+no additional risk observed, the investigation performed by the device responsible manager.
+PSC 16 - Device master file
+He DMR is generated according to the DEALL PQ3130_A02_ - Rev 04.02
+This document defines the summary of the documentation, which must be prepared as part of the DMR.
+///Example — DMR Baby Leo TN500/// [GP]
+The set of documents straws provided during the audit as evidence of the documented DMR.
+Element of DMR were produced
+9054863_09 IfU Babyleo TN500 SW 1.0n EN 2021-06-22
+2M60003_17 Produktions- und Test Specification BABYLEO TN500 2023-01-16
+2M60002_11_Assembly_TN500 2M60002 — 11 Assembly Drawing top level 2022-12-09
+2M60002_11 Part- Specification for Assembly TN500 2022-12-09
+2M60000_29_AP_HA_HP Druckliste Arbeitsplan — 2M60000 the list for Work Instruction 22.09.2023
+2M60000_29 Part- Specification for Babyleo TN500 2023-02-22
+2M60000_28 Information fir Ruckverfolgb Rev 28
+Australia / Brazil / Canada
+DEMF SC_A6200_A02-de-01 Erlaueterung und darstellung —
+The review- and approval of DHR ASRM0019 07.11.2022
+The release of the Label is documented and approved in DHR
+Verification of the Label — according to the to DEMF SC6400_A01-de-00
+The labelling is printed directly in the production and verified as part of the final release according to according to the to
+DEMF SC6400_A01-de-00
+/US
+Each device maintains the Serial Number which is used for traceability
+PSC 17 - Production record; evidence of compliance of released devices
+The DHR is formed at the production of top-level sub-assemblies and is defined as sub-DHR , the linked to the top-level
+DHR for Basis device, and subsequently the DHR for the finished configured device via serial numbers of subassemblies
+and finished device.
+DHR was sampled from the distribution list and demonstrated during the audit for the device TN500 ASRL 0056
+The auditor has observed the final approval and review stage from production of Babyleo TN500 Basis device — it was
+explained that DHR is regarded as approved if all sub-DHRs are completed without errors, and accepted this is an
+automatic step in SAP. The review is confirmed by the electronic signature of the operator
+Brazil
+Device history record of the product includes date of manufacture; components used; quantity manufactured (usually — 1
+pcs as DHR is documented for one device); results of inspections and tests; parameters of special processes; quantity
+released for distribution; labeling; identification of the serial number or batch of production; and final release of the
+product [
+The approval, including date, name, and_ electronic signature of the person responsible, must be documented is
+documented.
+US
+The process is defined in DWAG PQ2140-en-04.00. Labels are printed and issued to production for each individual
+device, verification is performed by the Operator in production line.
+UDI is established and maintained — verified during the audit:
+Part No 2M60000 / BabyLeo TN 500
+Basic UDI DI 040486751306011VK19Z0008,
+Main GTIN (UDI DI) 04048675436607
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 80 of 107

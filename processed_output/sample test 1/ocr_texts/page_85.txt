@@ -1,0 +1,75 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (Revalstrafe / HM Filter)
+ISO 13485:2016: 4.2.1, 6.3, 7.5.1;
+Process Description:
+Drager realizes that product quality can be influenced by the production work environment. Drager directs, regulates,
+coordinates, and monitors activities and variables that affect the conditions such that the quality of the work environment
+is known. Manufacturing equipment is designed, constructed, installed, and located to facilitate proper operation,
+maintenance, adjustment, and cleaning.
+The organization has determined and documented the infrastructure requirements to achieve product conformity,
+including buildings, workspace, process equipment, and supporting services.
+Buildings, workspaces, and supporting services allow product to meet requirements.
+There are documented and implemented requirements for maintenance of process equipment where important for
+product quality, and that records of maintenance are maintained.
+In the Cleanroom the monitoring of temperature and humidity is ensured by continuously measuring by installed sensors.
+For the access of the cleanroom, material and personal locks are separated. Clear instruction for entrance are available.
+PSC -6
+ISO 13485:2016: 4.2.1, 6.4; TG
+Process Description:
+Please see also task PCS 5
+Hygiene instruction are outlined, protection equipment such as coat, hair/ facial hair cover and shoe covers are
+mandatory for entering the cleanroom.
+Equipment permitted in the cleanroom are
+mobiles, cosmetics and jewelries, persons with pacemakers are permitted to enter the cleanroom.
+Monitoring of cleanroom is conducted twice a week, Tuesday and Thursday . In operation the particle count is
+conducted.
+26 sampling locations are defined; sonde is located of the height of activities.
+Exceptional measuring reasons are given, e.g. in case of a black out
+Alarm and Action level and limit exceeding are defined: according to ISO 14644-1
+The maintenance of the cleanroom is outsourced to Drager Gebaude und Service GmbH.
+If action limit is exceeded, required actions are defined, such as e.g. information to dedicated responsible persons,
+Change of Air input sacks:
+PSC-7:
+ISO 13485:2016: 4.2.1, 4.1.6, 7.5.6;
+Process Description:
+The organization determine which production processes require validation and which processes can be verified during
+the design and development process. Process validation may apply to processes that generate components,
+subassemblies, or finished devices.
+As an examples of processes that require validation label information printing of the AFO line had been audited. The
+Bellmark printer had been newly implemented.
+PSC-11
+Process Description
+Control and monitoring procedures include in-process and finished device acceptance activities as well as environmental
+and contamination control measures.
+Processes used in production are controlled, monitored, operated within specific limits. Work instructions for assembling
+are available and final tests are established. Final test reviewed.
+The cleaning of the cleanroom is conducted by an external service provider.
+Please see also PSC-2/ PSC-6
+PSC-12:
+A training records of external cleaning operators had been reviewed. The hygiene instructions are trained on regular
+basis.
+PSC-13
+ISO 13485:2016: 7.5.1, 7.6;
+Process Description:
+Production and test equipment selected for review is suitable for its intended purpose and capable of giving valid results.
+Monitoring and measurement devices are defined, calibrated in specific intervals and maintained. The calibration is
+done internal and external.
+Drager has determined the monitoring and measurement to be undertaken and the monitoring and measuring devices
+needed to provide evidence of conformity of product
+PSc-14
+ISO 13485:2016: 7.5.1, 7.6;
+Process Description
+The measurement equipment is appropriate labeled. An impact analysis of monitoring and measuring device found out of
+specifications is required according to SOP. Product labels are printed and directly attached to the product.
+PSC-16
+Process Description:
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 85 of 107

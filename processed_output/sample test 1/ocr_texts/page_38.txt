@@ -1,0 +1,131 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Design and Development
+
+ID: 31505
+
+Australia:
+The technical documentation will be issued in parallel to the development phase, end with the successful CE marking.
+
+Brazil/ Canada/ Japan:
+In general a List of applicable standards, depending on which countries included in product requirements, is available.
+
+Key process documents reviewed:
+
+DWG 1n4200en 01.00 Design, 2021-10-01
+
+Process describes the Stage gate approach:
+
+Gate 3.0-8.0
+
+DWAG IN 4230 Design Changes, en, 05.00, 2023-06-30
+
+Specific Personnel Competency and Training
+
+ISO 13485: 6.2
+
+Roles profiles are defined for each role. The roles are implemented in the electronic training tool, the appropriate training
+are linked to the required competence trainings matrix. Training needs are identified.
+
+Training can be conducted external, classroom training or self-training.
+
+The training pensums are monitored annually.
+
+Documents:
+DEALL HR3400 Employee Qualification Process, 2021-10-15
+
+Records:
+
+TC Manager Records (Qualification Matrix) for
+
+M.H.: Screenshot Training tool “TC Manager”: personalized:
+
+Roles: Betriebsmittelbeauftragter; Leader Verification; Verification engineer is finalized
+Planned training: Project Management trainer planned 2023-11-09
+
+S.B.: Roles: Lifecycle manager, Medical Device Acts, ( Training completed)
+
+L.L: RA: Special and General Work instruction
+
+Training on ISO 13485; MDR, MDSAP-all completed.
+
+D&D #2 (MGa’
+
+ISO 13485:2016: 4.1.1, 4.2.1, 7.1, 7.3.]
+
+Design and Development Project “Air Force One” (AFO) had been in scope of the audit, especially for Humidstar 2+LL,
+as this device is regarded as a new development. The device is dedicated for neonates.
+
+The UDI system had been used and a Basic UDI is dedicated to the device.
+
+The device under review is the HME (heat and moister exchanger):
+
+Humidstar 2+LL
+
+The HME parts are supplied by supplier from Sweden ULAX.
+
+The HME consist of the two parts of the case (top and bottom) and the medium “foam”, which is impregnated.
+
+The example had been selected due to transfer of production.
+
+The device was not in scope of an audit and it is listed on MEDF0325.01, Rev. 11 and is certified under MDR certificate
+G10 010578 0039 Rev. 09 as RO401 - VENTILATION FILTERS: HME HumidStar 2 Plus Luer-Lock - MP05840
+0404867512080436K19T010SC R0401 MDN 1201
+
+D&D #3 (MGa’
+
+ISO 13485:2016: 4.2.1, 7.1, 7.3.2
+
+Process Description:
+
+The process DWG In4200en 01.00 Design, 2021-10-01 requires 5 design reviews at the end of the gate phases 3.0-8.0.
+For the project of HME
+
+SRR: System requirement reviews
+
+SAR: System Architecture (not applicable for the HME project )
+
+SIR: System integration review (not applicable for the HME project)
+
+VRR: Validation requirement review
+
+SVR: System validation review
+
+Description of requirements:
+
+Process steps and reference to tools are listed in attachment A02, including rolls of participants.
+
+Templates for reviews are implemented-
+
+Australia:
+
+Effective planning for the design and development steps are documented, as verified in task DD-1.
+
+Canada:
+
+As the device under review is not a class IV device this had not been reviewed in particular. However, the process
+outlines the specific quality practices, resources and sequence activities relevant to the device.
+
+Key process documents reviewed:
+
+DWG 1n4200en 01.00 Design, 2021-10-01
+
+D&D #4 (MGa’
+
+ISO 13485:2016: 4.2.1, 7.3.1,
+
+Process Description:
+
+The sampled project meets the requested requirements. All sampled product designs follow the global DMS IN4200
+development process.
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 38 of 107

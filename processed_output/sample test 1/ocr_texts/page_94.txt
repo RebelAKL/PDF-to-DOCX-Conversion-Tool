@@ -1,0 +1,117 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+DEMF SP2110 A09 — additional supplier questionnaire for Contract manufacturers /developers: Rev 01
+The shall be agreed by Quality, Product owner and Supplier Quality
+
+In the approval sheet is signed
+
+DEMF_SP2110_A01 Supplier approval sheet Ver 04 (Form)
+
+Supplier approval -
+
+DEMF SP2110 AA Rev 00 Supplier requirements for Finished medical devices 2019-04-01
+
+The Supplier Gaelmed was approved - 08 August 2016, according to the legacy process SP2010, Attachment 1
+Gaelmed Xiamen (116761) The supplier Questioner and Approval card - 08 August 2016
+
+Australia
+
+Supplier is certified by TUV Rhineland to 1S013485
+
+The supplier Category station is performed
+
+Supplier categorization table CS94676 Gaelmed Xiamen
+
+Categories Z01, Breathings Gas Contact and Traceable and
+
+CS94676 Gaelmed Xiamen Supplier prioritization record
+
+Supplier evaluation requirements demonstrated from List of prioritizations of suppliers:
+- ISO 13485 Active control
+
+- DQPE
+
+- QAA
+
+Supplier evaluation records:
+
+ISO 13485 certificate from TUV Rhineland — Gaelmed Xiamen - valid 2024-06-21
+
+ISO 13485 certificate from TUV Rhineland — Gaelmed Taiwan — valid 2023-12-28
+CS94676 Gaelmed Xiamen Supplier Delivery and Quality performance HY 02/2022 -
+CS94676 Gaelmed Xiamen Supplier Delivery and Quality performance HY 01/2023
+
+PR 123501 Vendor assessment report Gaelmed Taiwan - 09 Nov 2022
+
+PR 121516 Vendor assessment report Gaelmed Xiamen - 22 Sept 2022
+
+Quality assurance agreement Gaelmed Corporation Taiwan 27.05 2011
+
+The agreements have included the requirement for Change contra and approval from Draeger
+
+Supplier Audits — is defined as apart of initial approval.
+
+The supplier audits requirement is defined in
+
+The supplier audit report was shown for the supplier Gaelmed Taiwan
+
+The audit report for 2023 was demonstrated — detailed deport present, 7 recommendation, 1 minor Finding,
+The Auditor Jan Paulsen
+
+The audit report supplier - Gaelmed Xiamen was demonstrated 22 Sept 2022
+Lead Auditor Wang, Min; No Findings, 2 recommendations.
+
+Special Country requirements
+
+Australia (TGA):
+
+The registered Sponsor is Drager Australis PTY , Noting Hill. Vic 3168 Australia
+The Distributor agreement — contains the responsibility of the Australian sponsor
+Distributor Agreement Drager Australia PTY 10.08.2018.
+
+Japan (MHLW):
+
+The MAH for Japan is Draeger Japan LTD
+
+The Distributor Agreement Drager Japan 27 may 2019
+
+The Facility registration was demonstrated: 13B1X00173 from 2-13-17
+
+Brazil,
+
+The representative in Brazilis Draeger Industria e Comercio Ltd, Centre Impresarial tambore 06460-100 Sao Paolo ,
+Brazil
+
+The Agreement with the Brazilian regulatory representative was demonstrated:
+
+Distributor agreement Drager Brazilia — 52/08/2018
+
+Canada:
+
+Draegerwerk AG&Co Company ID 103279 , The regulatory corresponded registered Mr. Mebius from Draeger Germany,
+Canada renewal conformation by the letter from health Canada: 2022-11-09
+
+PUR #6 - Records of supplier evaluation
+REF to Task PUR 4 for the supplier evaluation records for
+- Gaelmed Corporation (China) / Gaelmed Xiamen
+- Prof Dr. Imhoff — Quality Consultant for clinical evaluation
+Additionally, the auditor has assessed investigation of supplier quality issues for Gaelmed
+The follow pa in relation to supplier quality issue was performed as part of this audit.
+The Supplier Gaelmed Xiamen — manufacturer has identified contamination (white particles) inside the breathing hose:
+Demonstrated as 8D report
+The issue was highlighted by the manufacturer of the Tube set Gaelmed - communicated via Email in July 2022 as
+telephone conference and email from Gaelmed to Drager
+The Corrective action:
+1) cleaning of the instrument every 4 hours
+2) Run DOE (design of experiment) — validated new process window
+3) Installation of Temperature Gages — for the extrusion temp of the process media am nozzle
+The Corrective corrective action completed on 07 January 2023
+MDR 2017/745 — Article 11(2)
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 94 of 107

@@ -1,0 +1,82 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Design and Development
+el]
+DD13 - Design and development change ATLAN (GM)
+Changes have to be verified and approved prior to implementation, which is done in the selected project.
+Requests can be triggered from anyone. Handling of change evaluation will be done in the tool “Prox”. Changes have to
+be approved by Product -Manager/ProjectManager/Quality assurance.
+Design changes processing in general is defined in DWAG IN4230.
+After approval the change request will be transferred into change project with related evaluation and list of deliverables.
+Out put document of evaluation is: Pre-Tailering investigation which serves for definition of mayor needed info and
+definition of responsibilities and needed reviews.
+It have to be evaluated whether additional input into risk analysis must be performed and effects on delivered products
+are checked for each request.
+Change to ATLAN 2.0 SW version was audited.
+USA:
+Verify that the organization obtained a new 510(k) or supplement to the pre-market approval if required [21 CFR 807].
+519 k for ATLAN 2.0 is available:
+510 k FDA 2023, 07.23, K 230931, approved by James J. Lee S ( ATLAN change 2.0)
+Canada:
+Verify that the manufacturer has a process or procedure for identifying a “significant change” to a Class III or IV medical
+device. Verify that information about “significant changes” is submitted in a medical device license amendment
+application [CMDR 1, 34].
+All changes will be presented at a steering Board (weekly meeting) Members of the steering board are also from R&A. In
+this steering board it will be decided whether the changes are singificant. Quality assurance (also part of the steering
+board and change process handling) is responsible that the regulatory decision will be taken. This is defined in DWAG
+IN4230. A checklist for decisoon is available DWAG PQ2110 regulatory approval to market product.
+For the audited sample no Canada approval is planned.
+Australia:
+Verify that the manufacturer has a process or procedure for notifying the auditing organization of a substantial change to
+the design process or the range of products to be manufactured [TG(MD)R Sch3 Cl1.5].
+Verify that the manufacturer has a process or procedure for identifying a proposed substantial change to the design, or
+the intended performance, of a Class AIMD or Class III device, and to notify the assessment body prior to implementing
+the change [TG(MD)R Sch3 P1 Cl 1.6(4)].
+If the Manufacturer is also a holder of a TGA Conformity Assessment Certificate, then the Manufacturer is also required
+to notify the TGA of these changes.
+Verify that Manufacturer has taken into account post-production feedback as an input to monitoring and maintaining
+product requirements and improving product realization processes.
+All changes will be presented at a steering Board (weekly meeting) Members of the steering board are also from R&A. In
+this steering board it will be decided whether the changes are singificant. Quality assurance (also part of the steering
+board and change process handling) is responsible that the regulatory decision will be taken. This is defined in DWAG
+IN4230. A checklist for decisoon is available DWAG PQ2110 regulatory approval to market product.
+PMS PLAN ATLAN/PSUR ATLAN have been audited.
+Market Clearance MC Form AUST(New Zealand), 09.06.2023 ATLAN X, 2.0
+Japan:
+For the Marketing Authorization Holder, confirm if the Marketing Authorization Holder has submitted a new application, a
+change application, or a change notification to PMDA/ a Registered Certification Body, when applicable.[PMD Act 23-2-
+5.1, 23-2-5.11, 23-2-5.17, 23-2-23.1, 23-2-23.6, 23-2-23.7].
+For the Registered Manufacturing Site, confirm if the site has a mechanism to communicate with the Marketing
+Authorization Holder about device modifications, so the Marketing Authorization Holder can take appropriate actions. If a
+critical medical device modification has happened in the Registered Manufacturing Site, confirm if the Registered
+Manufacturing Site has communicated with Marketing Authorization Holder about the change [MHLW MO169: 29].
+All changes will be presented at a steering Board (weekly meeting) Members of the steering board are also from R&A. In
+this steering board it will be decided whether the changes are singificant. Quality assurance (also part of the steering
+board and change process handling) is responsible that the regulatory decision will be taken. This is defined in DWAG
+IN4230. A checklist for decisoon is available DWAG PQ2110 regulatory approval to market product.
+Market Clearance MC Form Japan, 20.01.2023 ATLAN X, 2.0
+Brazil:
+If the medical device evaluated is already registered/notified with ANVISA, verify that the design change was correctly
+and promptly submitted to ANVISA for approval, when applicable [Brazilian Law 6360/76 - Art. 13].
+All changes will be presented at a steering Board (weekly meeting) Members of the steering board are also from R&A. In
+this steering board it will be decided whether the changes are singificant. Quality assurance (also part of the steering
+board and change process handling) is responsible that the regulatory decision will be taken. This is defined in DWAG
+IN4230. A checklist for decisoon is available DWAG PQ2110 regulatory approval to market product.
+It is not planned to get the market approval for the audited change sample for Brazil.
+DD14 - Design review (GM
+Design review for Design changes is described in the procedure DWAG IN4230 and implemented in the design and
+development plan of the selected project.
+The Review steps are individually defined in PKG-2021-003936.
+After completion of specific design phases a design review is performed and approved by defined personnel (including
+add. independent and competent members).
+Participants in the reviews of the selected project include representatives of functions concerned with the design and
+development stage being reviewed, as well as any specialist personnel needed. These were in the selected case
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 36 of 107

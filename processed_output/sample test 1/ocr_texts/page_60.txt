@@ -1,0 +1,110 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Anlauffabrik/Startup Factory)
+
+ID: 31505
+
+Produktionskonzept - Albus production Concept 11028978 Rev. 02
+
+Process FMEA 11028980 2023-06-11
+
+Albus NIV Ref. 8430003-05 SN ASSJ-0016
+
+Albus ICU-MID Ref. 8430001-05 SN ASSJ-0016
+
+> Device Status Document (currently in Excel), including Electrical Safety Test values and Final Test Results
+> Order Card 62728075 from 2023-08-25
+
+Order card contains customer order related specifications (options/variants) and order data.
+Order card 62728153 Albus NIV 8430003  ASSJ-0020
+
+PCB 8430381 Release status SAP: Prototype (which is OK for this Pre-Production State)
+Leakage Current Tester Elabo 300066/3832 next Cal 03/2024
+
+Tsi Flowmeter 20895/5550 nextCal 07/2024
+
+PSC#12 Competence of personnel
+Verified that personnel are competent to implement and maintain the processes in accordance with the requirements
+identified by the organization.
+
+PSC#13 Control of monitoring and measuring device
+
+Confirmed that the organization has determined the monitoring and measuring devices needed to provide evidence of
+conformity to specified requirements. Verified that the monitoring and measuring equipment used in production and
+service control has been identified, adjusted, calibrated and maintained, and capable of producing valid results.
+Verified that the control of the monitoring and measuring devices is adequate to ensure valid results. Confirmed that
+monitoring and measuring devices are protected from damage or deterioration.
+
+PSC#14 Impact analysis of monitoring and measuring device found out of specifications
+
+Confirmed that the organization assesses (and records) the validity of previous measurements when equipment is found
+not to conform to specified requirements, and takes appropriate action on the equipment and any product affected.
+
+n/a for this process, since devices will not be released for marketing/clinical use
+
+PSC#15 Validation of software used for the control of the production and service process
+
+Checked if the selected process are software controlled, or if software is used in production equipment or the quality
+management system. If so Verified that the software is validated for its intended use.
+
+Software validation may be part of equipment qualification.
+
+Process defines use of Checklist to define if Software is Quality relevant.
+
+A QPS Critically assessment is done — QMS software is classified into categories |, Il, or Ill. Based on that, a test
+specification is created. Criteria for classification are Software Category (non-configured, Configured, customized),
+Impact of malfunction and Propability of detection.
+
+At time of audit, 253 Quality relevant Software Tools are listed in the QPS list, of which 67 are categorized to be Class 3.
+
+Screening of Service records for potential events/Complaints has been validated (Tool existing since 2005).
+
+PSC#16 Device master file
+
+Determined that the manufacturer has established and maintained a file for each type of device that includes or refers to
+the location of device specifications, production process specifications, quality assurance procedures, traceability
+requirements, and packaging, labeling specifications, and when applicable requirements for installation and servicing.
+
+Confirmed that the manufacturer determined the extent of traceability based on the risk posed by the device in the event
+the device does not meet specified requirements
+
+Produktionsspezifikation PTS 11201373 Draft Version (will be approved to gate 6 or production readiness review).
+Contains relevant product and variant specific test requirements.
+
+Australia (TGA):
+n/a — not implantable
+
+Brazil (ANVISA):
+Dragerwerk has established and maintains procedures to ensure integrity and to prevent accidental mixing of labels,
+instructions, and packaging materials. Labels are designed, printed and, where applicable, applied so that they remain
+legible and attached to the product during processing, storage, handling and use.
+
+Canada (HC):
+Not yet applicable at thias stage of Design and Development, since products are not to be released to the market yet.
+
+United States (FDA):
+Not yet applicable at thias stage of Design and Development, since products are not to be reldeased to the market yet.
+
+PSC#17 Production record; evidence of compliance of released devices
+
+Determined that the manufacturer has established and maintained a record of the amount manufactured and approved
+for distribution for each batch of medical devices, the record is verified and approved, the device is manufactured
+according to the file referenced in task 16, and the requirements for product release were met and documented.
+
+Brazil (ANVISA):
+Verifed that the device history record of the product includes or refers to the following information: date of manufacture;
+components used; quantity manufactured; results of inspections and tests; parameters of special processes; quantity
+released for distribution [not yet recorded since devices are not to be Ireleased fto be marketed]; labeling; identification of
+the serial number or batch of production; and final release of the product L all this is recorded and documented already
+in order to simulate realisticconditions.
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 60 of 107

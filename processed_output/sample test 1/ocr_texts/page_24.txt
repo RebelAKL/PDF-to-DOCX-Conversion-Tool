@@ -1,0 +1,76 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+Subsystem Measurement, Analysis, and Improvement - CAPA and Internal Audit
+DCS PQ2510-013-en-00.01 SOP Corrective and Preventive Actions. Rev. 00.01. 03.09.2020
+CAPA decision sheet 2023_Q2 Humidification
+MAI 3 (GM
+#12237 1/#122373/#122374/#1 2237 7/#122378-> all audited cases have root cause analysis
+One case audited deeper with related 5 WHY analysis:
+Audit 19.09.2023 #122373 (documented action)
+Re-open Product CAPA PR96387 and update 3D5Why - complete Root Cause analysis and derive necessary
+(corrective) actions if applicable product “Babyleo” TN500 unacceptable pollution degree- root analysis reopened and
+updated under usage of 5 Why- root cause result: mistakenly not identified as “complex component”. 5 Why template
+updated,30.06.2023.
+#103501 production and process controls, rework not documented on process. Risk evaluation, no risk for
+product/user/patient/employees/environment but a risk for IMS
+PQ3300 — A02 Risk evaluation template to #103501 risk for IMS documented but accepted because only IMS and not
+product patient user or environment affected.
+#117431 CAPA timelines, overdue. Risk evaluation, no risk for product/user/patient/employees/environment but a risk
+for IMS
+PQ3300 — A02 Risk evaluation template to #117431 risk for IMS documented certification endangers
+certicication_actions are defined -> see action list under MAI 1
+MAI 3/4 (HD
+DCS PQ 2010 de 013 -02.00 Complain Handling 2020-03-01.
+DSC SC 5220 Handling of supplier nonconformance reports for field materials.
+DWAG |N4230 design changes revision 5.0 dd. 30.06.2023
+DCS PQ 2030 The letter to customer
+DCS PQ 2010 A05 Investigation report on the complaint
+DCS PQ 2010 A07 revision 13 List of criteria for examinations
+PR 124066 — Brazil
+Email Fa. GPE dd 09.12.2022
+PR 124066 dd. 03.11.2022
+PR 1321136 dd. 21.06.2023
+PR 126323 dd. 06.12.2022
+PR 126748 dd. 08 12.2022
+DCR 2023 - 004142
+DCR 2023 000515
+DCR 2023-001245
+MAI 4/MAI5 (GM
+1/2DR -000069 Prozess-FMEA PIA-PIA2_00, 18.10.2022 (0 revision because of usage of a new FMEA tool)-
+underlying sources of identified risks have been evaluated and documented
+Management Review 2022 — DWAG 2022-03-22, signed by Stefanie Hirsch and Mr. Schrofner
+Onepager MR input 2023:
+Example One Pager: internal audit results: findings will be analysed acc. _ to relation to all relevant processes.
+Observed unsusual amount of findings in a process will be used as indicator to define some preventive action in the
+related area. An evaluation will be done at each MR and an overall result documented on page “evaluation Internal
+Audits” -> data related to One pager- 2023 result no unexpected accumulation of mayors
+Example One Pager — Handling of CAPA’s:
+Product CAPA 22 CAPA’s closed on 2022, risk in time completion 98%
+System CAPA: CAPA plan closing within 30 days (68% reached) CAPA completed until target due date (only 48%)- >
+actions defined on CAPA plan
+Action list status 18.09 2023 Handlings CAPA a) provision of timely CAPA handling last result positive trend of
+system CAPA handling, 15.09.2023
+#103501 production and process controls, rework not documented on process. Risk evaluation, no risk for
+product/user/patient/employees/environment but a risk for IMS
+PQ3300 — A02 Risk evaluation template to #103501 risk for IMS documented but accepted because only IMS and not
+product patient user or environment affected.
+#117431 CAPA timelines, overdue. Risk evaluation, no risk for product/user/patient/employees/environment but a risk
+for IMS
+PQ3300 — A02 Risk evaluation template to #117431 risk for IMS documented certification endangers
+certicication_actions are defined -> see action list under MAI 1
+MAI 5 (HD.
+DCS PQ2510-013-en-00.01 SOP Corrective and Preventive Actions. Rev. 00.01. 03.09.2020
+DEMF PQ2510 A01 en 00.02 CAPA Criteria
+CAPA decision template, revision 2
+DWAG - CAPA Monthly Report 2023-08
+PR ID 121799 Product CAPA report - BU HCA
+PKG 2022-003059
+CAPA PR ID 118754
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 24 of 107

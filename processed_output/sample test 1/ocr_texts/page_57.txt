@@ -1,0 +1,34 @@
+- N
+
+Audit Report Ty)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Service Center) / # 90464 (ATLAN Series B23)
+
+Products,
+components,
+or projects
+reviewed
+
+ATLAN Series 300/350 version 2.0
+
+Statement
+concerning
+conformity
+based on
+objective
+evidence
+reviewed for
+this subsystem
+
+ID: 31505
+
+Actions are needed for this process to conform to requirements. See audit findings list
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 57 of 107

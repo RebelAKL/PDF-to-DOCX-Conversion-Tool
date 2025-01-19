@@ -1,0 +1,121 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #90464 (RevalstraRe / BabyLeo)
+
+GTIN is issued by GS1
+UDI data Set is documented in Attachment
+
+PSC 21 - Acceptance activates
+
+The process is defined in DCS SC5120 Incoming Inspection Planning
+The process starts with the review of critical parts, for each critical part, the Inspection Plan shall be documented and
+Inspection characteristics shall be defined. For initial receiving DCS SC5130 First Article Inspection (FAI) shall be
+performed.
+
+Records of successful inspection demonstrated as following
+Example observed for the Part 368451 The test protocol incoming inspection Part 8421200
+N 3 parts were checked from overall 192 incoming batch.
+
+Additional country-specific requirements:
+
+United States (FDA): Brazil (ANVISA):
+SC 5121 Incoming Inspection Rev 01. -— defines the Dynamic rules for the sampling
+The AQL sampling according to DIN 2859-1 According to DCS SC5120 Incoming Inspection Planning The rules for
+inspection severity according to DIN ISO 2859-1 allow a change of the sampling procedure regarding sample size from
+normal, increased and reduced, depending on the inspection results for lots supplied before.
+
+PSC 22 - Identification, control, and disposition of nonconforming products
+
+$C6110 — Non-confirming material
+
+The NC devices are identified with dedicated red label, the FQ (number (NC- Message) is raised in SAP
+
+The list of NC devices was demonstrated — the 590 NC records related to parts
+
+The NC parts were observed in production — respectively identified, Isolates , traceable by so called FQ Numbers
+Example of NC materials were sampled in prodcuation quarantine area and assessed during the audit:
+
+FQ 810000399249 Abdeckung Heizstrahlerarm, Gewinde abgebrochen — registered 05.06.2023
+
+Decision — 06.06.2023 — scrap — no additional investigation
+
+FQ 810000416716 13.09.2023The heating element --in process - the parts were isolated
+
+FQ 810000359190 02.11.2022 temperature outside of tolerance — the failure in basis device TN500 ASRL 0056
+
+- Norwandmotage - - Rework — - errored part ASRJ 0460 -
+
+- The evidence the part was reworked and retested was found in DHR for the S/N TN500 ASRL 0056, Completed
+03/11/2022
+
+Reviewed
+documents
+and records
+(identification
+and revision)
+
+ID: 31505
+
+Control of DMR and DHR
+
+DEMF SC6500 Documentation von Produktionsprozessen DEMF SC6500 - de - 02, Rev. 2
+DWAG PQ2140 International Labeling Requirements for Medical Devices, Rev. 04.00
+
+DCS SC6110 Behandlung von Abweichung in der Produktion Ver 00
+
+Production
+
+DWAG |IN4300 New Product Introduction, Rev. 09.00
+
+DEMF SC6100 Qualifizierung in der Fertigung DEMF - SC6100 - de - 00.00 , Rev. 00.00
+
+DEMF SC6200 Produktherstellung DEMF SC6200 - de - 02 , Rev. 2
+
+DEMF SC6210 Fertigungsauftrag - Fremdbearbeitung DEMF SC6210 - de - 01.00 , Rev. 01.00
+DEMF SC6220 Reparatur - Austausch - Teile (RAT) DEMF - SC6220 - de - 00, Rev. 0
+
+Packaging / Traceability / Identification / Release
+
+DEMF GM2150 Rickverfolgbarkeit von Produkten und Komponenten, Rev. 02.00
+DWAG OF5310 Maschinenlesbare Codierung, Rev. 04
+
+DWAG PQ2110 Regulatory Approval to Market Product, Rev. 02.00
+
+Infrastructure / Environment / Cleanliness
+
+DEMF SC6400 Handhabung von Material und Hilfsstoffen DEMF SC6400 - de - 00 , Rev. 0
+
+DEMF SC6700 Handhabung elektrostatisch gefahrdeter Bauteile (ESD) DEMF - SC6700 - de - 00.01 , Rev. 00.01
+DEMF SC6720 Schutz vor elektromagnetischen Einflissen in der Produktion DEMF SC6720 - de - 00, Rev. 0
+
+Non-confirming product
+
+DEMF SC6111 Lenkung von fehlerhaftem Material DEMF - SC6111 - de - 00.01 , Rev. 00.01
+
+DEMF SC6110 Behandlung von Abweichungen in der Produktion DEMF - SC6110 - de - 00.00 , Rev. 00.00
+DEMF SC6130 Produktionsstopp und Lieferstopp DEMF - SC6130 - de - 00.00 , Rev. 00.00
+
+DEMF SC6110 Behandlung von Abweichungen in der Produktion, Rev. 00.00 (?7)
+DEMF SC6120 Qualitatskennzahlen in der Produktion, Rev. 00.00 ??
+
+Incoming inspection and acceptance
+
+DEMF SC5120 Incoming Inspection Planning DEMF - SC5120 - en - 02.00 , Rev. 02.00
+
+DEMF SC5210 Umgang mit mangelhaftem Einkaufsmaterial DEMF SC5210 - de - 01.01, Rev. 01.01
+DEMF SC6010 Inward stock movement DEMF SC6010 - de - 01, Rev. 1
+
+DEMF SC5130 First Article Inspection (FAl) DEMF SC5130 - de - 02.00 , Rev. 02.00
+
+MMDR 106091 Babyleo TN500 Document of STED Ver 6 2022-11-09
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 81 of 107

@@ -1,0 +1,139 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Subsystem
+
+Product Service
+
+Production and Service Controls - #10578 (Service Center) / # 90464 (ATLAN Series B23)
+
+12.08 (9) Leakage and Temp.: Sensor temp test: -4 — +4 Gad / measure -1 Grad, LeakAuto < 100 ml Measurement 10
+ml , Leakman spont > 100 ml; measurements 17 ml
+
+12. 8(1) Mischertypeinstellung wird vorgenommen, confirmed with ja,
+
+12.08 (9) Leakage and Temp.: Sensor temp test: -4 — +4 Gad / measure -1 Grad, LeakAuto < 100 ml Measurement 10
+ml, Leakman spont > 100 ml; measurements 17 ml
+
+PSC 12
+
+Training Evidence Sample Jorg Bentin ( 1004324) Geratemonteur, ESD Training (B70 Prozesstraining) , 27.04 2023
+Training Evidence Christian Alwert, 05.03 2019, Training of Final test on A300/350 series
+
+Q- Check Christian RAAB ID 1003118, 05.05 2023 incl. evidence for academy training ATLAN A3X0 series.
+Autorisierungs Freigabe Berechtigung Christian RAAB, ATLAN A3X0 series, signed and approved by employee and
+team leader on 01.07.2019, 2 parts training : academy and onsite practical advice.
+
+PSC/13/14 (GM
+
+Multimeter Fluke Reg. 33576/3131 AP 113, last calibration 25.09.2022-expiry date 25.09.2023
+
+Drager Priifstand MIMS No 40281/3132 (manueller Priifstand) (Prifplatz 113)
+
+Secu Life PS 300 Patienten Simulator MIMS 302658 (Priifplatz 107)
+
+Kalibrierzertifikat, 16.05 2022, Patienten Simulator Nr. 378483-03 next due date 11.2023 Inventarnummer 302658, in
+System 07.12.2023
+
+Kalibrierzertifikat, Nr.315489/2022-06 Inventarnummer 302658 Tempstecker 37.0 Grad, Kalibrierung 07.06.2022, due
+date 07.12.2023
+
+Testo 622 (humidity/Temp/pressure) MIMS No 101983, due date 13.06 2024
+
+Kalibrierzertifikat testo MIMS No 101983,pass 16.06.2023.
+
+Manometer 6 bar MIMS 10495, due date 02.02.2024
+
+Kalibrierzertifikkat Drager, MIMS 10495, 02.02.2022
+
+Flaschendrucksimulation MB01008 MIMS 302777, due date 16.02.2024
+
+Kalibrierzertifikat Drager MIMS 302777, 16.02.2023
+
+PSC 15
+
+Validation Report PLESS QPS, 2.3 ID 400, approved without further activities 09.05.2023.
+
+Validation Report Test station A220001 Ventilation Unit Funktionstest (inkl A180039 SW part v 4.1/1.3.0.0FW 3.x),
+25.07.2023, under usage of A 200008 as reference measurement tool, result no observations test results are similar to
+used equivalence.
+
+PSC 16
+
+Herstellprotokoll A 350 SN ASSK-0057, Auftragsnummer 62730423, Arbeitsplan all workplaces beginning with
+workplace1216/ BUM until 750240/ PQMO.
+
+PSC17
+
+Herstellprotokoll A 350 SN ASSK-0057, Auftragsnumer 62730423, Priifpunkt 12.1 start of final test Dichtigkeitspriifung
+Messwert > 3,72 ( ZV02 ZV Air), results ZV021,14/ ZVair0,93, 19.09.2023, Christian Alwert
+
+12. 8(1) Mischertypeinstellung wird vorgenommen, confirmed with ja,
+
+12.08 (9) Leakage and Temp.: Sensor temp test: -4 — +4 Gad / measure -1_ Grad, LeakAuto < 100 ml Mesurement 10
+ml, Leakman spont > 100 ml; measurements 17 ml
+
+PZAE technical final approval, 19.09.2023 Herr Allwerth
+
+Herstellerprotokoll A 300 SN ASSK-0001 Auftragsnumer 62727913, PZAE technical final approval, 08.09.2023. Mathias
+Junghans.
+
+PSC20
+
+ATLAN A300 __ labeled with red sticker found in third level Service Center - Moislinger Alee, label No 3085421308
+PSC 21
+
+Herstellprotokoll A 350 SN ASSK-0057, Auftragsnummer 62730423, Priifpunkt 12.1 start of final test Dichtigkeitspriifung
+Messwert > 3,72 ( ZV02 ZV Air), results ZV021,14/ ZVair0,93, 19.09.2023, Christian Alwert
+
+12. 8(1) Mischertypeinstellung wird vorgenommen, confirmed with ja,
+
+12.08 (9) Leakage and Temp.: Sensor temp test: -4 — +4 Gad / measure -1 Grad, LeakAuto < 100 ml Measurement 10
+ml, Leakman spont > 100 ml; measurements 17 ml
+
+PZAE technical final approval, 19.09.2023 Herr Allwerth
+
+PAB2 Freigabe zur Ablieferung des Produktes, Final test and accompanying documents Torsten Adels, 20.09.2023
+Herstellerprotokoll A 300 SN ASSK-0001 Auftragsnummer 62727913, PZAE technical final approval, 08.09.2023.
+Mathias Junghans.
+
+PAB2 Freigabe zur Ablieferung des Produktes, Final test and accompanying documents Torsten Adels, 08.09.2023
+BUM Arbeitsplatz 62729265, SN ASSK-0163, A350, tests finished (Typenschild checked, break tested)
+
+Atem System 8609011-06, SN ASRM-3361
+
+VM 4 HIT SW used.
+
+MB01987 UNIT RunIN- Selbstest valid 21.09 2023 06:21
+
+FA 3 Bach Manual mode Label Spanish Version A 621245, test with French not accepted in SAP , Spanish accepted.
+Sicherheitsbatt Locktite 601 (Glue used in some work places), Juni 2004, storage between 8- 21 degree
+
+PSC 22
+
+Meldungs No 810000417804 ATLAN A300XL ASSK-0147, 19.09.2023, Bauteil MK07201 O? Flush Ventil
+
+ATLAN A300XL ASSK-0147, order No 62728824, PP 12.2 Dichtigkeitspriiftung 0-27,90 , measurement -3,33 ml/min,
+replacement of Bauteil MK07201, retested on 19.09.2023, PP 12.2 pass 0,21 ml/min
+
+N 5 x Sperrlager 1 piece , MK07201
+
+Arbeitsplatz BUM Sperrbereich Order No 62728313,Material No 8609250 Schubladenschrank, labeled with red sticker,
+Kratzer seitlich
+
+Names and
+titles of
+persons
+interviewed
+
+ID: 31505
+
+Ralf Kuster (Indsutrial Engineer, Service center)
+Martin Lieber (Medical plant Servcie center Moislinger Allee )
+Herr Hagedorn provides rest of participant names and roles
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 56 of 107

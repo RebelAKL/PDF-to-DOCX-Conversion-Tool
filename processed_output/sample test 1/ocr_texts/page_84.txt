@@ -1,0 +1,136 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+2.5.14 Production and Service Controls - #90464 (Revalstrake / HM Filter)
+
+Subsystem Production and Service Controls - #90464 (Revalstrafe / HM Filter)
+Audit trail Melanie GaRen
+records of
+Area(s) visited | Location #90464 (RevalstraRe)
+(location, e.g., | For more details related to audit location and time refer to chapter 2.2 of this report.
+site visited)
+
+Audit criteria
+according to
+
+MDSAP Tasks: #1-2, #5-7, #11-14,
+#16-17, #20-22, #25-27, #29
+ISO 13485:2016, 7.5
+
+audit plan ISO 9001
+MDR PRODUCTION AND PROCESS CONTROLS Annex
+IX.2.2d) & e), XI.6.2
+Specific Personnel Competency and Training
+ISO 13485: 6.2
+ISO 9001: 7.2, 7.3, 7.5.1
+MDR: Annex IX 2.1, 2.2 (a), Article 15, [MPDG §83]
+MDD: Annex II (3.1, 3.2), Annex V (3.1, 3.2), Annex VI (3.1)
+Brief EEE REESE HMIE / filter production line (MGa)
+
+description of
+processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed
+key QMS
+documents
+and records
+reviewed
+below
+considering
+inputs,
+outputs, and
+measures
+
+ID: 31505
+
+PSC-1
+
+ISO 13485:2016: 7.1, 7.2.1, 7.5.1;
+
+Process Description:
+
+The Manufacturer has implemented a product realization processes that including any necessary controls, controlled
+conditions, and risk management activities required for the product to meet the specified or intended uses, the statutory
+and regulatory requirements related to the product, and (when applicable) unique device identifier requirements.
+Planning of product realization is consistent with the requirements of the other processes of the quality management
+system and performed in consideration of the quality objectives.
+
+For the selected process, the production and service process that is planned and conducted under controlled conditions
+has been audited.
+
+Planning of product realization is consistent with the requirements of the other processes of the quality management
+system and performed in consideration of the quality objectives.
+
+Business Manager establish a forecast, production is relaying on demand. A safety stock is implemented to be able for
+distribution at any time.
+
+The logistic is responsible for the availability of raw material to be ready for production.
+
+The production order is controlled by logistic and is feed into SAP.
+
+In SAP Hejunkaboard shows the realization process.
+
+US:
+The UDI will be issued under the GS1 scheme. The information will be converted into a data matrix code, which is on the
+product label. A procedure is in place.
+
+The following samples are taken based on the following criteria: Availability, as the Humidstar 25 Plus is produced at the
+time of the audit.
+
+PSC-2
+
+ISO 13485:2016: 7.1, 7.2.1, 7.5.1
+
+Process Description:
+
+At the time of the audit the HME Humidstar 25+ had been produced on the AFO-line.
+
+For the selected process, the production and service process are planned and conducted under controlled conditions
+that include the following:
+
+- the availability of information describing product characteristics
+
+- the availability of documented procedures, requirements, work instructions, and reference materials, reference
+measurements, and criteria for workmanship
+
+- the use of suitable equipment
+
+- the availability and use of monitoring and measuring devices
+
+- the implementation of monitoring and measurement of process parameters and product characteristics during
+production
+
+- the implementation of release, delivery and post-delivery activities
+
+- the implementation of defined operations for labeling and packaging
+
+- the establishment of documented requirements for changes to methods and processes
+
+Inputs to the production plan are inventory and sales order information from sales forecast information.
+
+The production of HME and filter is conducted on an automatic production line, the line requires the input of components
+(housing bottom and top, medium (foam) and filters (when applicable), the output is the ready packed distribution unit
+(devices packaged in blister with Tyvek lid, wrapped in double bags and boxed in a labeled carton box, including IFUs).
+
+The production-line is located in clean room, ISO class 8.
+
+A Material lock and a separate lock for operators are implemented, the material flow is defined:
+Double bag into material lock; outer bag disposed; inner bag into the cleanroom
+
+Incoming rawmaterial is located in the production area, outside the cleanroom.
+
+At location shelf life check is requested
+
+PSC -5
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 84 of 107

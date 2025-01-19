@@ -1,0 +1,126 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+2.5.7. Production and Service Controls - #10578 (Service Center) / # 90464 (ATLAN Series B23)
+
+Subsystem Production and Service Controls - #10578 (Service Center) / # 90464 (ATLAN Series B23)
+Audit trail Gabriele Mousset
+records of
+Area(s) visited | Location# 10578 (Service Center)/ # 90464 (ATLAN Series B23)
+(location, e.g., | For more details related to audit location and time refer to chapter 2.2 of this report.
+site visited)
+
+Audit criteria
+according to
+audit plan
+
+ISO 13485:2016, 7.5
+
+ISO 9001
+
+MDR PRODUCTION AND
+
+PROCESS CONTROLS Annex
+
+IX.2.2d) & e), XI.6.2
+
+Specific Personnel Competency and Training
+
+ISO 13485: 6.2
+
+ISO 9001: 7.2, 7.3, 7.5.1
+
+MDR: Annex IX 2.1, 2.2 (a), Article 15, [MPDG §83]
+
+MDD: Annex II (3.1, 3.2), Annex V (3.1, 3.2), Annex VI (3.1)
+
+Brief
+description of
+processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed
+key QMS
+documents
+and records
+reviewed
+below
+considering
+inputs,
+outputs, and
+measures
+
+ID: 31505
+
+Planning of product realization (7.1)
+
+PSC1 production planning (GM) 7.1; 7.5.1
+///Revalstr. — “Line 2—ATLAN  "///
+Production Revalstrasse Anasthesia consists of two pillars: "Linie” and “components”.
+Every ATLAN device will be produced after concrete order of customer have been placed. No stock production
+of finished devices.
+Once a month a forecast meeting will be performed and ordering of material and planning of resources will be
+adjusted.
+It is verified that the product realization processes are planned, including any necessary controls, controlled
+conditions, and risk management activities required for the product to meet the specified or intended uses, the
+statutory and regulatory requirements related to the product.
+It could be confirmed that the planning of product realization is consistent with the requirements of the other
+processes of the quality management system and performed in consideration of the quality objectives.
+
+USA:
+Confirm that the organization has determined the applicability of unique device identifier requirements per 21 CFR 801
+and 21 CFR 830, has obtained the unique device identifiers from an FDA-accredited UDI-issuing agency, and the
+required data elements have been entered in the Global Unique Device Identification Database (GUDID) [21 CFR 801,
+830].
+
+The organization applies UDI identifier which includes Serial number / Batch number to all devices.
+
+PSC2 Selection of processes (GM) 7.5.1
+One or more production processes were selected to audit:
+///Revalstr. — “Line 2—ATLAN  "///
+ATLAN Series have been audited according to audit planning.
+Reason for the choice have been the change of ATLAN 300/350 from version 1 to version 2.
+During auditing of “Management” and “Measurement Analysis and Improvement” no observation occurred to
+change the original plan.
+
+Provision of resources (6.1), Infrastructure (6.3)
+PSCS5 infrastructure requirements (GM) 6.3
+
+///Revalstr. — “Line 2—ATLAN  "///
+Temperatur /Humidity /Air pressure controls are defined for test places in B23.At each test place sensors are
+active. The measures will be documented at each test protocol. Furthermore, ESD controls are in place:
+DEMF SC6700 : Handhabung elektrostatisch gefahrdeter Bauteile (ESD)
+Every person accessing B23 have to be ESD protected. This is clearly marked with colored lines at the
+entrance. A test station is located at the entrance of the production hall.
+Brazil:
+Verify that manufacturing facilities are configured in order to provide adequate means for people flow [RDC ANVISA
+16/2013: 5.1.2]
+Service facilities are configured in order to provide adequate means for people flow and enough space for
+correct development of the activities. The B23 hall have been audited. Modern building with comfortable space
+for flow of personnel as well as devices, components and working areas. Lay out plan have been audited as
+well.
+
+PSC12 personnel competence (GM) 6.2
+It have been verified with samples that personnel in service center and audited production area are competent
+to implement and maintain the processes in accordance with the requirements identified by the medical device
+organization.
+///Service Center - Moislinger Alee///
+Roles working in Service center is mainly “Service Mitarbeiter”
+Furthermore, employees in service center are dedicated to device types and will be trained accordingly.
+Two employees in Service Center are technicians for ATLAN devices.
+One sample have been audited.
+///Revalstr. — “Line 2—ATLAN  "///
+Audited Evidence:
+Training Evidence Sample Jérg Bentin (Geratemonteur),
+Training Evidence Christian Alwert (Geratemonteur)
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 50 of 107

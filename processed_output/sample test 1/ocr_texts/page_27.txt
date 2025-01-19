@@ -1,0 +1,154 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 )
+
+Version 1
+
+Product Service
+
+2.5.4 Device Adverse Events and Advisory Notices Reporting, PMS and Vigilance
+
+Device Adverse Events and Advisory Notices Reporting
+
+Suisse Post-Market Surveillance and Vigilance
+Audit trail Martin Szepannek
+records of
+Area(s) visited Location # 1
+(location, e.g., For more details related to Audit location and time refer to chapter 2.2 of this report.
+site visited)
+
+Audit criteria
+according to
+audit plan
+
+“Medical Device Adverse Events and Advisory Notices Reporting: Notification of Adverse Events (MDSAP Chapter 4, Task 1, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 7.2.3, 8.2.2, 8.2.3+ (DIN)(EN) ISO 9001 - 7.5.1, 8.2.1, 8.5.5, 9.1.2 + MDSAP - Australia - As required by MDSAP AU P0002 +
+MDSAP - Brazil - As required by MDSAP AU P0002 + MDSAP - Canada - As required by MDSAP AU P0002 + MDSAP - Japan - As required by MDSAP AU
+P0002 + MDSAP - USA - As required by MDSAP AU P0002 + MDR - Article 10.9 ]3(k), 10.12, 10.13; Article 80, 87, 88, 89, 94 + MDD - Article 10"
+
+"Medical Device Adverse Events and Advisory Notices Reporting: Notification of Advisory Notices (MDSAP Chapter 4, Task 2, Site: 10578);
+
+(DIN)(EN) ISO 13485 - 4.2.1, 7.2.3, 8.2.3, 8.3.3 + (DIN)(EN) ISO 9001 - 7.5.1, 8.2.1, 8.5.5, 8.7 + MDSAP - Australia - As required by MDSAP AU P0002 +
+MDSAP - Brazil - As required by MDSAP AU P0002 + MDSAP - Canada - As required by MDSAP AU P0002 + MDSAP - Japan - As required by MDSAP AU
+P0002 + MDSAP - USA - As required by MDSAP AU P0002 + MDR - Article 10.9 [3 (k), 10.12, 10.13; Article 80, 87, 88, 89, 94 + MDD - Article 10"
+
+Brief description
+of processes or
+activities
+evaluated to
+demonstrate
+what was
+audited related
+to the listed key
+QMS documents
+and records
+reviewed below
+considering
+inputs, outputs,
+and measures
+
+ID: 31505
+
+MDAER #1 Notification of Adverse Events (Msz)
+
+Verified that the medical device organization has a process in place for identifying devicerelated events that may meet
+reporting criteria as defined by participating regulatory authorities.
+
+Verified that the complaint process has a mechanism for reviewing each complaint to determine if a report to a
+regulatory authority is required.
+
+Confirmed that the medical device organization’s processes meet the timeframes required by each regulatory authority
+where the product is marketed.
+
+DCS PQ2010 A02_Rev-03.00 Decision Tree for Medical device Reporting
+
+This Tree is used to retrieve informaton on reporting timelines and countries to report. 30 countris + EU is listed.
+
+17 MA, 2 Feldaktionen
+
+Samples taken:
+
+PR#121742 Doctors Hospital Augusta Infinity ACS Workstation CC (V500/C500) Stopped providing breaths and
+registered data failure Date of Registration in Trackwise 2022-09-08 - reportable
+
+Complaint Closure Report 121742
+
+Date of Event: 2022-08-17
+
+Complaint accepted 2022-08-17
+
+Root Cause: printed Circuit Board failure
+
+Decision: 2022-09-19 - Reportable due to Death/Serious Injury possible, in case bretahing pressure drops to ambient,
+and therefore deterioation of heatlh can not be excluded.
+
+Countries to report: USA, China, Malaysia
+
+122106_MDR.pdf
+
+Trackwise Manufacturer Report 9611500-2022-00241
+
+Final Report 9611500-2022-00241 Follow-Up #1
+
+PR#131186 Bana University medical center Phoenix Perseus A500 “Vent fail” Trackwise entry 2023-06-14 - reportable
+Complaint Closure Report 131186
+
+Date of Event: 2023-06-12
+
+Complaint accepted: 2023-06-14
+
+Case Reported 2023-06-28
+
+Root Cause: coul not be tracked down to device failirure (external leakage)
+Decision: 2023-06-28, reportable due to not excludeable device failure
+Countries to report: USA; China, Malaysia
+MDR_Initial_Report_PR131186.pdf
+
+Trackwise Manufacturer Report 9611500-2023-00236
+
+Final Report 2023-08-08 9611500-2023-00236 Follow-Up #1
+
+PR#121766 Maxima Medisch Centrum Babyleo TN500 “Matress Failure during use” Trackwise entry 2022-09-09 —
+non-reportable
+
+Complaint Closure Report 121766
+
+Date of Event: 2022-08-09
+
+Complaint accepted
+
+Root Cause: misplaced NTC sensors during Production of matress
+
+Decision: 2023-05-04
+
+PR#121670 Martini Ziekenhuis Babyleo TN500 ,Overflow of Humidifier and onto mother’s leg” Entry 2022-09-07 — non
+reportable
+
+Complaint Closure Report 121670
+
+Date of Event 2021-06-24
+
+Complaint accepted 2022-09-07
+
+Root Cause: narrowed opening of a nozzle
+
+Decision: non-reportable 2022-09-14
+
+FSCA-Case:
+
+PR#116051 Klinikum Ludwigsburg Polaris Multimedia “Ausleger mit Federarm und Monitor wahrend laufender OP
+abgesttrzt* - reportable
+
+Complaint Closure Report
+
+Date of Event: 2022-02-22
+
+Complaint accepted: 2022-03-15
+
+Case Reported: 2022-03-01
+
+Root Cause: faulty Drager installation instructions and accordingly wrong installation
+
+Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 27 of 107

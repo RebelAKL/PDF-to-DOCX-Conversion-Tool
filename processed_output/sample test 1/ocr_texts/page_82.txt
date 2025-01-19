@@ -1,0 +1,123 @@
+‘
+
+Audit Report Tv)
+Report No: 0713308726 . )
+Version 1
+
+Product Service
+
+Subsystem Production and Service Controls - #90464 (RevalstraRe / BabyLeo)
+
+babyleo-tn500-ifu-9054863-en Instruction for Use Babyleo TN500
+
+Booklet babyleo-tn500-pi-9102128-en-master
+
+Marketing brochure neonatal-and-pediatric-accessories-ca-9066934-en
+Production Layout Production Babyleo TN500 — as on the day of the audit
+
+CS Hoses Risik asessemnt V2.3 2023-07-04
+
+Production Risk Control measure: CS_RM-566 The product shall be delivered Clean but not sterile
+
+CS-TSR-432 The Product shall not have a level of hydrocarbon greater than 550mg/spm and be free from particles acc.
+To 1SO15001
+
+Verification report CS_TRS_156_TR3
+
+Test report 14-00128-PR-004 rev. 0 0 Test Result: Particle measureent, Oils Content, Ignition temperature passed.
+
+DEMF SC6330 Instandhaltung und Reinigung Rev 00
+
+DCS SC6100 Qualifizierung in der Fertigung Rev 00.00
+
+Identification of water cartridge and Instruction for the water cartridge DI2800 installed 23-01-2016
+ESD test protocol Werk 3 Building B23 13.04.2023
+
+DWAG OF4160 Betreiben von Reinraumprozessen DWAG - OF4160 - de - 00 , Rev. 0
+Temperature records Functional test area Babyleo production Order 65577324 2023-09-22
+
+Functional test / incl temperature test for TNS00 S/N 2M6001-19-ASSK-0088
+
+AV0-3220 Final / Performance test
+
+Functional final temperature test record Device Order 65577324 performed — in production on day of the audit
+Work Plan material Base device TN 500 Planer 5006010 Rev5
+
+Vorgang 3190 Arbeitsplatz 4214 /012 TN500
+
+Vorganag 3250 Work Instruction Functional test TN500
+
+W01-006Radiant heater assembly __ work station 4actual on the day of the audit
+Prodcuation Order 6557743 S/N 2 M600-1-19-ASSK-0106 — open on the day of the audit
+
+Training record Operator Marius Wydra Arebeitsvorgang 3250 Work Instruction Functional test TN500 — actual
+Training record Operator Dirk Schnoor Arbeitsvorgang 1590 Finalrelease assembly basis device—actual
+
+US 416581 Calibration certificate Torque controlled wrench by Test valid 28.10.2020
+DEALL PQ3130_A02_ - Rev 04.02 Control of Documents and Recordss
+
+RMB 400760 /2022-10-12 Investigation Toque wrench — failed calibration
+
+Calibration CERTFICATE id400760 Wrench Hazet by test lab, 12.10.2022
+99054863_09 IfU Babyleo TN500 SW 1.0n EN 2021-06-22
+
+2M60003_17 Produktions- und Test Spezifikation BABYLEO TN500 2023-01-16
+2M60002_11_Assembly_TN500 2M60002 — 11 Assembly Drawing top level 2022-12-09
+2M60002_11 Part- Specification for Assembly TN500 2022-12-09
+2M60000_29_AP_HA_HP Druckliste Arbeitsplan — 2M60000 the list for Work Instruction 22.09.2023
+2M60000_29 Part- Specification for Babyleo TN500 2023-02-22
+
+2M60000_28 Information fir Ruckverfolgb Rev 28
+
+DEMF SC6500 Dokumentation von Produktionsprozessen Rev00
+DWAG PQ2140-en-04.00 International Labeling Requirements - for Medical Devices
+DHR for Babylog TN500 ASRL 0056
+
+DCS SC5120-en-013-02.00 Incoming Inspection Planning
+
+DCS SC6110 Behandlung von Abweichung in der Produktion Rev 00
+
+DCS SC6111 Lenkung von fehlerhaftem MaterialRev 00.01
+
+DCS SC6120 Qualitatskennzahlen der Produktion RevOO
+
+DCS SC6220-Reparatur-Austausch-Teile (RAT)-013-00
+
+DCS SC6130 Produktionsstopp und Lieferstopp Rev 00
+
+FQ 810000399249 NC Record Abdeckung Heizstrahlerarm, Gewinde abgebrochen — registered 05.06.2023
+FQ 810000416716 NC-record the heating element 13.09.2023
+
+FQ 810000359190 temperature outside of tolerance — the failure in basis device TN500 ASRL 005602.11.2022
+
+Names and Product focus: Line 1 — Babyleo
+
+titles of Production area Baby Leo TN500 Factory 3 Building B production area B23
+persons
+
+interviewed Timo Harms Director Quality & Regulatory Affairs BU HCA
+
+Jan Paulssen Supplier Quality Manager - BU HCA
+Jochen Meyn Quality Manager BU Therapy
+
+Dirk Geisteier Bereichsleiter
+
+Hasan Tatli Industrial Engineer
+
+Tobias Scotti Product Quality Manager
+
+Stephan Both Quality System Manager Auditing
+Constantin Lithjw Team Leiter Bereich Babyleo
+Nico Zeitz Quality Engineer
+
+Marius Wydra Operator
+
+Dirk Schnoor Operator
+
+Thomas Schoop Product Owner BabyLeo
+
+Luba Lange Regulatory Compliance
+
+Sebastian Maerz (Scribe) Product Quality Manager - BU Therapy
+
+ID: 31505 Doc No: MED_T_09.50 Revision: 12 — released Effective: 28 May 2021 Page 82 of 107
