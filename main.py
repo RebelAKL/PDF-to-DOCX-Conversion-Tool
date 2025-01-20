@@ -10,13 +10,10 @@ from PIL import Image
 def flatten_pdf(input_pdf, output_pdf):
     reader = PdfReader(input_pdf)
     writer = PdfWriter()
-
     for page in reader.pages:
         writer.add_page(page)
-
     with open(output_pdf, "wb") as f:
         writer.write(f)
-
     print(f"Flattened PDF saved at: {output_pdf}")
 
 def rasterize_pdf(input_pdf, output_folder):
@@ -46,63 +43,27 @@ def convert_pdf_to_docx(input_pdf, output_docx):
     print(f"Converted PDF to DOCX: {output_docx}")
 
 def adjust_docx_formatting(docx_file):
-    print("\n=== Adjusting Margins ===")
     adjust_docx_margins(docx_file)
-    print("\n=== Matching Page Size ===")
-    match_page_size(docx_file)
-    print("\n=== Applying Fixed-Width Font ===")
-    apply_fixed_width_font(docx_file)
-    print("\n=== Removing Extra Line Breaks ===")
-    remove_extra_line_breaks(docx_file)
-    print("\n=== Fixing Table Splitting ===")
     fix_table_split(docx_file)
 
 def adjust_docx_margins(docx_file):
-
     doc = Document(docx_file)
-    sections = doc.sections
-    for section in sections:
-        section.top_margin = Inches(0.5)  
-        section.bottom_margin = Inches(0.5)
-        section.left_margin = Inches(0.5)  
-        section.right_margin = Inches(0.5)  
-
+    for section in doc.sections:
+        section.top_margin = Inches(0.3)
+        section.bottom_margin = Inches(0.3)
+        section.left_margin = Inches(0.3)
+        section.right_margin = Inches(0.3)
     doc.save(docx_file)
     print(f"Margins adjusted for: {docx_file}")
 
-def match_page_size(docx_file):
-    doc = Document(docx_file)
-    for section in doc.sections:
-        section.page_width = Inches(8.5)
-        section.page_height = Inches(11)  
 
-    doc.save(docx_file)
-    print(f"Page size matched for: {docx_file}")
-
-def apply_fixed_width_font(docx_file):
-    doc = Document(docx_file)
-    for paragraph in doc.paragraphs:
-        for run in paragraph.runs:
-            run.font.name = "Courier New"
-    doc.save(docx_file)
-    print(f"Applied fixed-width font for: {docx_file}")
-
-def remove_extra_line_breaks(docx_file):
-    doc = Document(docx_file)
-    for paragraph in doc.paragraphs:
-        paragraph.text = paragraph.text.replace("\n", " ").strip()
-
-    doc.save(docx_file)
-    print(f"Removed extra line breaks for: {docx_file}")
 
 def fix_table_split(docx_file):
     doc = Document(docx_file)
     for table in doc.tables:
         for row in table.rows:
             row.allow_break_across_pages = False
-
     doc.save(docx_file)
-    print(f"Fixed table splitting for: {docx_file}")
 
 def clean_up_intermediate_files(folders):
     for folder in folders:

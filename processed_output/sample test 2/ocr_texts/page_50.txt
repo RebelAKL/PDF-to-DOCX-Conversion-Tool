@@ -1,76 +1,76 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
 
-Jlara ouenku: 09.12.2022r.
+Дата оценки: 09.12.2022г.
 
-Koppe | 1,02 | https://www.rusbonds.ru/BondCalc.aspx?bond_state=Market&ftid=130058&BondCalcDate=26.05.2021
-KTHpoB | 6 &bondCalcRate=0&bondCalcType=0&Price_Type=0&Price Clear=100&Price Full=0&Yield_Type=0
-ka Ha &Yield_1=0
+Корре | 1,02 | https://www.rusbonds.ru/BondCalc.aspx?bond_state=Market&ftid=130058&BondCalcDate=26.05.2021
+ктиров | 6 &bondCalcRate=0&bondCalcType=0&Price_Type=0&Price Clear=100&Price Full=0&Yield_Type=0
+ка Ha &Yield_1=0
 
-BaJIKOT
-y (us
-TOSI.
-CLUA
-B py0.)
-Croum | 22,6
-OcTb 0%
-co6cTB
-eHHOrO
-kanuta
-ula, B
-pyo.
-Jlona 64,8
-co6cta | 1%
-eHHOrO
-kanluta
-wa
-Crapxa | 10,0 | Lib, nos6pp 22
-10 5%
-kpeaquT
-y
-Crapxa | 9,75
-110 %
-kpeaquT
-ye
-yueTOM
-Hajloro
-Boro
-muta
-Jlona 35,1
-nomra 9%
-WACC | 18,0 | CraBka quckonTupoBaHua OyjeT B3ATa paBHol craBKu WACC, Tak Kak PHCKH B pacueTbl CTOMMOCTH
-B pyo. 8% coOcTBeHHOPO KaliMTasia OLCHIIMKOM 3aJI02%KCHbI MAKCHMAJIbHBIC
+валют
+У (из
+долл.
+США
+в руб.)
+Стоим | 22,6
+ость 0%
+собств
+енного
+капита
+ла, в
+руб.
+Доля 64,8
+собств | 1%
+енного
+капита
+ла
+Ставка | 10,0 | ЦБ, ноябрь 22
+по 5%
+кредит
+у
+Ставка | 9,75
+по %
+кредит
+ус
+учетом
+налого
+вого
+щита
+Доля 35,1
+долга 9%
+WACC | 18,0 | Ставка дисконтирования будет взята равной ставки WACC, так как риски в расчеты стоимости
+в руб. 8% собственного капитала Оценщиком заложены максимальные
 
-Temn YuuTpiBasd TOT PakT, YTO CTaOMbHOCTh TeMMa pocta BbIPyuka KOMNAHMM OTCyTCTByeT. J[aHHbIii TeMI
-pocta 4% pocta paccuntaH Kak 6a30BbIii NoKa3aTeb pocta MHAeKca W3MeCHeHHA eH Wo 2036 roga
+Темп Учитывая тот факт, что стабильность темпа роста выручка компании отсутствует. Данный темп
+роста 4% роста рассчитан как базовый показатель роста индекса изменения цен до 2036 года
 
-BbIpy4 (IpunoxenueNe3 k oruety)
+выруч (Приложение №3 к отчету)
 
-ku
-Ta6nnua 13-7. PacueT npemun 3a chenupuyeckHii puck KOMNaHHH
+ки
+Таблица 13-7. Расчет премии за специфический риск компании
 
-TIpemua 3a cneunuuecknii puck KoMNaHHH l-Hu3Kaa | 2-cpeyuat | 3 BbICoKad
+Премия за специфический риск компании 1-низкая | 2-средняя | 3 высокая
 
-KoneOanna eH Ha CbIpbe HM MaTepHalibl
+Колебания цен на сырье и материалы
 
-Puck k104eBOl PUrypeI B ynpaBIeHHu
+Риск ключевой фигуры в управлении
 
-KomnereHTHOCTb pyKOBOJCTBa
+Компетентность руководства
 
-3aBHCHMOCTb OT KJIFOUeBBIX HOKynaTesei
+Зависимость от ключевых покупателей
 
-3aBHCHMOCTh OT KJIFOUCBbIX MlOCTaBLUHKOB
+Зависимость от ключевых поставщиков
 
-Tlepcnekrupel pa3BHTHA OTpaciiv W NpeqpusTna
+Перспективы развития отрасли и предприятия
 
-CoctosHie OCHOBHBIX (POHIOB
+Состояние основных фондов
 
-@uHaHcoBoe cocTosHHe Ou3Heca
+Финансовое состояние бизнеса
 
-Bo3MO2KHOCTb NIPHBJICUCHHA KalMTaJIbHbIX BIOKCHHH
+Возможность привлечения капитальных вложений
 
-Kosmuectso 3Ha4eHHii 5 6 3
-Kosmuectso (aktopos 9
-R 1,56
+Количество значений 5 6 3
+Количество факторов 9
+К 1,56
 
 50

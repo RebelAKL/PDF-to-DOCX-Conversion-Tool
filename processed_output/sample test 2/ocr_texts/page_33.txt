@@ -1,58 +1,58 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Jlara oyenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-TIATePKM HaMOOsIee YaCTO MCIIOb3YeCMBIX A3bIKOB B MHpe, a B Poccuu PHP sce emule ep»xasica Ha 4-M
-MecTe.
+пятерки наиболее часто используемых языков в мире, а в России РНР все еще держался на 4-м
+месте.
 
-Ton-5 s3bIKOB IporpaMMMpoBaHHA IIa Mpa B Weslom: JavaScript (70,6%), Python (56,1%), Java
-(55,6%), TypeScript (28,5%), C++ (27,6%); mia Poccun: JavaScript (62,8%), Python (46,8%), Java
-(36,5%), PHP (24,5%), TypeScript (23,1%).
+Топ-5 языков программирования для мира в целом: JavaScript (70,6%), Python (56,1%), Java
+(55,6%), TypeScript (28,5%), C++ (27,6%); для России: JavaScript (62,8%), Python (46,8%), Java
+(36,5%), РНР (24,5%), TypeScript (23,1%).
 
-Pucynok 12-10. Cambie nonyspHbie A3bIKH IporpaMMHpoBaHHs B poccHiicKHX CO*TBepHbIX KOMMAHHAX
+Рисунок 12-10. Самые популярные языки программирования в российских софтверных компаниях
 
-(ganubtle onpocos 2021-2022 rr.).
+(данные опросов 2021-2022 гг.).
 
-1 Java 21,49 25,69 528% 50,9
-2 JavaScript 16,29 21.2% 65,6% 72,3%
+1 Java 21,49 25,6% 528% 50,9
+2 JavaScript 16,2% 21,2% 65,5% 72,3%
 3 ce 17,9% 13,9% 49,59 44,1
 4 cH 14,5% 9,0% 55,7% 48,01
-5 Python 6,39 84 49,0% 58,2
-6 Kotlin 4,1% 6,4% 268% 25,4%
-7 PHP 5,39 52 443%
-8 c 6,0% 4,3% 28,3% 22,61
-9 Swift 18% 4,0 20,1% 20,3
+5 Python 6,3% 8,4 49.0% 58,2
+6 Kotlin 4,1% 6,4% 264% 25,4%
+7 РНР 5,39 52 443%
+8 с 6,0% 4,3% 28,3% 22,61
+9 Swift 1,8% 4,0 20,1% 20,3
 
-10 Visual Basic NET 1,7% 2,1% 10,4% 12,4%
+10 Visual Basic NET 1,7% 2,1% 104% 12,4%
 
-Bprwok: © yueTOM HepBHYHEIX HM BTOPM4HBIX AHTHPOCCHHCKHX CaHKIMi, UpedBapHTebHO MO2%KHO
-Tipe AMOIOXKUTh, YTO COBOKYMHbIe 3apyOe2KHbIe NposaxkH pocculickux CopTBepHBIX KOMMaHHi 10 HTOTaM
-2022 r. okaxkyTCa HWKe YPOBHA IpezbIAyuero roga. [Ipu stom npoyaxku OTeUeCTBeCHHLIX COPTBEPHBIX
-KOMIaHHii Ha BHYTPeHHeM PbIHKe yBesIM¥aTcA MHHUMyM Ha 15-20% B pyOeBoM BbIpaxeHuu. Takum
-oOpa30M, HeCMOTpA Ha Hepee3q WeHTPOB MposaK KOMMaHHii 9KCIOpTepoB B COCeHHe CTpaHbI U Ha
-CYyIeCTBeCHHBbIe Ka[pOBble MOTePH OT CAMOCTOATEIBHOFO BbIe3fa CIeMMAIMCTOB 3a pyOexk, COBOKYIHBIi
-OOopoT IpexNpuATH oTpacsM Bcé x%Ke He yilayeT KpuTHuecKH, a yBesMuUTcA Ha 5-10% B pyOseBoM
-BbIpaxKeHHH.
+Вывод: с учетом первичных и вторичных антироссийских санкций, предварительно можно
+предположить, что совокупные зарубежные продажи российских софтверных компаний по итогам
+2022 г. окажутся ниже уровня предыдущего года. При этом продажи отечественных софтверных
+компаний на внутреннем рынке увеличатся минимум на 15-20% в рублевом выражении. Таким
+образом, несмотря на переезд центров продаж компаний экспортеров в соседние страны и на
+существенные кадровые потери от самостоятельного выезда специалистов за рубеж, совокупный
+оборот предприятий отрасли всё же не упадет критически, а увеличится на 5-10% в рублевом
+выражении.
 
-13. ONMCAHHE NPOWECCA OWEHKH
+13. ОПИСАНИЕ ПРОЦЕССА ОЦЕНКИ
 
-13.1. HocneqopaTesbHOcTh onpeseseHHudA CTOHMOCTH OObeKTA OWEHKH
-OueHka MpoBoyuach B COoOoTBeTCTBHH c MDeepabHEIM CTaHyaptom Ouenku Nell «Ouenka
-HeMaTepHaJIbHBIX AKTHBOB HM HHTeseKTyaIbHO CoOcTBeHHOcTH». [Ipu onpezenenuu croumoctu HMA
-ompemeisetca HanOomee BeposTHad pacueTHad BeIMUMHAa, ABIIAIOINaicd JjeHexKHbIM BbIpaxKeHHeM
-aKTHBOB, KOTOpbI€ He MMeIOT MaTepHasIbHO-BelllecTBeHHOH (bopMbl, MposBiaioT ceba cBOuMU
-3JKOHOMHYCCKUMH CBOMCTBaMH, JalOT BbITObI Ux COOcTBeHHUKy (MmpaBooOmaqaTesO) HU TeHepupytoT AIA
-Hero JOXObI (BbITObI).
+13.1. Последовательность определения стоимости объекта оценки
+Оценка проводилась в соответствии с Федеральным Стандартом Оценки №11 «Оценка
+нематериальных активов и интеллектуальной собственности». При определении стоимости НМА
+определяется наиболее вероятная расчетная величина, являющаяся денежным выражением
+активов, которые не имеют материально-вещественной формы, проявляют себя своими
+экономическими свойствами, дают выгоды их собственнику (правообладателю) и генерируют для
+него доходы (выгоды).
 
-° 3akuOueHHe JoroBopa Ha OLeHKy;
+® Заключение договора на оценку;
 
-e @Mopmupopanne 3aaHua Ha OWeHKy;
+e Формирование задания Ha оценку;
 
-e Anas3 momoxeHua Poccniicxoli Dezepaluu B Mupe;
-e AHalIv3 COCTOAHHA OTPacIH OObEKTA OL|CHKH;
+® Анализ положения Российской Федерации в мире;
+e Анализ состояния отрасли объекта оценки;
 
-e Bui6op HOAXOAOB K OL|eHKe OObEKTA OL|CHKH;
+e Выбор подходов к оценке объекта оценки;
 
-e TIposectu pacueT cTOHMOCTH OObeKTA OL|CHKH;
+e Провести расчет стоимости объекта оценки;
 
 33

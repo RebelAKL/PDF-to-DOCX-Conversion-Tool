@@ -1,56 +1,56 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
 
-Jlara oyenku: 09.12.2022r.
+Дата оценки: 09.12.2022г.
 
-PV (Present Value) — Texyuaa (pHBeyeHHad) CTOMMOCTB.
+РУ (Present Value) — текущая (приведенная) стоимость.
 
-TV (Terminal Value) — pprHodHad CTOMMOCTS B MOCTMpOrHo3HOM MepHoye (peBepcns).
-BV (Book Value) — OanaHcoBas (KHWKHad) CTOMMOCTB.
+ТУ (Terminal Value) — рыночная стоимость в постпрогнозном периоде (реверсия).
+ВУ (Book Value) — балансовая (книжная) стоимость.
 
-MV (Market Value) — pprHouHasd CTOMMOCTB.
+МУ (Market Value) — рыночная стоимость.
 
-NPV (Net Present Value) — uuctaa npuBeyeHHad CTOMMOCTE.
+NPV (Net Present Value) — чистая приведенная стоимость.
 
-EVA (Economic Value Added) — qo0apneHHad 9KOHOMHYeCKad CTOHMOCTb
+EVA (Economic Value Added) — добавленная экономическая стоимость
 
-ROA (Return on Assets) — JOXOXHOCTb aKTHBOB.
+ROA (Return on Assets) — доходность активов.
 
-ROE (Return on Equity) — qoxoqHocTb coOcTBeHHOrO KalMtasa.
+ROE (Return on Equity) — доходность собственного капитала.
 
-IRR (Internal Rate of Return) — BHytpeHHaa HOpMa JOXOJHOCTH.
+IRR (Internal Rate of Return) — внутренняя норма доходности.
 
-g (Growth Rate) — remmsi mpupocta.
+g (Growth Rate) — темпы прироста.
 
-CAGR (Compound Annual Growth Rate) — cpegHeroqoBoli pocTt (TeMM Mpupocta) B CiIOKHBIX
-TIpoleHTax.
+CAGR (Compound Annual Growth Rate) — среднегодовой рост (темп прироста) в сложных
+процентах.
 
-CF (Cash Flow) — qeHexHbIii HOTOK.
+CF (Cash Flow) — денежный поток.
 
-DCF (Discounted Cash Flow) — quckoHTupoBaHHbIii eHexKHbIM MOTOK.
+DCF (Discounted Cash Flow) — дисконтированный денежный поток.
 
-FCFF (Free Cash Flow to Firm) — qeHexxHbIii MOTOK Jif HHBECTHPOBaHHOTO kaliMtasia.
-FCFE (Free Cash Flow to Equity) — qenHexHbIi NOTOK Ja CoOcTBeHHOrO KalluTasa.
-EPS (Earnings per (for) Share) — npuOnim Ha aKWHI0.
+FCFF (Free Cash Flow to Firm) — денежный поток для инвестированного капитала.
+FCFE (Free Cash Flow to Equity) — денежный поток для собственного капитала.
+EPS (Earnings per (for) Share) — прибыль на акцию.
 
-S (Sales) — Bpipyuka.
+$ (Sales) — выручка.
 
-EBIT (Earnings Before Interest and Taxes) — npuObiIb 40 BbIIIaTbI MpOWeHTOB 10 OOA3aTeJIBCTBAM H JO
-BBIIIIaTbI HasIOTOB.
+EBIT (Earnings Before Interest and Taxes) — прибыль до выплаты процентов по обязательствам и до
+выплаты налогов.
 
-EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) — npHObiIb Wo BBITIIaTbI
-HIPOMeHTOB 110 OOs3aTeIECTBaM, JO BBIMATbI HasIOrOB, AMOPTH3alMH HM H3HOCA.
+EBITDA (Earnings Before Interest, Taxes, Depreciation and Amortization) — прибыль до выплаты
+процентов по обязательствам, до выплаты налогов, амортизации и износа.
 
-OIBDA (Operating Income Before Depreciation and Amortization) — onepajHoHHBI Toxo oO BbrueTa
-M3HOCAa OCHOBHBIX CpeJCTB M AMOPTH3al[MH HEMaTepHaJIbHbIX AKTHBOB.
+OIBDA (Operating Income Before Depreciation and Amortization) — операционный доход до вычета
+износа основных средств и амортизации нематериальных активов.
 
-OI (Operating Income) — onepalMoHHBEIi 20xon.
+OI (Operating Income) — операционный доход.
 
-SG&A (Selling, General and Administrative Expenses) — oOmyue, cObITOBLIe H aMHHMCTpaTuBHBIe
-pacxogpl.
+SG&A (Selling, General and Administrative Expenses) — общие, сбытовые и административные
+расходы.
 
-E (Earnings) — uuctaa mpuObii.
-WC (Working Capital) — padounii kanutaz.
-D (Debt) — gonr.
+Е (Earnings) — чистая прибыль.
+WC (Working Capital) — рабочий капитал.
+D (Debt) - долг.
 
 14

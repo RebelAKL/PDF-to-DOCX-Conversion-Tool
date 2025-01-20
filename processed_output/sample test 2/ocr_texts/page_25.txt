@@ -1,62 +1,62 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Jlara oyenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-ToBapom uccilefyemoro ppinka sBuisetca IIO, a HMeHHO MIpeOcTaBIeHHe HCHMCKIOYMTEILHBIX paB Ha
-vicriomb30Banue 9Toro TO. Jjanusiii ToBap sABuIAeTCA TOBAaPOM JJIMTeCbHOTO NOMb30BaHHA, KOTOpbIli
-TIOLBep2KeH TOILKO MOpasIBHOMY H3HOCY, HO He (PU3H4eCKOMy.
+Товаром исследуемого рынка является ПО, а именно предоставление неисключительных прав на
+использование этого ПО. Данный товар является товаром длительного пользования, который
+подвержен только моральному износу, но не физическому.
 
-OcHoBHbIe y4aCcTHHKH pbIHKa — KOMIaHMH-pa3pa0oTYHKH, 6a30BbIM BHOM JCATCIbHOCTH KOTOPbIX
-ABJIACTCA paspaOoTKa KOMIIbIOTepHOrO IporpaMMHoro obecrieyenua (62.01 10 OKBOJI). Morpebuteneti
-mpogykyunu ppuka TIO MooxHo pa3yeuIHTb Ha Ba CeKTOpa: NoTpeOuTebcKHii HU KOplopaTHBHBIit.
-PecemlepaMH Ha3bIBalOT ocpeqHMKOB, pactipoctpansiomux [IO B odonx ceKkTopax pbIHka
-moTpeOuTesteli. OHM ¥3 BaKHBIX OpraHH3allMOHHbIX osleli ABIIAeTCA PbIHOK allliapaTHOro
-oOecneyeHus, Tak Kak Tlomb30BaTemH TIO B mo6om ciyyae ABIAIOTCA HM NOTpeOuTeAMH pbIHKa
-anmapaTHoro oOecneyenua. pu stom uactp IIO Moxer mpoyaBaTbca TpeyycTaHoBJIeHHBIM Ha
-BBIMHCIIMTCIBHYIO TEXHHKY.
+Основные участники рынка — компании-разработчики, базовым видом деятельности которых
+является разработка компьютерного программного обеспечения (62.01 по ОКВЭД). Потребителей
+продукции рынка ПО можно разделить на два сектора: потребительский и корпоративный.
+Реселлерами называют посредников, распространяющих ПО в обоих секторах рынка
+потребителей. Одним из важных организационных полей является рынок аппаратного
+обеспечения, так как пользователи ПО в любом случае являются и потребителями рынка
+аппаратного обеспечения. При этом часть ПО может продаваться предустановленным на
+вычислительную технику.
 
-PucyHokK 12-1. Mexanu3M dyHKUMOHHpoBaHHA PbInKa IporpaMMHoro odecneueHna
+Рисунок 12-1. Механизм функционирования рынка программного обеспечения
 
-Mexanu3m dbynkunonnposanusa prmka IO
+Механизм функционирования рынка ПО
 
-Hucruryunonatbnas cpeja ppinka 110.
+Институциональная среда рынка ПО
 
-Mescyaporei ypopeHb
+Международный уровень
 
-Haunonanbupiii yposenb
+Национальный уровень
 
-Pernonasbubili yposeHb
+Региональный уровень
 
-Orpacsesoii ypopenb
+Отраслевой уровень
 
-HucturyuMonaababie coriamenusa Mealy cyObeKTaMH
-pina 110
+Институциональные соглашения между субъектами
+рынка ПО
 
-— 1 Komnanun-pa3pa6oTsnku
+— 1 Компании-разработчики
 
-i
+1
 
-MCKHBIC
-oprannsaunonHBre
+‘межные`
+организационные
 
-TlomuMo OCHOBHEIX yYaCTHHKOB Ha PbIHOK TporpaMMHoro oGeciieyeHHA CyIeCTBeHHO BJIMAeT U
-MHCTHTYIMOHAIIbHad Cpela, B YACTHOCTH HOPMATHBHO-lIpaBOBble aKTHI, peraMeHTUpyIoWIve aBTOpCKoe
-TIpaBo, JIMICH3Upylolve TeATesILHOCTh, a TakoKe HalMOHAJIBHbIe H PeTHOHAJIbHbIe 3AKOHEL.
+Помимо основных участников на рынок программного обеспечения существенно влияет и
+институциональная среда, в частности нормативно-правовые акты, регламентирующие авторское
+право, лицензирующие деятельность, а также национальные и региональные законы.
 
-Tem He MeHEe, ABJIAACh HeJIOCTHBIM, PbIHOK IpousBo_uTesei [IO cocTouT u3 HeCKOIbKUX OOOCOOIIeCHHBIX
-Wf 3a4acTylO HellepeceKaloluxca CerMeHTOB. CorsacHo KiaccHukallHu 10 CTeleHH B3aHMOelcTBHA C
-allmlapaTHOH yacTbio KommbroTepa IO jemutca Ha TPH OCHOBHBIe KaTeropuHu:
+Тем не менее, являясь целостным, рынок производителей ПО состоит из нескольких обособленных
+и зачастую непересекающихся сегментов. Согласно классификации по степени взаимодействия с
+аппаратной частью компьютера ПО делится на три основные категории:
 
-CHCTeMHOe, HHCTpyMeHTaJIbHoe UM IpuksiaqHoe. Ucxoya v3 sToro pEIHOK ITO MookHO ycOBHO pa3eJIMTb
-Ha IATb CeTMeHTOB:
+системное, инструментальное и прикладное. Исходя из этого рынок ПО можно условно разделить
+на пять сегментов:
 
-1) cermeut cuctemuoro [IO — prinok Npou3BoACTBa OllepalMOHHBIX CHCTeM, CHCTeM ynipaBsieHHa 6a3aMu
-WaHHBIX, [paliBepoB HU yTHWIMT. OcHOBHas OCOOeCHHOCTS JaHHOTO CerMeHTAa COCTONT B BbICOKOM CTereHH
-MOHONOIM3aNHH MW BbICOKOM CTeMeHH KOHKYpeHUMH CO CTOpOHbI MMIMOPTHBIX MpoH3BOquTeNeH.
-J\paiipepbi Wit ycTpolicTB, kak 1paBHJI0, IpOH3BOAAT KOMMAaHHH, Co3qalolve COOTBeETCTByIoMNHe IBM
-Wi Tepudepuiiusle ycTpolicTBa, uTo WeaeT MX MOHONOIMCTaMH JIA Kak Oro KOHKpeTHOro Bua TIO;
+1) сегмент системного ПО — рынок производства операционных систем, систем управления базами
+данных, драйверов и утилит. Основная особенность данного сегмента состоит в высокой степени
+монополизации и высокой степени конкуренции со стороны импортных производителей.
+Драйверы для устройств, как правило, производят компании, создающие соответствующие ЭВМ
+и периферийные устройства, что делает их монополистами для каждого конкретного вида ПО;
 
-2) CerMeHT pbIHKa HHOpMallHOHHOH Oe30NacHOCTH — PbIHOK IIpOH3BOACTBa AHTHBUPyCHOTO HU Apyroro
-3amjuTHoro IO. Jlanupiii cerMeHT xapakTepu3yeTca HasIM4HeM Ha HEM HECKOJbKMX KPyIHBIX HTPOKOB;
+2) сегмент рынка информационной безопасности — рынок производства антивирусного и другого
+защитного ПО. Данный сегмент характеризуется наличием на нем нескольких крупных игроков;
 
 25

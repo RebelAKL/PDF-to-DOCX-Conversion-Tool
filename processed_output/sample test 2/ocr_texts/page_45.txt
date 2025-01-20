@@ -1,48 +1,48 @@
-Oruert 06 onexnke Ne O-0912/2022 priHo4uHoii CTOHMOCTH HCKIHOUMTEJIbHOFO 1paBa Ha AHPIOAZbIYHY!O BEPCHHO IporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Hata ouenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права на англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-Metog MEEM
+Метод МЕЕМ
 
-Byayume eHexHbIe NOTOKM OUeHMBaeMoOrO akTuBa(EBIT)
+Будущие денежные потоки оцениваемого akTuBa(EBIT)
 
-Hanor HanpwH6einb
+Налогнаприбыль
 
-—_—
+9
 
-UncTbid 20x00 Ha KanuTan
+Чистый доход на капитал
 
-Amoptu3zauna
+Амортизация
 
-Moxog v Bo3meweHne HHBeECTMUMK
+Доход и возмещение инвестиций
 
 >
 
-QDerexHer
+Денежньн
 
-TOKM, OTHOCMMBbIC
+токи, относимые
 
-Tipu ucnomb30BaHHH yKa3aHHOrO MeTOsa TpeOyeMbIii TOXOA OT MHBECTHLMM ONpesesAeTCA Ha OCHOBe
-CpeaHeroOBOil CTOMMOCTH aKTHBOB, y4aCTBYIOWIMX B pacuetax. IIpu 3TOM pa3Mep TpedOyemoro
-BO3MeLICHHA HHBECTHUMM COOTBeTCTBYyeT BeIM4YHHeE amMopTH3auMH. Mero cpeqHerogqoBoro OamaHca
-TOJDKCH TIPHMCHATLCA JIA BCX AKTHBOB, HCIOJIb3yeMbIX B MEEM.
+При использовании указанного метода требуемый доход от инвестиций определяется на основе
+среднегодовой стоимости активов, участвующих в расчетах. При этом размер требуемого
+возмещения инвестиций соответствует величине амортизации. Метод среднегодового баланса
+должен применяться для всех активов, используемых в МЕЕМ.
 
-Ja o6opoTHoro KalinTasia, KaK OTMe4asIOCbh BBIMe, pacdeT TpeOyemoro BO3BpaTa VMHBecTHuMh He
-OCYINTCCTBIIACTCA.
+Для оборотного капитала, как отмечалось выше, расчет требуемого возврата инвестиций не
+осуществляется.
 
-Ja pacueToOB CesIaHbl CIC TyIoune FOMYUeCHHA:
+Для расчетов сделаны следующие допущения:
 
-© TpeOdyeMas JOXOQHOCTE 110 OCHOBHBIM cpeycTBaM cocTaBiseT 10% (Mocie yraTbI HasIoroB);
+® требуемая доходность по основным средствам составляет 10% (после уплаты налогов);
 
-© ocTaBiiMiica cpok 2kH3HH TekyuHx OC coctaBsset oT | 0 5 eT c exKerOHBIM UX CIIMCaHHeM Ha
-CyMMy aMopTH3allHy;
+® оставшийся срок жизни текущих ОС составляет от | до 5 лет с ежегодным их списанием на
+сумму амортизации;
 
-© cpeqHMi Cpok aMOpTH3alHH KallWTasIbHBIX BIOKeHUM —SJeT;
+® средний срок амортизации капитальных вложений —5лет;
 
-© aMOPTH3al[Ma HAYMCIAeTCA JIMHCHHEIM MCTOJOM;
+® амортизация начисляется линейным методом;
 
-e ToOsHasd TOROBaA AMOPTH3ALMA HAYMCIACTCA WoKE B TOT OCYMICCTBIICHHA KalIMTasIbHBIX BIIOKKCHUH;
+® полная годовая амортизация начисляется уже в год осуществления капитальных вложений;
 
-© pacueT IpoH3BeeH B TEIC.pyOsleii.
+® расчет произведен в тыс.рублей.
 
 45

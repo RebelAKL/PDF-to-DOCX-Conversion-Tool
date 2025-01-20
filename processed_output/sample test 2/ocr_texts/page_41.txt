@@ -1,53 +1,53 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Jlara oyenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-3. HMA, cBa3aHHble c OOpaboTKol JaHHBIX:
+3. НМА, связанные с обработкой данных:
 
-¢ wmporpamMuoe oOecneyeHue;
-© 6a3bI JaHHBIX.
+® программное обеспечение;
+® базы данных.
 
-4. Kontpaxtupre HMA:
+4. Контрактные НМА:
 
-© KOHTpaKTBI Ha YCJIOBMAX JTVUIe PbIHOUHBIX;
-© jJIML[eH3HOHHBIe JOTOBOPEL;
-¢ yoroBopl (bpanyaii3zuura.
+® контракты на условиях лучше рыночных;
+® лицензионные договоры;
+® договоры франчайзинга.
 
-Kaxkylaa 43 IpecTaBJICHHBIX BbIMe KaTeropHii aKTHBOB XapakTepH3yeTCa CBOHM Hadopom dakTopos,
-BUIMAIOWMX Ha HX CTOMMOCTb. BMectTe c TeM cyljecTByloT oOmjMe Ia Bcex HMA mapamertpsl,
-oka3bIBaloljue HavOoslee CyIeCTBeHHOe BIIMAHMe Ha UX CTOMMOCTB:
+Каждая из представленных выше категорий активов характеризуется своим набором факторов,
+влияющих на их стоимость. Вместе с тем существуют общие для всех НМА параметры,
+оказывающие наиболее существенное влияние на их стоимость:
 
-1. Cpok 2KM3HH aKTHBa — TlepHO, B TedeHHe KOTOPOTO BiJlaesIell MOXKET paCC4HTbIBAaTh Ha
-TIOJIYACHHE SKOHOMUYCCKHX BBITO OT C©O HCIOJIb3OBAHHA; ABJIACTCA OJHUM M3 KJIFOUCBBIX TapaMeTpPoB,
-XapakTepHh3yroulnx HeMaTepHasIbHbIii aKTHB, HW MOXKECT Ope TesIATBCA:
+1. Срок жизни актива — период, в течение которого владелец может рассчитывать на
+получение экономических выгод от его использования; является одним из ключевых параметров,
+характеризующих нематериальный актив, и может определяться:
 
-FOPHANIeCCKUM CpOKOM 2KH3HH — KOHKPeTHbIMH XapakTepHCTHKaMH IipaB Ha aKkTHMB, (HalpuMep,
-CpoK evicTBua HCKIIFOUNTCJIBHOTO TipaBa WIM KOHTpaktTa).
+юридическим сроком жизни — конкретными характеристиками прав на актив, (например,
+срок действия исключительного права или контракта).
 
-9KOHOMHYCCKHM CPOKOM 2KH3HH — MHOrHe OOacTH IpHMeHeHHA TeEXHOOrH XapakTepu3yIoTCA
-TEXHOJIOrMYCCKHMH + UMKIaMH — TepHOaMv, B Te4eHHe KOTOPbIX TeXHOJIOrMH yCTapeBaloT HU
-BBITCCHAIOTCA HOBLIMH, OoIee COBPEMCHHEIMH; JVId OHUX OTpacsei Take WMKJIbI YeTKO OMpeeseHbI
-(HalIpHMep, KOMIIbIOTepHBIe TEXHOJIOFHH, JOCTATOYHO YeTKO MOAYHHANOTCA 3aKoHy Mypa), a Wid Apyrux
-9Ta BeIMYMHAa WOMKHA ObITh MpeAMeTOM TIaTeIbHOTO aHalIv3a B Ka%KJOM KOHKpeTHOM cJlyaae
+экономическим сроком жизни — многие области применения технологий характеризуются
+технологическими циклами — периодами, в течение которых технологии устаревают и
+вытесняются новыми, более современными; для одних отраслей такие циклы четко определены
+(например, компьютерные технологии, достаточно четко подчиняются закону Мура), а для других
+эта величина должна быть предметом тщательного анализа в каждом конкретном случае
 
-(HalIpuMep, B MeqHIHHe paz0poc CpOKOB 2%KH3HH TeXHOJIOHi MOxKeT OBIT OUCH OOMIIMM).
-Pucynok 13-1. Cpok noe3Horo HCH0.1b30BaHHA WporpaMM Jin IBM.
+(например, в медицине разброс сроков жизни технологий может быть очень большим).
+Рисунок 13-1. Срок полезного использования программ для ЭВМ.
 
-Henoansosanne: um PSc4eTOS NO SATPSTHOMY H AOXOAHOMY NOAXKOAaM
+Использование: для расчетов по затратному и доходному подходам
 
-byarastepexne mpor pawns
+Бучганерские программы
 
-a ciel oo
+Го тетя oo
 
-Acmounux ung@opmayuu: Cnpasounux E.E.Ackeeuya CP]-31 non6pe 2022 200a cmp.45
+Источник информации: Справочник Е.Е.Яскевича СРД-31 ноябрь 2022 года cmp.45
 
-2. JlerkocTb H BO3MO2KHOCTb BOCIPOH3BOACTBa/BOCCO3qaHHA _ TaHHbiit (pakTop MOKECT
-OKa3bIBaTb CYIICCTBCHHOC BIIMAHNE Ha BBIOOp OCHOBHOTrO MeTO/JIa OWCHKH — B Cirydae, Kora HMA sterko
-BOCIIPOH3BecTH, pa3syMHBIit MHBeCTOp He 3alliaTHT 3a Hero UeHy, IpeBbiiiatoulyto 3aTparsl,
-HeoOOXOJMMBIe 7JIA CTO BOCCO3aHHsA. IIpu aHasIn3e JICTKOCTH BOCIIPOH3BO]ICTBa HeoOxOMMO YUATHIBATb
-cre ayromlee:
+2. Легкость и возможность воспроизводства/воссоздания — данный фактор может
+оказывать существенное влияние на выбор основного метода оценки — в случае, когда НМА легко
+воспроизвести, разумный инвестор не заплатит за него цену, превышающую затраты,
+необходимые для его воссоздания. При анализе легкости воспроизводства необходимо учитывать
+следующее:
 
-Muenne 0 WierkocTH> BOCCO3qaHia (C TOUKM 3peHHa cpoKoB H/MIM (bMHAHCOBBIX 3aTpaT) B
-OoNbIIMHCTBe cilyyaeB ABIIAeTCA CYObCKTHBHBIM HM oOllpeyesisetca oKciepTHo. KocBeHHbimu
+Мнение о «легкости» воссоздания (с точки зрения сроков и/или финансовых затрат) в
+большинстве случаев является субъективным и определяется экспертно. Косвенными
 
 41

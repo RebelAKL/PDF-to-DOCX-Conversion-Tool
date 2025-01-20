@@ -1,58 +1,58 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
 
-Jlara oyenku: 09.12.2022r.
+Дата оценки: 09.12.2022г.
 
-E (Equity) — coOcTBeHHbIii (akI{MOHEpHBIM) KalmMtTas.
+Е (Equity) — собственный (акционерный) капитал.
 
-ND (Net Debt) — uucrsiii omr.
+ND (Net Debt) — чистый долг.
 
-MI (Minority Interest) — qo MeHBUIMHCTBA.
+MI (Minority Interest) — доля меньшинства.
 
-PP&E (Property, Plant and Equipment) — 3emua, 3qaHHa, coopyKeHHa U OOopyqoBaHHe.
+PP&E (Property, Plant and Equipment) — земля, здания, сооружения и оборудование.
 
-DIV (Dividends) — qusuzeHast.
+DIV (Dividends) — дивиденды.
 
-CapEx (Capital Expenditure) — kammTajIbHbie 3aTpaTbl (BuIOKeHHA).
+CapEx (Capital Expenditure) — капитальные затраты (вложения).
 
-Depr (Depreciation) — amopTv3aljHoHHble OTUHCIeHHA.
+Depr (Depreciation) — амортизационные отчисления.
 
-NOPLAT (Net Operating Profit Less Adjusted Taxes) — unctaa onepaljMoHHad TIpHOBLIb 3a BLIYeTOM
-CKOppeKTHpPOBaHHBIX HasIOroB (MocMe HasloroBad Ollepal{MOHHasd TpHOBUID).
+МОРГАТ (Net Operating Profit Less Adjusted Taxes) — чистая операционная прибыль за вычетом
+скорректированных налогов (после налоговая операционная прибыль).
 
-BBII — Banosplii BHyTpeHHH MposyKT.
+ВВП - валовый внутренний продукт.
 
-r/r —M0Ka3aTedIb B TOOBOM MCYHCIICHHH, KOTOpbIii OTpaxkaeT H3MeHEHHe 0 CpaBHeHHI0 C aHaJIOrM4HbIM
-MecaleM (KBapTaJIoM) lipeybIAyuero roy.
+г/г — показатель в годовом исчислении, который отражает изменение по сравнению с аналогичным
+месяцем (кварталом) предыдущего года.
 
-om. CUIA — yonmap CIUA (obunnanbyas JeHexuas Bastota CLITA).
-VIL — ungexc notpeOutespcKux eH.
-KB. — KBapTall.
+долл. США — доллар США (официальная денежная валюта США).
+ИПЦ - индекс потребительских цен.
+кв. — квартал.
 
-M/M — MlOKa3aTeJIb B MeCAYHOM YMCU4ACIICHHH, KOTODBIii OTpaxkaeT H3MCHeHHe TO CpaBHeHHtIO C
-TIPpCAbITYUIMM OTYCTHEIM MCCALICM.
+м/м — показатель в месячном исчислении, который отражает изменение по сравнению с
+предыдущим отчетным месяцем.
 
-HC — nanor Ha oOaBsIeHHy!0 CTOMMOCTB.
+НДС - налог на добавленную стоимость.
 
-H9U — nanbonee sdexTuBHoe MCHOIL30BaHHe.
+НЭИ - наиболее эффективное использование.
 
-ir. — mostyroque.
+ir. — полугодие.
 
-py0. — poccniickuii pyOnb (HalMoHasbHad BastroTa Poccniickoli Dexepaunn).
-P® — Poccniicxaa Degepanua.
+руб. — российский рубль (национальная валюта Российской Федерации).
+РФ - Российская Федерация.
 
-CPO — camoperysMpyemas OpraHH3ala OWeHIMKOB.
+СРО — саморегулируемая организация оценщиков.
 
-T90 — TexHuKO-9KOHOMHYeCKoe OOOCHOBaHHe.
+ТЭО - технико-экономическое обоснование.
 
-3 — Dexepabublii 3aKOH.
+ФЗ — Федеральный закон.
 
-®OT — doug omsater tpyza.
+ФОТ - фонд оплаты труда.
 
-®CO — degepabuble cTaHAapTb! OWeCHKH.
+ФСО — федеральные стандарты оценки.
 
-®CC — our commanbyoro cTpaxoBaHus.
+ФСС - фонд социального страхования.
 
-Ub P® — Lentpanpupiii OanK Poccuiicxoi Pexepauuu.
+ЦБРФ — Центральный банк Российской Федерации.
 
 15

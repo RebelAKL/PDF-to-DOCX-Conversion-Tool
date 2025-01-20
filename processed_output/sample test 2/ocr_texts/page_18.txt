@@ -1,74 +1,74 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Jlara oyenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-10.1. Tepesenb ucn0.1b30BaHHbIX JJOKYMeHTOB
-B wacTosiem pa3qeie MmpHBeyeH MepeyeHb JOKYMCHTOB, MCTIIOJIb3yeMbIX OLeCHIMKOM HU
+10.1. Перечень использованных документов
+В настоящем разделе приведен перечень документов, используемых оценщиком и
 
-yCTaHaBJIMBartolyqnx KOJIMYCCTBCHHbIC WH KayeCTBCHHbIe XapakKTeCpHCTHKU oObekta OUCHKH, a TaKxKe
-Tle¢peueHb HHBIX MHOpMal{HOHHBIX VUCTOUHUKOB:
+устанавливающих количественные и качественные характеристики объекта оценки, а также
+перечень иных информационных источников:
 
-e =Yctas OOO «Pox ®noy JuHamuKe»;
+® Устав OOO «Рок Флоу Динамикс»;
 
-e  CBHeTeIBCTBO 0 rocyapcTBeHHOH perucTpaluu WporpaMMB!I Jia IBM Ne2013612152
+® — Свидетельство о государственной регистрации программы для ЭВМ №2013612152
 «tNavigator»;
 
-e =AyyuTopckoe 3akro4eHHe He3aBHCMMOro ayquTOpa Oo OyxraiTepcKoli oTHeTHOCTH OOO
-«PJ» 3a 2018 ron;
+e — Аудиторское заключение независимого аудитора о бухгалтерской отчетности ООО
+«РфД» за 2018 год;
 
-e  AyyuTopckKoe 3akro4eHHe He3aBHCMMOro ayquTOpa oO OyxrasiTepcKoli oTUeTHOCTH OOO
-«PJ» 3a 2019 ron;
+® Аудиторское заключение независимого аудитора о бухгалтерской отчетности ООО
+«РфД» за 2019 год;
 
-e =AyyuTopckoe 3akro4eHHe He3aBHCMMOro ayquTOpa Oo OyxraiTepcKoli oTHeTHOCTH OOO
-«PJ» 3a 2020 ron;
+® — Аудиторское заключение независимого аудитора о бухгалтерской отчетности ООО
+«РфД» за 2020 год;
 
-e =AyyuTopckoe 3akro4eHHe He3aBHCMMOro ayquTOpa Oo OyxraiTepcKoli oTHeTHOCTH OOO
-«PJ» 3a 2021 ron;
+® — Аудиторское заключение независимого аудитора о бухгалтерской отчетности ООО
+«РфД» за 2021 год;
 
-e O6opotHo-cambyq0Baad BeZOMocTh OOO «PdJI» 3a 2005-2021 roga, 3a 9 MecateB 2022
+® — Оборотно-сальдовая ведомость ООО «РфД» за 2005-2021 года, за 9 месяцев 2022
 
-roya;
+года;
 
-e O6opoTHo-cambyqoBad BeqoMocTb OOO «PJ» m0 cyety 70 3a 2006-2013 roga;
+® — Оборотно-сальдовая ведомость ООО «РфД» по счету 70 за 2006-2013 года;
 
-e =I[rarHoe pacnucanue OOO «Pp» Ne 8 or 24.12.2012 roga;
+® — Штатное расписание OOO «РфД» № 8 от 24.12.2012 года;
 
-e =I[rarHoe pacnucanue OOO «Pp» Ne 9 or 30.12.2013 roga;
+® — Штатное расписание OOO «РфД» № 9 от 30.12.2013 года;
 
-e  =IrarHoe pacnucanue OOO «PI» Ne | or 21.01.2015 roa;
+® — Штатное расписание OOO «РфД» № | от 21.01.2015 года;
 
-e =IratHoe pacnucanue OOO «Pp» Ne 11 or 11.01.2016 roga;
+® — Штатное расписание OOO «РфД» № 11 от 11.01.2016 года;
 
-e =I[rarHoe pacnucanue OOO «Pp» Ne | or 09.01.2017 roa;
+® — Штатное расписание OOO «РфД» № | от 09.01.2017 года;
 
-e =I[IrarHoe pacnucanue OOO «Pp» Ne 1 or 01.01.2018 roga;
+® — Штатное расписание OOO «РфД» № | от 01.01.2018 года;
 
-e =©I[IrarHoe pacnucanue OOO «Pp» Ne | or 09.01.2019 roga;
+® — Штатное расписание OOO «РфД» № | от 09.01.2019 года;
 
-e =IrarHoe pacnucanue OOO «PI» Ne | or 09.01.2020 roga;
+® — Штатное расписание OOO «РфД» № | от 09.01.2020 года;
 
-e = [IratHoe pacnucanve OOO «Ph» Ne 16 or 11.01.2021 roga;
+® Штатное расписание ООО «РфД» № 16 от 11.01.2021 года;
 
-e = Pacmudposka BbIPy4KH M0 KIMeHTCKONi Oa3e 3a peTPOCHeKTHBHBIM NepHod.
-Tlepeyenb HCTOUHHKOB, HCTIOL3yeMbIX OUeHINMKOM JIA IPOBeeHHA OLCHKH:
+® Расшифровка выручки по клиентской базе за ретроспективный период.
+Перечень источников, используемых Оценщиком для проведения оценки:
 
-e —https://zachestnyibiznes.ru/company/ul/1047702050483_7702364555_OQOO-RFD;
+® —https://zachestnyibiznes.ru/company/ul/1047702050483_7702364555_OQOO-RFD;
 
 e = https://www1.fips.ru/iiss/document.xhtml?faces-
 
 redirect=true&id=ea 130520bbcaSccdb2922e065b096 137.
 
-TIpoeccnouambHoe cyxyeHve OleHyHka OTHOCHTeIbHO KayecTBa HCHONb30BaHHOM pH
-TIpoBpeyeHuu oeHKH uHdopmayuu (1. 10 ®CO III): ucnomb30BanHad pu MpoBeyeHuH oleHKU
-MHPopMalua yOBNeTBOpseT TpeOoBaHHAM OCTOBEPHOCTH, Hae@2KHOCTH, CYeCTBeHHOCTH u
-TOCTaTOUHOCTH.
+Профессиональное суждение Оценщика относительно качества использованной при
+проведении оценки информации (п. 10 ФСО Ш): использованная при проведении оценки
+информация удовлетворяет требованиям достоверности, надежности, существенности и
+достаточности.
 
-11. JONYWEHWA 1 OFPAHHUEHMSA OWEHKH
+11. ДОПУЩЕНИЯ И ОГРАНИЧЕНИЯ ОЦЕНКИ
 
-11.1. Cneunambubie Jonymenua
+11.1. Специальные допущения
 
-eB Tipomecce MOATOTOBKH Orueta Onenumk HMCXOHII H3 TOCTOBepHOCcTHu Bceli 7JIOKYMCHTAalHH TO
-oObeKTy OICHKH, Tipe qocTaBIeHHoH B eTO pacnopsKeHHe 3aKka34nkom, TIOCKOJIBKY B o0a3aHHOCTH
-Ouenmmka, B COOTBETCTBHH C JOrOBOpOM 06 OWeCHKe, He BXOJHT IIpOBeeHHe 93KCIICpTH3bl
+eB процессе подготовки Отчета Оценщик исходил из достоверности всей документации по
+объекту оценки, предоставленной в его распоряжение Заказчиком, поскольку в обязанности
+Оценщика, в соответствии с договором об оценке, не входит проведение экспертизы
 
 18

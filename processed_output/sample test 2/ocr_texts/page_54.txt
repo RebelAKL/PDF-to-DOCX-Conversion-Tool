@@ -1,24 +1,24 @@
-Oruer 06 oyenke Ne O-0912/2022 prrHo4uHoii CTOMMOCTH MCKJOYMTEJIBHOFO MpaBa Ha aHIIOA3bIMHY1IO BEPCHIO NporpaMMHOro
-odecneuenua «tNAVIGATOR», npuHayiexanjero OOO «Pp».
-Jlara oyenku: 09.12.2022r.
+Отчет об оценке № O-0912/2022 рыночной стоимости исключительного права Ha англоязычную версию программного
+обеспечения «tNAVIGATOR», принадлежащего ООО «РфД».
+Дата оценки: 09.12.2022г.
 
-14. PESYJIBTATbI OW EHKY
+14. РЕЗУЛЬТАТЫ ОЦЕНКИ
 
-B cootsetctsuu c Jloropopom Ha mpoBeyeHue omeHku Ne O-0912/2022 or 09.12.2022r., 3aKmrO4eHHBIM
-Mexly: OOmecTBO C OrpaHH4eHHO OTBETCTBeHHOCTbIO <YHHBepCasIbHble OU3HEC TeXHOJIOrMH>
-(AcnosHuTeib) u OdulecTBo c orpaHHueHHoii oTBeTcTBeHHOCTLIO «Pok Moy JnHamuKko»
-(Gaka34nk), Onenmuk Ucnommutena mpopest oleHKy pbIHOUHOH CTOMMOCTH OOBeKTa OIeHKH —
-UckmountembHoe (aBTopcKoe HM CMexKHOe) MpaBO Ha aHIVIOs3bI4YHYIO BepCHIO MporpaMMHoro
-odecneyenus «(NAVIGATOR)», Ha aHTsIMiicKOM, HCIIHCKOM M KMTAalCKOM s3bIKaxX Ha TeppHTOPpHH BCexX
-cTpaH Mupa 3a ucKmo4eHHem Poccuu, benopyccuu u Ka3axctana, mpHHayiexanue OOO «Ph» na
-lipaBe coOcTBeHHOCTH.
+В соответствии с Договором на проведение оценки № О-0912/2022 от 09.12.2022r., заключенным
+между: Общество с ограниченной ответственностью «Универсальные бизнес технологии»
+(Исполнитель) и Общество с ограниченной ответственностью «Рок Флоу Динамикс»
+(Заказчик), Оценщик Исполнителя провел оценку рыночной стоимости объекта оценки —
+Исключительное (авторское и смежное) право на англоязычную версию программного
+обеспечения «(NAVIGATOR)», на английском, испанском и китайском языках на территории всех
+стран мира за исключением России, Белоруссии и Казахстана, принадлежащие OOO «Ph» на
+праве собственности.
 
-Ta6nuua 14-1 OcHoBuble pakTbI 1 BLIBOALI 10 Oruéty 06 omenke
+Таблица 14-1 Основные факты и выводы по Отчёту 06 оценке
 
-OGbekT oneHKH UckmrountenbHoe (aBTopcKoe Hu CMexKHOe) WpaBO Ha aHTJIOA3bINHYIO BePCHIO
-mporpamMuoro obecneyeHua «tNAVIGATOR>», Ha aHrMiickoM, HCHaHCKOM HM KuTalicKOM
-A3bIKAX Ha TeppHTOpHu BCexX cTpaH MMpa 3a ucKmOYeHHem Poccuu, benopyccuu u
-Kas3axctana, B TOM 4HCIIe Ha CIE AyIOuMe MOJyJIN:
+Объект оценки Исключительное (авторское и смежное) право на англоязычную версию
+программного обеспечения «tNAVIGATOR>», на английском, испанском и китайском
+языках на территории всех стран мира за исключением России, Белоруссии и
+Казахстана, в том числе на следующие модули:
 . Model Designer
 . Geology Designer
 . Well Designer
@@ -35,25 +35,25 @@ Kas3axctana, B TOM 4HCIIe Ha CIE AyIOuMe MOJyJIN:
 . Simulation Results
 . Assisted History Matching and Uncertainty Analysis
 . Batch Jobs
-* Remote GUI
-* Manuals
-Buy onpeyessemoii croumocru PbrHouHad CTOMMOCTb
-Heb ouenku Onpexesenne pbIHouHol CTOHMOCTH
-Ha3Hauenne ouenku | Hacrosmmii Oruer MoxkeT ObITb HCMONb30BaH KaK JOKYMeHT, Olpeyes0NHii
-(mpeqnosaraemoe HcH01b30BaHMe | PbIHOUHY!O CTOMMOCTh OOBeEKTa OWCHKH KOHCYJIbTHpOBaHHA 3aka34HKa [WA
-oTuéra 06 omeHke) BO3MO2%KHOYPO 3aKJIIOUCHHA JOFOBOpa LWeccHH (MepeycTynka MpaB)
-Orpannyennsa no Hcno1b30BaHHI0 | Jl~oOoe “Hoe UCTOMb30BaHHe OTYeTAa 00 OL|CHKe, KaK JOKYMeHTA, COJepxKalyero
-oTuéra 06 oneHke CBeJCHHA OKa3aTeIBCTBCHHOrO 3HaYCHHA, BO3MO%KHO TOJIBKO C cormlacns
-Ouenmjuka, BbIpaxKeHHOrO B IMCbMeHHO!i (popMe.
-Jlata oweHKH 09 nexaOpa 2022 roya
+. Remote GUI
+. Manuals
+Вид определяемой стоимости Рыночная стоимость
+Цель оценки Определение рыночной стоимости
+Назначение оценки | Настоящий Отчет может быть использован как документ, определяющий
+(предполагаемое использование | рыночную стоимость объекта оценки консультирования Заказчика для
+отчёта об оценке) возможного заключения договора цессии (переуступка прав)
+Ограничения по использованию | Любое иное использование отчета об оценке, как документа, содержащего
+отчёта 06 оценке сведения доказательственного значения, возможно только с согласия
+Оценщика, выраженного в письменной форме.
+Дата оценки 09 декабря 2022 года
 
-B pe3ybTaTe NpoBexeéHHOTO aHasiM3a MU pacuéToB, OWeHIIMK CBUeTeIbCTBYeT, UTO PbIHOUHAA
-CTOHMOCTb Ha JaTy oueHKH 09 WexaOpa 2022 r. cocraBusia:
+В результате проведённого анализа и расчётов, Оценщик свидетельствует, что рыночная
+стоимость на дату оценки 09 декабря 2022 г. составила:
 
-Ta6nnua 14-2. Hroropas pbrouHad CTOMMOCTh OObeKTA OLW|CHKH.
+Таблица 14-2. Итоговая рыночная стоимость объекта оценки.
 
-Pairmo4nasa CTOHMOCTBL,
+Рыночная стоимость,
 
-Nen/0 | Haumenopanue o6nexra oueHKH B py6.
+№1" | Наименование объекта оценки в руб.
 
 54
