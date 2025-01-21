@@ -73,7 +73,7 @@ This project provides a robust and automated solution for converting PDF files i
 project-root/
 ├── docs/                   # Input folder for PDF files
 ├── processed_output/       # Output folder for converted DOCX files
-├── script.py               # Main script
+├── pdf2docx_convertert.py  # Main script
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 ```
