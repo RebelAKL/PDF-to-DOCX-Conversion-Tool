@@ -55,7 +55,6 @@ This project provides a robust and automated solution for converting PDF files i
    ```
 
 3. Ensure you have the following installed on your system:
-   - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (if OCR functionality is extended in the future)
    - [Poppler](https://poppler.freedesktop.org/) (for `pdf2image` library)
 
 ## Usage
