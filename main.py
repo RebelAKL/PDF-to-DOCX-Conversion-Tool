@@ -65,6 +65,8 @@ def process_pdfs_in_folder(input_folder, output_folder):
 
             if os.path.exists(docx_output):
                 print(f"\n=== Skipping {file_name}: Already Converted to DOCX ===")
+                print("\n=== Cleaning Up Intermediate Files ===")
+                clean_up_folder(output_subfolder)                
                 continue
 
             print(f"\n=== Processing {file_name} ===")
