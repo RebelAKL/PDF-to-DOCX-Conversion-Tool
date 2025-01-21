@@ -45,8 +45,8 @@ This project provides a robust and automated solution for converting PDF files i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-to-docx-conversion.git
-   cd pdf-to-docx-conversion
+   git clone hhttps://github.com/RebelAKL/PDF-to-DOCX-Conversion-Tool.git
+   cd PDF-to-DOCX-Conversion-Tool
    ```
 
 2. Install dependencies:
