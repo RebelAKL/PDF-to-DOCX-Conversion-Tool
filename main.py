@@ -16,10 +16,9 @@ def flatten_pdf(input_pdf, flatten_pdf):
         writer.write(f)
     print(f"Flattened PDF saved at: {flatten_pdf}")
 
-
 def convert_pdf_to_docx(flatten_pdf, output_docx):
     cv = Converter(flatten_pdf)
-    cv.convert(output_docx, start=0, end=None, layout_analysis=True,multi_processing=True)
+    cv.convert(output_docx, start=0, end=None, layout_analysis=True, multi_processing=True)
     cv.close()
     print(f"Converted PDF to DOCX: {output_docx}")
 
@@ -37,8 +36,6 @@ def adjust_docx_margins(docx_file):
     doc.save(docx_file)
     print(f"Margins adjusted for: {docx_file}")
 
-
-
 def fix_table_split(docx_file):
     doc = Document(docx_file)
     for table in doc.tables:
@@ -46,14 +43,13 @@ def fix_table_split(docx_file):
             row.allow_break_across_pages = True
     doc.save(docx_file)
 
-def clean_up_intermediate_files(folders):
-    for folder in folders:
-        if os.path.exists(folder):
-            for file_name in os.listdir(folder):
-                file_path = os.path.join(folder, file_name)
-                os.remove(file_path)
-            os.rmdir(folder)
-            print(f"Removed folder: {folder}")
+def clean_up_folder(folder):
+    if os.path.exists(folder):
+        for file_name in os.listdir(folder):
+            file_path = os.path.join(folder, file_name)
+            os.remove(file_path)
+        os.rmdir(folder)
+        print(f"Removed folder: {folder}")
 
 def process_pdfs_in_folder(input_folder, output_folder):
     os.makedirs(output_folder, exist_ok=True)
@@ -67,6 +63,10 @@ def process_pdfs_in_folder(input_folder, output_folder):
             flattened_pdf = os.path.join(output_subfolder, "flattened.pdf")
             docx_output = os.path.join(output_folder, f"{os.path.splitext(file_name)[0]}.docx")
 
+            if os.path.exists(docx_output):
+                print(f"\n=== Skipping {file_name}: Already Converted to DOCX ===")
+                continue
+
             print(f"\n=== Processing {file_name} ===")
 
             print("\n=== Flattening PDF ===")
@@ -78,9 +78,12 @@ def process_pdfs_in_folder(input_folder, output_folder):
             print("\n=== Adjusting DOCX Formatting ===")
             adjust_docx_formatting(docx_output)
 
+            print("\n=== Cleaning Up Intermediate Files ===")
+            clean_up_folder(output_subfolder)
+
             print(f"\n=== Completed Processing for: {file_name} ===")
 
 if __name__ == "__main__":
-    input_folder = "doc1"  
+    input_folder = "docs"  
     output_folder = "processed_output"  
     process_pdfs_in_folder(input_folder, output_folder)
