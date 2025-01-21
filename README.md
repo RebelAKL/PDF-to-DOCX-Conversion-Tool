@@ -62,7 +62,7 @@ This project provides a robust and automated solution for converting PDF files i
 1. Place your PDF files in the `docs` folder (or any folder of your choice).
 2. Run the script:
    ```bash
-   python script.py
+   python pdf2docx_converter.py
    ```
 3. Specify the input and output folders in the script if different from the defaults:
    - Input Folder: `docs`
