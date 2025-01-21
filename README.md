@@ -1,16 +1,12 @@
 # PDF to Word Converter
 
-This project is a Python module that converts all PDF files in a specified folder to Word documents (.docx). It uses the `pdf2docx` library to ensure high-quality conversion.
-
-## Features
-
 This project provides a comprehensive solution for converting PDF files into well-formatted DOCX documents, focusing on automation, accuracy, and efficient file handling. Below are the high-level features:
 
-Batch Processing of PDFs:
+-Batch Processing of PDFs:
 
 Automatically processes all PDF files within a specified input folder.
 Supports batch conversion, ensuring scalability for handling large datasets.
-PDF Flattening:
+-PDF Flattening:
 
 Prepares PDFs for conversion by flattening layered or interactive PDFs.
 Ensures compatibility and accurate extraction of content.
@@ -18,11 +14,11 @@ PDF to DOCX Conversion:
 
 Converts flattened PDFs into DOCX format with high fidelity.
 Utilizes advanced layout analysis and multiprocessing to ensure precision and performance.
-Formatting Adjustments:
+-Formatting Adjustments:
 
 Margin Adjustment: Sets uniform margins for the converted DOCX files (0.3 inches on all sides).
 Table Handling: Prevents tables from splitting across pages to maintain document readability.
-Duplicate Conversion Prevention:
+-Duplicate Conversion Prevention:
 
 Checks if a PDF has already been converted to DOCX.
 Skips previously processed files, optimizing resource usage and avoiding redundancy.
@@ -30,15 +26,15 @@ Intermediate File Cleanup:
 
 Removes temporary files and folders (e.g., flattened PDFs) created during processing.
 Maintains a clean and organized output directory structure.
-User-Friendly Workflow:
+-User-Friendly Workflow:
 
 Provides detailed console logs for each stage of the process, enabling transparency and easy debugging.
 Clearly indicates the start, progress, and completion of tasks for each PDF file.
-Customizable Input and Output Paths:
+-Customizable Input and Output Paths:
 
 Flexible configuration of input and output folders to adapt to different workflows.
 Automatically creates output directories if they do not exist.
-Error Handling and Robustness:
+-Error Handling and Robustness:
 
 Ensures stable processing even for complex PDFs with varied layouts.
 Gracefully handles scenarios such as missing input files or empty folders.
